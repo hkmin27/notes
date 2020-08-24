@@ -29,7 +29,9 @@ whenever $A_i \in \Sigma, i \geq 1$.
 $$\mu(A) = \lim_{i \to \infty} \mu(A_i) (\text{check})$$
 
 **Definition.** A measure $\mu$ is $\sigma$-finite if there is a countable collection $(A_i)$ such that $\mu(A_i) < \infty$ and $\bigcup_{i=1}^\infty A_i = \Omega$.
+
+**Remark.** If $(\Sigma_\alpha)$ is any collection of fields (respectively $\sigma$-fields) on $\Omega$	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzgwNjc4NDMsLTEwMDYzMjg4MzUsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTY4NDIzODU2MiwtMjAzODA2Nzg0MywtMT
+AwNjMyODgzNSwtMjA4ODc0NjYxMl19
 -->
