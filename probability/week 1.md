@@ -24,7 +24,9 @@ whenever $A_i \in \Sigma, i \geq 1$.
 - $\mu(\phi)=0$
 - $\mu(\bigcup_{i=1}^\infty A_i) = \Sigma_{i=1}^n \mu(A_i)$ for any collection of disjoint elements of $\Sigma$ such that $\bigcup_{i=1}^\infty A_i \in \Sigma$
 - If $\mu(\Omega) = 1$ then $\mu$ is a **probability measure**.
+
+**Remark.** Every measure is continuous from below: if $A_i \subset A_{i+1}, i \geq 1$, and $A := \bigcup_{i=1}^\infty A_i \in Sigma$ then 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDYzMjg4MzUsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMTcwMzA4MjU4MSwtMTAwNjMyODgzNSwtMj
+A4ODc0NjYxMl19
 -->
