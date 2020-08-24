@@ -54,10 +54,12 @@ Claim: $W_A$ is a $\lambda$-system.
 - If $B \in W_A$ then $A \cap B^c = A \setminus (A \cap B) = A \cap (A \cap B)^c = ((A \cap B) \cup A^c)^c \in \rho(\mathcal{P}) \Rightarrow B^c \in W_A$.
 
 Next, if $B_i$'s are disjoint and belong to $W_A$ then 
-$$\left(\bigcup_{i=1}^\infty B_i) \cap A = \bigcup_{i=1}^infty (B_i \cap A)$$
+$$\left(\bigcup_{i=1}^\infty B_i\right) \cap A = \bigcup_{i=1}^\infty (B_i \cap A) \in \rho(\mathcal{P}) \Rightarrow \bigcup_{i=1}^\infty B_i \in W_A$$
+$W_A$ is a $\lambda$-system. 
+1. pick any $A \in \mathcal{P}$. Then fo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4NjcyOTE2LC0xNDMwMTE3NDU0LDE3Mz
-g1NjA1MzcsLTY1MTQ2NTEzNCwtMTQzNzU0OTk4NiwyMTUzNzk4
-NjEsLTIwMzgwNjc4NDMsLTEwMDYzMjg4MzUsLTIwODg3NDY2MT
-JdfQ==
+eyJoaXN0b3J5IjpbMTk0MTkyNTg4MSwtMTQzMDExNzQ1NCwxNz
+M4NTYwNTM3LC02NTE0NjUxMzQsLTE0Mzc1NDk5ODYsMjE1Mzc5
+ODYxLC0yMDM4MDY3ODQzLC0xMDA2MzI4ODM1LC0yMDg4NzQ2Nj
+EyXX0=
 -->
