@@ -20,8 +20,9 @@ $$\Sigma := \{ \bigcup_{i=1}^n A_i: n \in \mathbb{N}, A_1, A_2, ..., A_n \in \ma
 $$\bigcup_{i=i}^{\infty} A_i \in \Sigma$$ 
 whenever $A_i \in \Sigma, i \geq 1$.
 
-**Definition.** Let $\Sigma$ be a field (not necessarily $\sigma$-field)
+**Definition.** Let $\Sigma$ be a field (not necessarily $\sigma$-field). $\mu: Sigma \to \mathbb{R}_+$ is called a **measure** if 
+- $\mu(\phi)=0$
+- $\mu(\bigcup_{i=1}^\infty A_i) = \Sigma_{i=1}^n \mu(A_i)$ for any collection of disjoint
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTg1OTg0MzYsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMTc5MzA1MDA1OCwtMjA4ODc0NjYxMl19
 -->
