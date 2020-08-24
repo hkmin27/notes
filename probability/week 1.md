@@ -58,9 +58,9 @@ $$\left(\bigcup_{i=1}^\infty B_i\right) \cap A = \bigcup_{i=1}^\infty (B_i \cap 
 $W_A$ is a $\lambda$-system. 
 1. pick any $A \in \mathcal{P}$. Then for any $B \in \mathcal{P}$ we have $A \cap B \in \mathcal{P} \Rightarrow A \cap B \in \rho(\mathcal{P}) \Rightarrow B \in W_A \Rightarrow \mathcal{P} \subseteq W_A$ since $\rho(\mathcal{P})$ is the smallest $\lambda$-system containing $\mathcal{P}$, the last assertion implies that $\rho(\mathcal{P}) \subseteq W_A \forall A \in \mathcal{P}$.
 
-Now take any $A \in \mathcal{P}$ and $B \in \rho(\mathcal{P})$. Then $A \cap B \in \rho(\mathcal{P})$ because $B \in W_A$ a
+Now take any $A \in \mathcal{P}$ and $B \in \rho(\mathcal{P})$. Then $A \cap B \in \rho(\mathcal{P})$ because $B \in W_A$ as we showed before. i.e. $A \in W_B \Rightarrow$ for any $B \in \rho(\mathcal{P})$, we have $\mathcal{P} \subseteq W_B \Rightarrow \r
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwNjUzNTcyLC0xNDMwMTE3NDU0LDE3Mz
+eyJoaXN0b3J5IjpbMjYwNTgyOTcwLC0xNDMwMTE3NDU0LDE3Mz
 g1NjA1MzcsLTY1MTQ2NTEzNCwtMTQzNzU0OTk4NiwyMTUzNzk4
 NjEsLTIwMzgwNjc4NDMsLTEwMDYzMjg4MzUsLTIwODg3NDY2MT
 JdfQ==
