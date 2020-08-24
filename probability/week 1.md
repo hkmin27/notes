@@ -30,8 +30,8 @@ $$\mu(A) = \lim_{i \to \infty} \mu(A_i) (\text{check})$$
 
 **Definition.** A measure $\mu$ is $\sigma$-finite if there is a countable collection $(A_i)$ such that $\mu(A_i) < \infty$ and $\bigcup_{i=1}^\infty A_i = \Omega$.
 
-**Remark.** If $(\Sigma_\alpha)$ is any collection of fields (respectively $\sigma$-fields) on $\Omega$	
+**Remark.** If $(\Sigma_\alpha)$ is any collection of fields (respectively $\sigma$-fields) on $\Omega$	then $\Sigma := \bigcap_{\alpha} \Sigma_\alpha$ is also a field (resp. $\sigma$-field).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NDIzODU2MiwtMjAzODA2Nzg0MywtMT
-AwNjMyODgzNSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMjE1Mzc5ODYxLC0yMDM4MDY3ODQzLC0xMD
+A2MzI4ODM1LC0yMDg4NzQ2NjEyXX0=
 -->
