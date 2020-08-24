@@ -59,11 +59,10 @@ $W_A$ is a $\lambda$-system.
 1. pick any $A \in \mathcal{P}$. Then for any $B \in \mathcal{P}$ we have $A \cap B \in \mathcal{P} \Rightarrow A \cap B \in \rho(\mathcal{P}) \Rightarrow B \in W_A \Rightarrow \mathcal{P} \subseteq W_A$ since $\rho(\mathcal{P})$ is the smallest $\lambda$-system containing $\mathcal{P}$, the last assertion implies that $\rho(\mathcal{P}) \subseteq W_A \forall A \in \mathcal{P}$.
 
 Now take any $A \in \mathcal{P}$ and $B \in \rho(\mathcal{P})$. Then $A \cap B \in \rho(\mathcal{P})$ because $B \in W_A$ as we showed before. i.e. $A \in W_B \Rightarrow$ for any $B \in \rho(\mathcal{P})$, we have $\mathcal{P} \subseteq W_B \Rightarrow \rho(B) \subseteq W_B \forall B \in \rho(\mathcal{P})$
-Now pick $C,D \in \rho(\mathcal{P})$. Then $\rho(\mathcal{P}) \subseteq W_C$ i.e. $\forall D \subset \Omega$ such that $C \cap F \in \rho(\mathcal{P})$, we have $F \in W_C$.
-Also, $D \in W_C \Rightarrow $
+Now pick $C,D \in \rho(\mathcal{P})$. Then $\rho(\mathcal{P}) \subseteq W_C$ i.e. $B \in W_C \Rightarrow C \cap D \in \rho(\mathcal{P})$, This completes the proof of theorem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5Mjg1NDY5LC0xNDMwMTE3NDU0LDE3Mz
-g1NjA1MzcsLTY1MTQ2NTEzNCwtMTQzNzU0OTk4NiwyMTUzNzk4
-NjEsLTIwMzgwNjc4NDMsLTEwMDYzMjg4MzUsLTIwODg3NDY2MT
-JdfQ==
+eyJoaXN0b3J5IjpbMjEyODU3MjU0NSwtMTQzMDExNzQ1NCwxNz
+M4NTYwNTM3LC02NTE0NjUxMzQsLTE0Mzc1NDk5ODYsMjE1Mzc5
+ODYxLC0yMDM4MDY3ODQzLC0xMDA2MzI4ODM1LC0yMDg4NzQ2Nj
+EyXX0=
 -->
