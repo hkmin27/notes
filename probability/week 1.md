@@ -1,4 +1,4 @@
-**Definition.** A collection $\mathcal{S}$ of subsets of a set $\Omega$ is called a semi-field if 
+**Definition.** A collection $\mathcal{S}$ of subsets of a set $\Omega$ is called a **semi-field** if 
 - $\phi, \Omega \in \mathcal{S}$
 - $A \cap B \in \mathcal{S}$ whenever $A,B \in \mathcal{S}$
 - If $A \in \mathcal{S}$ then $A^c := \Omega \setminus A$ is a finite disjoint union of elements of $\mathcal{S}$.
@@ -6,7 +6,7 @@
 **e.g.** Let $\mathcal{S}$ be the collection of hyperrectangles in $\mathbb{R}^n$: 
 $$\mathcal{S} = \{ \prod_{i=1}^n(a_i,b_i]: a_i, b_i \in \mathbb{R} \}  \text{(Check it)}$$
 
-**Definition.** A collection $\Sigma$ is a field if
+**Definition.** A collection $\Sigma$ is a **field** if
 - $\phi, \Omega \in \Sigma$
 - $A \cap B \in \Sigma$ whenever $A, B \in \Sigma$
 - $A^c \in \Sigma$ whenever $A \in \Sigma$
@@ -22,7 +22,9 @@ whenever $A_i \in \Sigma, i \geq 1$.
 
 **Definition.** Let $\Sigma$ be a field (not necessarily $\sigma$-field). $\mu: Sigma \to \mathbb{R}_+$ is called a **measure** if 
 - $\mu(\phi)=0$
-- $\mu(\bigcup_{i=1}^\infty A_i) = \Sigma_{i=1}^n \mu(A_i)$ for any collection of disjoint
+- $\mu(\bigcup_{i=1}^\infty A_i) = \Sigma_{i=1}^n \mu(A_i)$ for any collection of disjoint elements of $\Sigma$ such that $\bigcup_{i=1}^\infty A_i \in \Sigma$
+- If $\mu(\Omega) = 1$ then $\mu$ is a **probability measure**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzA1MDA1OCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTEwMDYzMjg4MzUsLTIwODg3NDY2MTJdfQ
+==
 -->
