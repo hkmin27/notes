@@ -56,10 +56,11 @@ Claim: $W_A$ is a $\lambda$-system.
 Next, if $B_i$'s are disjoint and belong to $W_A$ then 
 $$\left(\bigcup_{i=1}^\infty B_i\right) \cap A = \bigcup_{i=1}^\infty (B_i \cap A) \in \rho(\mathcal{P}) \Rightarrow \bigcup_{i=1}^\infty B_i \in W_A$$
 $W_A$ is a $\lambda$-system. 
-1. pick any $A \in \mathcal{P}$. Then for any $B \in \mathcal{P}$ we have $A \cap B \in \mathcal{P} \Rightarrow A \cap B \in \rho(\mathcal{P}) \Rightarrow B \in W_A \Rightarrow P \subseteq W_A$ since $rho(\mathcal{P})$ is the smallest $\lambda$-system containing $\mathcal{P}$
+1. pick any $A \in \mathcal{P}$. Then for any $B \in \mathcal{P}$ we have $A \cap B \in \mathcal{P} \Rightarrow A \cap B \in \rho(\mathcal{P}) \Rightarrow B \in W_A \Rightarrow \mathcal{P} \subseteq W_A$ since $\rho(\mathcal{P})$ is the smallest $\lambda$-system containing $\mathcal{P}$, the last assertion implies that $\rho(\mathcal{P}) \subseteq W_A \forall A \in \mathcal{P}$.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzIzMTEsLTE0MzAxMTc0NTQsMTczOD
-U2MDUzNywtNjUxNDY1MTM0LC0xNDM3NTQ5OTg2LDIxNTM3OTg2
-MSwtMjAzODA2Nzg0MywtMTAwNjMyODgzNSwtMjA4ODc0NjYxMl
-19
+eyJoaXN0b3J5IjpbLTIwMDE4MTI5MjMsLTE0MzAxMTc0NTQsMT
+czODU2MDUzNywtNjUxNDY1MTM0LC0xNDM3NTQ5OTg2LDIxNTM3
+OTg2MSwtMjAzODA2Nzg0MywtMTAwNjMyODgzNSwtMjA4ODc0Nj
+YxMl19
 -->
