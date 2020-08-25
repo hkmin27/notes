@@ -57,9 +57,11 @@ Next, $\overline{\mu}(\phi) = 0$
 Further, check that $\overline{\mu}$ is finitely additive: ($A_i, A_i' \in S$ are disjoint)
 $\overline{\mu}(\cup_{i=1}^n A_i \cup \cup_{i=1}^m A_i') = \sum_{i=1}^n \mu(A_1) + \sum_{i=1}^m \mu(A_i') \leq \overline{\mu}$ is finitely additive. 
 
-Now check that $\overline{\mu}$ is $\sigma$-add. $(A_i)_{i=1}^\infty$ - collection of disjoint element in $
+Now check that $\overline{\mu}$ is $\sigma$-add. $(A_i)_{i=1}^\infty$ - collection of disjoint element in $\overline{S}$ such that $\cup_{i=1}^\infty A_i \in \overline{S}$, $\overline{\mu}(\cup_{i=1}^\infty A_i) \geq \lim_{n\to \infty} \sum_{i=1}^n \overline{\mu}(A_i) = \sum_{i=1}^\infty \overline{\mu}(A_i)$
+
+For the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTE4MjM0ODUsOTM2NTgwMTU0LC03Mz
-U1MDcyMjIsLTgwMjIxNDE2MCwxODM3NjAzNjU4LDE5MzA1MDk4
-MzhdfQ==
+eyJoaXN0b3J5IjpbMzI3NTU5ODExLDkzNjU4MDE1NCwtNzM1NT
+A3MjIyLC04MDIyMTQxNjAsMTgzNzYwMzY1OCwxOTMwNTA5ODM4
+XX0=
 -->
