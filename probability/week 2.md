@@ -19,7 +19,8 @@ $$\mu^*(B) = \mu^*(B \cap \cup_{i=1}^\infty A_i) + \mu^*(B\cap (\cup_{i=1}^\inft
 $$\mu^*(B) \leq \mu^*(B \cap \cup_{i=1}^\infty A_i) + \mu^*(B\cap (\cup_{i=1}^\infty A_i)^c)$$
 
 For every $n$ we have 
-
+$$\mu^*(\cup_{i\leq n} A_i' \cap B), A_n'-measurable$$
+$$= \mu^*(\cup_{i\leq n} A_i' \cap B \cap A_n') + \mu^*(\cup_{i\leq n}A_i' \cap B \cap (A'_n)^c) = \mu^*(B\ca[
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODk0NjE0OF19
+eyJoaXN0b3J5IjpbLTkxNjg4NTI2Ml19
 -->
