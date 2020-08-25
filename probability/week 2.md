@@ -15,7 +15,11 @@ so, $\mu^*$ is finitely additive on $\Sigma$. Then $\mu^*(\bigcup_{i=1}^n A_i) =
 Let $(A_i)_{i=1}^\ifnty$ - sequence of elements from $\Sigma$. Define $A_i' := A_i \setminus \cup_{j<i} A_j$.
 $A_i' \in \Sigma$, disjoint and $\cup_{i=1}^\infty A_i = \cup_{i=1}^\infty A_i'$ Pick $B \subset \Omega$
 We need to check that 
-$$
+$$\mu^*(B) = \mu^*(B \cap \cup_{i=1}^\infty A_i) + \mu^*(B\cap (\cup_{i=1}^\infty A_i)^c)$$
+$$\mu^*(B) \leq \mu^*(B \cap \cup_{i=1}^\infty A_i) + \mu^*(B\cap (\cup_{i=1}^\infty A_i)^c)$$
+
+For every $n$ we have 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2NjY2ODU5XX0=
+eyJoaXN0b3J5IjpbLTI5ODk0NjE0OF19
 -->
