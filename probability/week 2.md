@@ -54,10 +54,10 @@ Define $\overline{\mu}$ as  $\overline{\cup_{i=1}^n A_i) := \sum_{i=1}^n \mu(A_i
 
 First, check that the definition is consistent: if $\cup_{i=1}^n A_i = \cup_{j=1}^m B_j$, $A_i,B_j \in S$ then $\sum_{i=1}^n \mu(A_i) = \sum_{i=1}^n\sum_{i=1}^m \mu(A_i \cap B_j) = \sum_{j=1}^m \mu(B_j)$
 Next, $\overline{\mu}(\phi) = 0$
-Further, check that $\overline{\mu}$ is finitely additive:
-$\overline{\mu}(\cup_{i=1}^n A_i \cup \cup_{i=1}^m A_i') = $
+Further, check that $\overline{\mu}$ is finitely additive: ($A_i, A_i' \in S$ are disjoint)
+$\overline{\mu}(\cup_{i=1}^n A_i \cup \cup_{i=1}^m A_i') = \sum_{i=1}^n \mu(A_1) + \sum_{i=1}^m \mu(A_i') \leq \overline{\mu}$ is finitely additive. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODEwOTIxNyw5MzY1ODAxNTQsLTczNT
+eyJoaXN0b3J5IjpbMTY5MzI0MTM3NCw5MzY1ODAxNTQsLTczNT
 UwNzIyMiwtODAyMjE0MTYwLDE4Mzc2MDM2NTgsMTkzMDUwOTgz
 OF19
 -->
