@@ -42,7 +42,8 @@ $$\mu^*(B) \leq \mu^*(B\cap \cup_{i=1}^\infty A_i) + \mu^*(B\cap (\cup_{i=1}^\in
 ($\Sigma$ = the collection of $\mu^*$-measurable subsets of $\Omega$)
 Indeed, $A \in \Sigma$ with $\mu^*(A)=0$. Pick $B \subset A$. Then $\forall F \subset \Omega$:
 $$\mu^*(F) = \mu^*(F\cap A) + \mu^*(F\cap A^c) \leq \mu^*(A) + \mu^*(F \cap B^c) \leq \mu^*(F \cap B) + \mu^*(F\cap B^c)$$
+$$\leq \mu^*(F\cap A) + \mu^*(F\cap B^c \cap A) + \mu^*(F\cap B^c \cap A^$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDEyNzM3LDE4Mzc2MDM2NTgsMTkzMD
-UwOTgzOF19
+eyJoaXN0b3J5IjpbLTE0Mjk2Mjk1OTIsMTgzNzYwMzY1OCwxOT
+MwNTA5ODM4XX0=
 -->
