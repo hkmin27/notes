@@ -64,8 +64,10 @@ For the opposite inequality, we set
 $$A_i := \bigcup_{j=1}^n A_{i,j}, A_{i,j} all disjoint and belong to S$$
 
 Then $\sum_{i=1}^\infty \overline{\mu}(A_i) = \sum_{i=1}^\infty \sum_{j=1}^{n_i} \mu(A_{i,j})$
+
+Since $A:= \sum_{i=1}^\infty A_i \in 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA5ODQ0NzMsOTM2NTgwMTU0LC03Mz
-U1MDcyMjIsLTgwMjIxNDE2MCwxODM3NjAzNjU4LDE5MzA1MDk4
-MzhdfQ==
+eyJoaXN0b3J5IjpbLTE3NDE1ODAzNzYsLTE4MzA5ODQ0NzMsOT
+M2NTgwMTU0LC03MzU1MDcyMjIsLTgwMjIxNDE2MCwxODM3NjAz
+NjU4LDE5MzA1MDk4MzhdfQ==
 -->
