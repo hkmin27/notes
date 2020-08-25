@@ -61,9 +61,9 @@ Now check that $\overline{\mu}$ is $\sigma$-add. $(A_i)_{i=1}^\infty$ - collecti
 
 For the opposite inequality, we set 
 
-$$A_i := \bigcup_{j=1}^n A_{i,j}, A_{i,j} all disjoint, belong to S$$
+$$A_i := \bigcup_{j=1}^n A_{i,j}, A_{i,j} all disjoint and belong to S$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3MTEyOTkyLDkzNjU4MDE1NCwtNzM1NT
-A3MjIyLC04MDIyMTQxNjAsMTgzNzYwMzY1OCwxOTMwNTA5ODM4
-XX0=
+eyJoaXN0b3J5IjpbLTEyMDY4MDA4NDUsOTM2NTgwMTU0LC03Mz
+U1MDcyMjIsLTgwMjIxNDE2MCwxODM3NjAzNjU4LDE5MzA1MDk4
+MzhdfQ==
 -->
