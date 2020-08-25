@@ -37,6 +37,9 @@ We need to check that
 
 $$\mu^*(B) = \mu^*(B\cap \cup_{i=1}^\infty A_i) + \mu^*(B\cap (\cup_{i=1}^\infty A_i)^c)$$
 $$\mu^*(B) \leq \mu^*(B\cap \cup_{i=1}^\infty A_i) + \mu^*(B\cap (\cup_{i=1}^\infty A_i)^c)$$
+
+**Remark.** $(\Omega, \Sigma, \mu)$ is **complete** if for any $A \in \Sigma$ with $\mu(A)=0$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzYwMzY1OCwxOTMwNTA5ODM4XX0=
+eyJoaXN0b3J5IjpbLTIxMzYzODc4MDAsMTgzNzYwMzY1OCwxOT
+MwNTA5ODM4XX0=
 -->
