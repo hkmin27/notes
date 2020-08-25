@@ -22,6 +22,10 @@ For every $n$ we have
 $$\mu^*(\cup_{i\leq n} A_i' \cap B), A_n'-measurable$$
 $$= \mu^*(\cup_{i\leq n} A_i' \cap B \cap A_n') + \mu^*(\cup_{i\leq n}A_i' \cap B \cap (A'_n)^c) = \mu^*(B\cap A_n') + \mu^*(B\cap \cup_{i\leq n-1} A_i')$$
 $$= \cdots = \sum_{i=1}^n \mu^*(B\cap A_i')$$
+
+#
+
+$$\mu^*(\big
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDUwOTgzOF19
+eyJoaXN0b3J5IjpbMTc4Mjk5NTQ0NywxOTMwNTA5ODM4XX0=
 -->
