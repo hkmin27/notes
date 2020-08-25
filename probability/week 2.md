@@ -31,7 +31,11 @@ $$\mu^*(\cup_{i=1}^\infty A_i \cap B) \leq \lim_{n\to\infty} \mu^*(\cup_{i=1}^\i
 
 at the same time, by monotonicity, 
 $$\{ \mu^*(B\cap (\cup_{i=1}^\infty A_i)^c ) \leq \mu^*(B\cap (\cup_{i=1}^n A_i')^c) \}$$
-$$\Rightarrow \mu^*(B) \leq \lim_{n\to\infty} [\mu^*(\cup_{i=1}^n A_i' \cap B) + \mu^
+$$\Rightarrow \mu^*(B) \leq \lim_{n\to\infty} [\mu^*(\cup_{i=1}^n A_i' \cap B) + \mu^*(B\cap (\cup_{i=1}^n A_i')^c = \lim_{n\to\infty} \mu^*(B)$$
+
+We need to check that 
+
+$$\mu^*(B) = \mu^*(B\cap \cup_{i=1}^\infty A_i) + \mu^*(B\cap (\cup_{i=1}^\infty A_i)$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTA0Nzg0MzcsMTkzMDUwOTgzOF19
+eyJoaXN0b3J5IjpbNDc1ODYxOTUyLDE5MzA1MDk4MzhdfQ==
 -->
