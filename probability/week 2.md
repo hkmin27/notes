@@ -53,7 +53,11 @@ $$\leq \mu^*(F\cap A) + \mu^*(F\cap B^c \cap A) + \mu^*(F\cap B^c \cap A^c) = \m
 Define $\overline{\mu}$ as  $\overline{\cup_{i=1}^n A_i) := \sum_{i=1}^n \mu(A_i), \cup_{i=1}^n A_i \in S$
 
 First, check that the definition is consistent: if $\cup_{i=1}^n A_i = \cup_{j=1}^m B_j$, $A_i,B_j \in S$ then $\sum_{i=1}^n \mu(A_i) = \sum_{i=1}^n\sum_{i=1}^m \mu(A_i \cap B_j) = \sum_{j=1}^m \mu(B_j)$
+Next, $\overline{\mu}(\phi) = 0$
+Further, check that $\overline{\mu}$ is finitely additive:
+$\overline{\mu}(\cup_{i=1}^n A_i \cup \cup_{i=1}^m A_i') = $
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2NTgwMTU0LC03MzU1MDcyMjIsLTgwMj
-IxNDE2MCwxODM3NjAzNjU4LDE5MzA1MDk4MzhdfQ==
+eyJoaXN0b3J5IjpbMTEyODEwOTIxNyw5MzY1ODAxNTQsLTczNT
+UwNzIyMiwtODAyMjE0MTYwLDE4Mzc2MDM2NTgsMTkzMDUwOTgz
+OF19
 -->
