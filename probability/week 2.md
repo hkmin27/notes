@@ -52,8 +52,8 @@ $$\leq \mu^*(F\cap A) + \mu^*(F\cap B^c \cap A) + \mu^*(F\cap B^c \cap A^c) = \m
 **Proof:** Recall that $\overline{S} = \{ \cup_{i=1}^n A_i : A_i's disjoint, belong to S n: any integer \}$
 Define $\overline{\mu}$ as  $\overline{\cup_{i=1}^n A_i) := \sum_{i=1}^n \mu(A_i), \cup_{i=1}^n A_i \in S$
 
-First, check that the definition is consis
+First, check that the definition is consistent: if $\cup_{i=1}^n A_i = \cup_{j=1}^m B_j$, $A_i,B_j \in S$ then $\sum_{i=1}^n \mu(A_i) = \sum_{i=1}^n\su
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjYwNzA3NzgsLTczNTUwNzIyMiwtOD
+eyJoaXN0b3J5IjpbLTIwNTUwMTAyNzksLTczNTUwNzIyMiwtOD
 AyMjE0MTYwLDE4Mzc2MDM2NTgsMTkzMDUwOTgzOF19
 -->
