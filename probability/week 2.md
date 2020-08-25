@@ -35,7 +35,8 @@ $$\Rightarrow \mu^*(B) \leq \lim_{n\to\infty} [\mu^*(\cup_{i=1}^n A_i' \cap B) +
 
 We need to check that 
 
-$$\mu^*(B) = \mu^*(B\cap \cup_{i=1}^\infty A_i) + \mu^*(B\cap (\cup_{i=1}^\infty A_i)$$
+$$\mu^*(B) = \mu^*(B\cap \cup_{i=1}^\infty A_i) + \mu^*(B\cap (\cup_{i=1}^\infty A_i)^c)$$
+$$\mu^*(B) \leq \mu^*(B\cap \cup_{i=1}^\infty A_i) + \mu^*(B\cap (\cup_{i=1}^\infty A_i)^c)$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1ODYxOTUyLDE5MzA1MDk4MzhdfQ==
+eyJoaXN0b3J5IjpbMTgzNzYwMzY1OCwxOTMwNTA5ODM4XX0=
 -->
