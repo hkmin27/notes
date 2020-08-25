@@ -30,7 +30,8 @@ $$\mu^*(\bigcup_{i=1}^\infty A_i \cap B) \leq \lim_{n\to \infty} \sum_{i=1}^n \m
 $$\mu^*(\cup_{i=1}^\infty A_i \cap B) \leq \lim_{n\to\infty} \mu^*(\cup_{i=1}^\infty A_i' \cap B)$$
 
 at the same time, by monotonicity, 
-$$\{  \}$$
+$$\{ \mu^*(B\cap (\cup_{i=1}^\infty A_i)^c ) \leq \mu^*(B\cap (\cup_{i=1}^n A_i')^c) \}$$
+$$\Rightarrow \mu^*(B) \leq \lim_{n\to\infty} [\mu^*(\cup_{i=1}^n A_i' \cap B) + \mu^
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQ0OTc2ODksMTkzMDUwOTgzOF19
+eyJoaXN0b3J5IjpbLTIwNTA0Nzg0MzcsMTkzMDUwOTgzOF19
 -->
