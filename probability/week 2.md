@@ -43,7 +43,10 @@ $$\mu^*(B) \leq \mu^*(B\cap \cup_{i=1}^\infty A_i) + \mu^*(B\cap (\cup_{i=1}^\in
 Indeed, $A \in \Sigma$ with $\mu^*(A)=0$. Pick $B \subset A$. Then $\forall F \subset \Omega$:
 $$\mu^*(F) = \mu^*(F\cap A) + \mu^*(F\cap A^c) \leq \mu^*(A) + \mu^*(F \cap B^c) \leq \mu^*(F \cap B) + \mu^*(F\cap B^c)$$
 $$\leq \mu^*(F\cap A) + \mu^*(F\cap B^c \cap A) + \mu^*(F\cap B^c \cap A^c) = \mu^*(F\cap A)+\mu^*(F\cap A^c) = \mu^*(F) \Rightarrow B\in \Sigma$$
+
+**Theorem.** (Caratheodory) $\Omega$ - non empty set; $S$ - semi field of subsets of $\Omega$ Let $\mu: S \to [0,\infty]$ be a function satisfying 
+- $\mu(\ph
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjIxNDE2MCwxODM3NjAzNjU4LDE5Mz
-A1MDk4MzhdfQ==
+eyJoaXN0b3J5IjpbLTM1MTE2NzY4MCwtODAyMjE0MTYwLDE4Mz
+c2MDM2NTgsMTkzMDUwOTgzOF19
 -->
