@@ -56,8 +56,10 @@ First, check that the definition is consistent: if $\cup_{i=1}^n A_i = \cup_{j=1
 Next, $\overline{\mu}(\phi) = 0$
 Further, check that $\overline{\mu}$ is finitely additive: ($A_i, A_i' \in S$ are disjoint)
 $\overline{\mu}(\cup_{i=1}^n A_i \cup \cup_{i=1}^m A_i') = \sum_{i=1}^n \mu(A_1) + \sum_{i=1}^m \mu(A_i') \leq \overline{\mu}$ is finitely additive. 
+
+Now check that $\overline{\mu}$ is $\sigma$-add. $(A_i)_{i=1}^\infty$ - collection of disjoint element in $
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MzI0MTM3NCw5MzY1ODAxNTQsLTczNT
-UwNzIyMiwtODAyMjE0MTYwLDE4Mzc2MDM2NTgsMTkzMDUwOTgz
-OF19
+eyJoaXN0b3J5IjpbLTE4OTE4MjM0ODUsOTM2NTgwMTU0LC03Mz
+U1MDcyMjIsLTgwMjIxNDE2MCwxODM3NjAzNjU4LDE5MzA1MDk4
+MzhdfQ==
 -->
