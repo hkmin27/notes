@@ -27,7 +27,10 @@ $$= \cdots = \sum_{i=1}^n \mu^*(B\cap A_i')$$
 
 $$\mu^*(\bigcup_{i=1}^\infty A_i \cap B) \leq \lim_{n\to \infty} \sum_{i=1}^n \mu^*(B\cap A_i') (subadditivity of \mu^*)$$
 
-$$\mu^*(\cup_{i=1}^\infty A_i \cap B) \leq \lim_{
+$$\mu^*(\cup_{i=1}^\infty A_i \cap B) \leq \lim_{n\to\infty} \mu^*(\cup_{i=1}^\infty A_i' \cap B)$$
+
+at the same time, by monotonicity, 
+$$\{  \}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTIyNTY5OCwxOTMwNTA5ODM4XX0=
+eyJoaXN0b3J5IjpbLTExNjQ0OTc2ODksMTkzMDUwOTgzOF19
 -->
