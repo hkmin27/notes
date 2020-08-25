@@ -45,8 +45,10 @@ $$\mu^*(F) = \mu^*(F\cap A) + \mu^*(F\cap A^c) \leq \mu^*(A) + \mu^*(F \cap B^c)
 $$\leq \mu^*(F\cap A) + \mu^*(F\cap B^c \cap A) + \mu^*(F\cap B^c \cap A^c) = \mu^*(F\cap A)+\mu^*(F\cap A^c) = \mu^*(F) \Rightarrow B\in \Sigma$$
 
 **Theorem.** (Caratheodory) $\Omega$ - non empty set; $S$ - semi field of subsets of $\Omega$ Let $\mu: S \to [0,\infty]$ be a function satisfying 
-- $\mu(\ph
+- $\mu(\phi) = 0$
+- $\mu(\cup_{i=1}^n A_i) = \sum_{i=1}^n \mu(A_i)$ for any disjoint collection $(A_i)$ in $S$ with $\cup_{i=1}^n A_i \in S$
+- $\mu(\cup_{i=1}^\infty A_i) \leq \sum_{i=1}^\infty \mu (A_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTE2NzY4MCwtODAyMjE0MTYwLDE4Mz
-c2MDM2NTgsMTkzMDUwOTgzOF19
+eyJoaXN0b3J5IjpbNDYzNDMyMDcyLC04MDIyMTQxNjAsMTgzNz
+YwMzY1OCwxOTMwNTA5ODM4XX0=
 -->
