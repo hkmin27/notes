@@ -65,9 +65,9 @@ $$A_i := \bigcup_{j=1}^n A_{i,j}, A_{i,j} all disjoint and belong to S$$
 
 Then $\sum_{i=1}^\infty \overline{\mu}(A_i) = \sum_{i=1}^\infty \sum_{j=1}^{n_i} \mu(A_{i,j})$
 
-Since $A:= \sum_{i=1}^\infty A_i \in \overline{S}$, we have $A = \bigcup_{k=1}^m B_k$ for some disjoint elements $B_k \in S$. Further, since $S$ is closed under taking intersections, and by finite additivity of $\mu$, we have $\sum_{i=1}^\infty \sum_{j=1}%
+Since $A:= \sum_{i=1}^\infty A_i \in \overline{S}$, we have $A = \bigcup_{k=1}^m B_k$ for some disjoint elements $B_k \in S$. Further, since $S$ is closed under taking intersections, and by finite additivity of $\mu$, we have $\sum_{i=1}^\infty \sum_{j=1}^{n_i}\sum_{k=1}^m \mu(A_{i,j} \cap B_k) \geq \sum_{i=1}^m \mu (\cup_{i=1}^\infty \cup_{j=1}^{n_i} A_{i,j} \cap B_k) = \overline{\mu}(A)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzI5NDI3OCwtMTgzMDk4NDQ3Myw5Mz
-Y1ODAxNTQsLTczNTUwNzIyMiwtODAyMjE0MTYwLDE4Mzc2MDM2
-NTgsMTkzMDUwOTgzOF19
+eyJoaXN0b3J5IjpbMTcyMDMxMTM0LC0xODMwOTg0NDczLDkzNj
+U4MDE1NCwtNzM1NTA3MjIyLC04MDIyMTQxNjAsMTgzNzYwMzY1
+OCwxOTMwNTA5ODM4XX0=
 -->
