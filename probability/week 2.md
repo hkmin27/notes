@@ -59,9 +59,11 @@ $\overline{\mu}(\cup_{i=1}^n A_i \cup \cup_{i=1}^m A_i') = \sum_{i=1}^n \mu(A_1)
 
 Now check that $\overline{\mu}$ is $\sigma$-add. $(A_i)_{i=1}^\infty$ - collection of disjoint element in $\overline{S}$ such that $\cup_{i=1}^\infty A_i \in \overline{S}$, $\overline{\mu}(\cup_{i=1}^\infty A_i) \geq \lim_{n\to \infty} \sum_{i=1}^n \overline{\mu}(A_i) = \sum_{i=1}^\infty \overline{\mu}(A_i)$
 
-For the 
+For the opposite inequality, we set 
+
+$$A_i := \bigcup_{j=1}^n A_{i,j}, A_{i,j} all disjoint, belong to S$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI3NTU5ODExLDkzNjU4MDE1NCwtNzM1NT
+eyJoaXN0b3J5IjpbMjI3MTEyOTkyLDkzNjU4MDE1NCwtNzM1NT
 A3MjIyLC04MDIyMTQxNjAsMTgzNzYwMzY1OCwxOTMwNTA5ODM4
 XX0=
 -->
