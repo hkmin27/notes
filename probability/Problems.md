@@ -22,8 +22,9 @@ $$S := \{ \prod_{i=1}^n (a_i,b_i]: -\infty \leq a_1,...,a_n,b_1,...,b_n \leq \in
 
 **Solution.**  We will verify the 3 conditions.
 - $\phi, \Omega \in S$: trivial.
-- $A, B \in S \Rightarrow A \cap B \in S$: $$\bigcup_{i=1}^n A_i \cap \bigcup_{j=1}^m B_j = \bigcup_{i,j=1}^{n,m}(A_i\cap B_j).$$
-- $A \in S \Rightarrow A^c \in S$: trivial. $\square$
+- $A, B \in S \Rightarrow A \cap B \in S$: trivial.
+- $A \in S \Rightarrow A^c$ is a finite union of sets in $S$: $(a_i,b_i]^c = (-\infty,. $\square$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzE2OTExOSwtMTg4ODQ0MzQzNV19
+eyJoaXN0b3J5IjpbLTE1NzYxNTM4NjgsLTE4ODg0NDM0MzVdfQ
+==
 -->
