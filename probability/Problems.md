@@ -14,7 +14,7 @@ $$\begin{aligned}
 $$\{\, \bigcup_{i=1}^n A_i \,|\, n \in \mathbb{N}, A_1, ..., A_n \in S \, \}.$$
 **Solution.**  We will verify the 3 conditions.
 - $\phi, \Omega \in S$: trivial.
-- $A, B \in S \Rightarrow A \cap B \in S$: 
+- $A, B \in S \Rightarrow A \cap B \in S$: $$\bigcup_{i=1}^n A_i \cap \bigcup_{j=1}^m B_j = $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjA2NDMwMywtMTg4ODQ0MzQzNV19
+eyJoaXN0b3J5IjpbMTYzNzA2NTA1MCwtMTg4ODQ0MzQzNV19
 -->
