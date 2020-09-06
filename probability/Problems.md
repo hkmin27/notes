@@ -4,9 +4,9 @@ Now we have
 $$\begin{aligned}
 \mu(\bigcup_{i=1} A_i)&=\sum_{i=1} \mu(A_{i+1} \setminus A_i)\\
 &=\sum_{i=1} (\mu(A_{i+1}) - \mu(A_i))\\
-&=\lim_{i\to\infty}\mu(A_i).
+&=\lim_{i\to\infty}\mu(A_i). \quad \square
 \end{aligned}$$
-$\square$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDA2MDI2NF19
+eyJoaXN0b3J5IjpbLTE4ODg0NDM0MzVdfQ==
 -->
