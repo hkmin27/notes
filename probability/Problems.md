@@ -14,8 +14,10 @@ $$\begin{aligned}
 $$\{\, \bigcup_{i=1}^n A_i \,|\, n \in \mathbb{N}, A_1, ..., A_n \in S \, \}.$$
 **Solution.**  We will verify the 3 conditions.
 - $\phi, \Omega \in S$: trivial.
-- $A, B \in S \Rightarrow A \cap B \in S$: $$\bigcup_{i=1}^n A_i \cap \bigcup_{j=1}^m B_j = \bigcup_{i,j}^{n,m}(A_i\cap B_j).$$
-- $A \in S \Rightarrow A^c \in S$: 
+- $A, B \in S \Rightarrow A \cap B \in S$: $$\bigcup_{i=1}^n A_i \cap \bigcup_{j=1}^m B_j = \bigcup_{i,j=1}^{n,m}(A_i\cap B_j).$$
+- $A \in S \Rightarrow A^c \in S$: trivial. $\square$
+
+**Problem 1.3.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0ODY2Mjg4NSwtMTg4ODQ0MzQzNV19
+eyJoaXN0b3J5IjpbLTY1ODY2NDMwLC0xODg4NDQzNDM1XX0=
 -->
