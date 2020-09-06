@@ -17,9 +17,10 @@ $$\{\, \bigcup_{i=1}^n A_i \,|\, n \in \mathbb{N}, A_1, ..., A_n \in S \, \}.$$
 - $A, B \in S \Rightarrow A \cap B \in S$: $$\bigcup_{i=1}^n A_i \cap \bigcup_{j=1}^m B_j = \bigcup_{i,j=1}^{n,m}(A_i\cap B_j).$$
 - $A \in S \Rightarrow A^c \in S$: trivial. $\square$
 
-**Problem 1.3.** Let $n \geq 1$, and set
-$$S := \{ \Pi_{i=1}^n \} $$
+**Problem 1.3.** Let $n \geq 1$, Show that the following set is a semi-field.
+$$S := \{ \prod_{i=1}^n (a_i,b_i]: -\infty \leq a_1,...,a_n,b_1,...,b_n \leq \infty \}. $$
+
+**Solution.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzI1NzMwMjcsLTE4ODg0NDM0MzVdfQ
-==
+eyJoaXN0b3J5IjpbLTQ4OTUyOTc5NiwtMTg4ODQ0MzQzNV19
 -->
