@@ -17,7 +17,9 @@ $$\{\, \bigcup_{i=1}^n A_i \,|\, n \in \mathbb{N}, A_1, ..., A_n \in S \, \}.$$
 - $A, B \in S \Rightarrow A \cap B \in S$: $$\bigcup_{i=1}^n A_i \cap \bigcup_{j=1}^m B_j = \bigcup_{i,j=1}^{n,m}(A_i\cap B_j).$$
 - $A \in S \Rightarrow A^c \in S$: trivial. $\square$
 
-**Problem 1.3.*
+**Problem 1.3.** Let $n \geq 1$, and set
+$$S := \{ \Pi_{i=1}^n \} $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODY2NDMwLC0xODg4NDQzNDM1XX0=
+eyJoaXN0b3J5IjpbLTE4MzI1NzMwMjcsLTE4ODg0NDM0MzVdfQ
+==
 -->
