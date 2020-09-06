@@ -3,8 +3,10 @@ $$\mu(A) = \mu((A \setminus B) \cup B) = \mu(A \setminus B) + \mu(B).$$
 Now we have
 $$\begin{aligned}
 \mu(\bigcup_{i=1} A_i)&=\sum_{i=1} \mu(A_{i+1} \setminus A_i)\\
-&=\sum \mu(A_{i+1}) - \mu(A_i)
+&=\sum_{i=1} (\mu(A_{i+1}) - \mu(A_i))\\
+&=\lim_{i\to\infty}\mu(A_i).
 \end{aligned}$$
+$\square$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE1NDEwODhdfQ==
+eyJoaXN0b3J5IjpbMTc3MDA2MDI2NF19
 -->
