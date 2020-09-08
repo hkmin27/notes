@@ -25,16 +25,18 @@ $$S := \{ \prod_{i=1}^n (a_i,b_i]: -\infty \leq a_1,...,a_n,b_1,...,b_n \leq \in
 - $A, B \in S \Rightarrow A \cap B \in S$: trivial.
 - $A \in S \Rightarrow A^c$ is a finite union of sets in $S$: $(a_i,b_i]^c = (-\infty,a_i] \cup (b_i,\infty]$. $\square$
 
-**Problem 2.1.** Let $\mu_1$ be the counting measure on $\mathbb{R}$ and $\mu_2(A)=\infty$ except for $A = \phi$.
+**Problem 2.1.** ... 
+**Solution.** Let $\mu_1$ be the counting measure on $\mathbb{R}$ and $\mu_2(A)=\infty$ except for $A = \phi$.
 Since 
-$$\bigcap_{n=1}^\infty 
+$$\bigcap_{n=1}^\infty (a - 1/n, a] = \{a\},$$
+two measures do not coincide. $\square$
 
 **Problem 2.2.** Let $\mathcal{C}=\{\{1,2\}, \{2,3\}\}.$ Clearly $\sigma(\mathcal{C}) = 2^{\{1,2,3,4\}}$. Notice that $\mathcal{C}$ is not a $\pi$-system. Now define $\mu_1, \mu_2$ as follows.
 $$\mu_1(\{i\}) = 1/4,\\\mu_2(\{1\}) = \mu_2(\{3\}) = 1/2,\, \mu_2(\{2\}) = \mu_2(\{4\}) = 0$$
 
 **Problem 2.3.** $\mathcal{L} = \{ \phi, [-1,0], [0,1], (-\infty, -1) \cup (0, \infty), (-\infty, 0) \cup (1, \infty), \mathbb{R} \}$ is a $\lambda$-system. However, it's not a $\sigma$-field. (since $[-1,0]$ and $[0,1]$ intersect)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjMyNjc0ODgsLTE1OTU0MDg0MTYsMT
-MyNzI1OTIyNSwxNDUwOTUzNzg3LC0yMTQ1OTc4MTQ0LDE2MTI4
-MjA4MSwtMTg4ODQ0MzQzNV19
+eyJoaXN0b3J5IjpbNjY0NTI2ODUzLC0xNTk1NDA4NDE2LDEzMj
+cyNTkyMjUsMTQ1MDk1Mzc4NywtMjE0NTk3ODE0NCwxNjEyODIw
+ODEsLTE4ODg0NDM0MzVdfQ==
 -->
