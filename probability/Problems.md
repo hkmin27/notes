@@ -25,8 +25,10 @@ $$S := \{ \prod_{i=1}^n (a_i,b_i]: -\infty \leq a_1,...,a_n,b_1,...,b_n \leq \in
 - $A, B \in S \Rightarrow A \cap B \in S$: trivial.
 - $A \in S \Rightarrow A^c$ is a finite union of sets in $S$: $(a_i,b_i]^c = (-\infty,a_i] \cup (b_i,\infty]$. $\square$
 
-**Problem 2.2.** Let $\mathcal{C}=\{\{1,2\}, \{2,3\}\}.$ Clearly $\sigma{\mathcal{C}} = 2^{\{1,2,3,4\}}$
+**Problem 2.2.** Let $\mathcal{C}=\{\{1,2\}, \{2,3\}\}.$ Clearly $\sigma(\mathcal{C}) = 2^{\{1,2,3,4\}}$. Now define $\mu_1, \mu_2$ as follows.
+$$\mu_1({i}) = 1/4$$
+$$\mu_2({1}) = 1/3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzMxMzk4NCwxNjEyODIwODEsLTE4OD
+eyJoaXN0b3J5IjpbLTk0ODQ1MDE1NSwxNjEyODIwODEsLTE4OD
 g0NDM0MzVdfQ==
 -->
