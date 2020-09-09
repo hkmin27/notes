@@ -13,14 +13,17 @@ Need to **check**: the intersection point $(a_i \cap b_i)$ becomes a cycle in $\
 
 **Check**: $\widehat{\mathcal{L}}(L)$ is an invariant of the oriented Legendrian knot.
 
+#
+
 ### Sutured invariant
+
 
 ### Grid invariant
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwODMzNTE0LDIxMDI0MTc1MTQsLTIxND
-A2Nzk1NTksMTQ0OTQ0NTcxNSwtNDkyNjUxMTkxLDExOTg4Mzcw
-NTUsMjAyMzQwMDg2OCwtMjEyNTkwODUxMiw3NzI4NTM1ODQsMT
-M2ODQwMzQzMiwtMTg4MTgzNzEyOSwxNDM2ODU4NzU0LDczNjk5
-Mjg0NF19
+eyJoaXN0b3J5IjpbMjM5MDM4MDI3LDY4MDgzMzUxNCwyMTAyND
+E3NTE0LC0yMTQwNjc5NTU5LDE0NDk0NDU3MTUsLTQ5MjY1MTE5
+MSwxMTk4ODM3MDU1LDIwMjM0MDA4NjgsLTIxMjU5MDg1MTIsNz
+cyODUzNTg0LDEzNjg0MDM0MzIsLTE4ODE4MzcxMjksMTQzNjg1
+ODc1NCw3MzY5OTI4NDRdfQ==
 -->
