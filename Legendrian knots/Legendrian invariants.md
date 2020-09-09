@@ -7,13 +7,15 @@ Pick a basis $\{b_1,...,b_n\}$ of $H_1(S, \partial S)$ such that $b_1$ is a half
 
 ![dfdfdfdf](https://hkmin27.github.io/etc/LOSS.jpg)
 
+Now set $\alpha_i := a_i
+
 ### Sutured invariant
 
 ### Grid invariant
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTM5MjgxMywxNDQ5NDQ1NzE1LC00OT
-I2NTExOTEsMTE5ODgzNzA1NSwyMDIzNDAwODY4LC0yMTI1OTA4
-NTEyLDc3Mjg1MzU4NCwxMzY4NDAzNDMyLC0xODgxODM3MTI5LD
-E0MzY4NTg3NTQsNzM2OTkyODQ0XX0=
+eyJoaXN0b3J5IjpbLTEzNzA5ODEzODksMTQ0OTQ0NTcxNSwtND
+kyNjUxMTkxLDExOTg4MzcwNTUsMjAyMzQwMDg2OCwtMjEyNTkw
+ODUxMiw3NzI4NTM1ODQsMTM2ODQwMzQzMiwtMTg4MTgzNzEyOS
+wxNDM2ODU4NzU0LDczNjk5Mjg0NF19
 -->
