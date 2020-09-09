@@ -5,7 +5,7 @@ Pick a properly embedded arc $b$ on $S_{1/2}$ intersecting $L$ once. Notice that
 
 Pick a basis $\{b_1,...,b_n\}$ of $H_1(S, \partial S)$ such that $b_1$ is a half meridian of $L$. Perturb $b_i$ to $a_i$ so that $a_i$ and $b_i$ intersect once transversely and $(a_i,b_i)$ forms the orientation of $S$. Place the basepoint $z$ on the region that is not swept out by the isotopies of $b_i$, and put $w$ between $a_1$ and $b_1$ close to the tail of $b_1$.
 
-![dfdfdfdf](https://hkmin27.github.io/etc/LOSS.jpg)
+![dfdfdfdf](https://hkmin27.github.io/etc/LOSS.jpg =x150)
 
 Now set $\alpha_i := \partial (a_i \times [0,1/2])$, $\beta_i := \partial (b_i \times [1/2, 1])$, and $\Sigma := S_{1/2} \cup -S_0$. Then $(-\Sigma, \alpha, \beta)$ is a Heegaard diagram for $-Y$. (confused)
 
@@ -18,8 +18,8 @@ Check: $\widehat{\mathcal{L}}(L)$ is an invariant of the oriented Legendrian kno
 ### Grid invariant
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDA2Nzk1NTksMTQ0OTQ0NTcxNSwtND
-kyNjUxMTkxLDExOTg4MzcwNTUsMjAyMzQwMDg2OCwtMjEyNTkw
-ODUxMiw3NzI4NTM1ODQsMTM2ODQwMzQzMiwtMTg4MTgzNzEyOS
-wxNDM2ODU4NzU0LDczNjk5Mjg0NF19
+eyJoaXN0b3J5IjpbMjEwMjQxNzUxNCwtMjE0MDY3OTU1OSwxND
+Q5NDQ1NzE1LC00OTI2NTExOTEsMTE5ODgzNzA1NSwyMDIzNDAw
+ODY4LC0yMTI1OTA4NTEyLDc3Mjg1MzU4NCwxMzY4NDAzNDMyLC
+0xODgxODM3MTI5LDE0MzY4NTg3NTQsNzM2OTkyODQ0XX0=
 -->
