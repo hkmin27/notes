@@ -7,7 +7,7 @@ Pick a basis $\{b_1,...,b_n\}$ of $H_1(S, \partial S)$ such that $b_1$ is a half
 
 ![dfdfdfdf](https://hkmin27.github.io/etc/LOSS.jpg =x150)
 
-Now set $\alpha_i := \partial (a_i \times [0,1/2])$, $\beta_i := \partial (b_i \times [1/2, 1])$, and $\Sigma := S_{1/2} \cup -S_0$. Then $(-\Sigma, \alpha, \beta)$ is a Heegaard diagram for $-Y$. (confused)
+Now set $\alpha_i := \partial (a_i \times [0,1/2])$, $\beta_i := \partial (b_i \times [1/2, 1])$, and $\Sigma := S_{1/2} \cup -S_0$. Then $(-\Sigma, \alpha, \beta)$ is a Heegaard diagram for $-Y$. **(confused)**
 
 Need to **check**: the intersection point $(a_i \cap b_i)$ becomes a cycle in $\widehat{CFK}(-\Sigma,\alpha,\beta,z,w)$.
 
@@ -18,9 +18,9 @@ Need to **check**: the intersection point $(a_i \cap b_i)$ becomes a cycle in $\
 ### Grid invariant
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTM1NzM1MjYsMjEwMjQxNzUxNCwtMj
-E0MDY3OTU1OSwxNDQ5NDQ1NzE1LC00OTI2NTExOTEsMTE5ODgz
-NzA1NSwyMDIzNDAwODY4LC0yMTI1OTA4NTEyLDc3Mjg1MzU4NC
-wxMzY4NDAzNDMyLC0xODgxODM3MTI5LDE0MzY4NTg3NTQsNzM2
-OTkyODQ0XX0=
+eyJoaXN0b3J5IjpbNjgwODMzNTE0LDIxMDI0MTc1MTQsLTIxND
+A2Nzk1NTksMTQ0OTQ0NTcxNSwtNDkyNjUxMTkxLDExOTg4Mzcw
+NTUsMjAyMzQwMDg2OCwtMjEyNTkwODUxMiw3NzI4NTM1ODQsMT
+M2ODQwMzQzMiwtMTg4MTgzNzEyOSwxNDM2ODU4NzU0LDczNjk5
+Mjg0NF19
 -->
