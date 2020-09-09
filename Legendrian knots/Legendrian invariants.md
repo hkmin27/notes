@@ -1,5 +1,5 @@
 ### LOSS invariant
-Consider an oriented, null-homologous Legendrian knot $L \subset (Y,\xi)$. Then there is an open book decomposition  $(S,\phi)$ compatible with $(Y,\xi)$ such that $L$ sits on $S_{1/2}$ in a homologically essential way. (Why?)
+Consider an oriented, null-homologous Legendrian knot $L \subset (Y,\xi)$. Then there is an open book decomposition  $(S,\phi)$ compatible with $(Y,\xi)$ such that $L$ sits on $S_{1/2}$ in a homologically essential way. **(Why?)**
 
 Pick a properly embedded arc $b$ on $S_{1/2}$ intersecting $L$ once. Notice that the disc $D := b \times [0,1]$ is isotopic to a meridional disk of $L$. Orient $b$ so that the boundary orientation of $D$: $b \times \{1\} \cup -b \times \{0\}$ coincides the natural orientation of a meridian of $L$.  Call such $b$ a **half meridian of $L$**.
 
@@ -9,17 +9,18 @@ Pick a basis $\{b_1,...,b_n\}$ of $H_1(S, \partial S)$ such that $b_1$ is a half
 
 Now set $\alpha_i := \partial (a_i \times [0,1/2])$, $\beta_i := \partial (b_i \times [1/2, 1])$, and $\Sigma := S_{1/2} \cup -S_0$. Then $(-\Sigma, \alpha, \beta)$ is a Heegaard diagram for $-Y$. (confused)
 
-Need to check: the intersection point $(a_i \cap b_i)$ becomes a cycle in $\widehat{CFK}(-\Sigma,\alpha,\beta,z,w)$.
+Need to **check**: the intersection point $(a_i \cap b_i)$ becomes a cycle in $\widehat{CFK}(-\Sigma,\alpha,\beta,z,w)$.
 
-Check: $\widehat{\mathcal{L}}(L)$ is an invariant of the oriented Legendrian knot.
+**Check**: $\widehat{\mathcal{L}}(L)$ is an invariant of the oriented Legendrian knot.
 
 ### Sutured invariant
 
 ### Grid invariant
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjQxNzUxNCwtMjE0MDY3OTU1OSwxND
-Q5NDQ1NzE1LC00OTI2NTExOTEsMTE5ODgzNzA1NSwyMDIzNDAw
-ODY4LC0yMTI1OTA4NTEyLDc3Mjg1MzU4NCwxMzY4NDAzNDMyLC
-0xODgxODM3MTI5LDE0MzY4NTg3NTQsNzM2OTkyODQ0XX0=
+eyJoaXN0b3J5IjpbLTE1MTM1NzM1MjYsMjEwMjQxNzUxNCwtMj
+E0MDY3OTU1OSwxNDQ5NDQ1NzE1LC00OTI2NTExOTEsMTE5ODgz
+NzA1NSwyMDIzNDAwODY4LC0yMTI1OTA4NTEyLDc3Mjg1MzU4NC
+wxMzY4NDAzNDMyLC0xODgxODM3MTI5LDE0MzY4NTg3NTQsNzM2
+OTkyODQ0XX0=
 -->
