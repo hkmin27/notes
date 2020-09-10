@@ -5,7 +5,10 @@ Thus we have the gluing maps
 $$\phi_-: SFH(-Y(K), -\Gamma_i) \to SFH(-Y(K), -\Gamma_{i+1}),\\
 	\psi_+:SFH(-Y(K), -\Gamma_i) \to SFH(-Y(K), -\Gamma_{i+1})$$
 induced by $\xi_-$ and $\xi_+$ respectively.
+
+Taking the direct limit of the above sequence on thickened tori, 
+$$\underline{SFH}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDc4NzExNTMsLTE1MTQ4NjcyODcsOT
-Q0NjA5OTM3LC0zMjkxNjU1NTZdfQ==
+eyJoaXN0b3J5IjpbMTMxMTI2OTI5OSwtMTMwNzg3MTE1MywtMT
+UxNDg2NzI4Nyw5NDQ2MDk5MzcsLTMyOTE2NTU1Nl19
 -->
