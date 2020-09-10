@@ -19,9 +19,12 @@ The group $\underrightarrow{SFH}(-Y,K)$ can be given the structure of $\mathbb{F
 $$I_-: \underrightarrow{SFH}(-Y,K) \to HFK^-(-Y,K).$$
 **(why do we need null-homologous cond?)**
 
+### Legendrian invariant
 
+
+### Inverse limit invariant
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1NDYyMzM3LDE4MjkxMDM0MCwtMTMwNz
-g3MTE1MywtMTUxNDg2NzI4Nyw5NDQ2MDk5MzcsLTMyOTE2NTU1
-Nl19
+eyJoaXN0b3J5IjpbLTY5MTA4OTMwMyw0NjU0NjIzMzcsMTgyOT
+EwMzQwLC0xMzA3ODcxMTUzLC0xNTE0ODY3Mjg3LDk0NDYwOTkz
+NywtMzI5MTY1NTU2XX0=
 -->
