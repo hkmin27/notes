@@ -37,8 +37,9 @@ Now, let $\Gamma_i$ be a pair of sutures on $\partial Y(K)$ of slope $i$. In thi
 $$\underleftarrow{SFH}(-Y,K)$$
 
 **Theorem.** Let $K \subset Y$ be a null-homologous knot. Then there exists an isomorphism of bigraded $\mathbb{F}[U]$-modules
+$$I_+: \underleftarrow{SFH}(-Y,K) \to HFK^+(-Y,K).$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTA2OTgyOCw0NjU0NjIzMzcsMTgyOT
-EwMzQwLC0xMzA3ODcxMTUzLC0xNTE0ODY3Mjg3LDk0NDYwOTkz
-NywtMzI5MTY1NTU2XX0=
+eyJoaXN0b3J5IjpbLTIwODIxMTgxODEsNDY1NDYyMzM3LDE4Mj
+kxMDM0MCwtMTMwNzg3MTE1MywtMTUxNDg2NzI4Nyw5NDQ2MDk5
+MzcsLTMyOTE2NTU1Nl19
 -->
