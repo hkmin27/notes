@@ -1,5 +1,5 @@
 ### Limit invariant
-Consider a knot $K$ in a 3-manifold $Y$. 
+Consider a knot $K$ in a 3-manifold $Y$. Denote the knot complement $Y(K) := \overY \setminus N(K)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTE2NTU1Nl19
+eyJoaXN0b3J5IjpbMjA0NzcxNjMyNywtMzI5MTY1NTU2XX0=
 -->
