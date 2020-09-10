@@ -15,9 +15,11 @@ $$\Psi: \underrightarrow{SFH}(-Y,K) \to \underrightarrow{SFH}(-Y,K).$$
 
 The group $\underrightarrow{SFH}(-Y,K)$ can be given the structure of $\mathbb{F}[U]$-module, where $U$ acts by $\Psi$. **why?**
 
-**Theorem.** Let $K \subset Y$ be a 
+**Theorem.** Let $K \subset Y$ be a null-homologous knot. Then there exists an isomorphism of bigraded $\mathbb{F}[U]$-modules
+$$I_-: \underrightarrow{SFH}(-Y,K) \to HFK^-(-Y,K).$$
+**why do we need null-homologous cond?**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDY2NTE5NSwxODI5MTAzNDAsLTEzMD
-c4NzExNTMsLTE1MTQ4NjcyODcsOTQ0NjA5OTM3LC0zMjkxNjU1
-NTZdfQ==
+eyJoaXN0b3J5IjpbLTEzMzA3NTMyNjEsMTgyOTEwMzQwLC0xMz
+A3ODcxMTUzLC0xNTE0ODY3Mjg3LDk0NDYwOTkzNywtMzI5MTY1
+NTU2XX0=
 -->
