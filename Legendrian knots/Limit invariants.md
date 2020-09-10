@@ -4,12 +4,14 @@ Consider a knot $K$ in a closed 3-manifold $Y$. Let $Y(K)$ be the knot complemen
 Thus we have a gluing map induced by $\xi_-$.
 $$\phi_-: SFH(-Y(K), -\Gamma_i) \to SFH(-Y(K), -\Gamma_{i+1}).$$
 
-Taking the direct limit of the above sequence of groups and we have 
+Taking the direct limit of the above sequence of groups, we obtain *the sutured limit homology of $K$*.
 $$\underrightarrow{SFH}(-Y,K) := \underrightarrow{\lim}SFH(-Y(K),-\Gamma_i).$$
 
 We also have another gluing map induced by $\xi_+$.
-$$\psi_+:SFH(-Y(K), -\Gamma_i) \to SFH(-Y(K), -\Gamma_{i+1})$$
+$$\psi_+:SFH(-Y(K), -\Gamma_i) \to SFH(-Y(K), -\Gamma_{i+1}).$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTUxNDYzMDgsLTEzMDc4NzExNTMsLT
-E1MTQ4NjcyODcsOTQ0NjA5OTM3LC0zMjkxNjU1NTZdfQ==
+eyJoaXN0b3J5IjpbMTg3NTQyOTIyNiwtMTMwNzg3MTE1MywtMT
+UxNDg2NzI4Nyw5NDQ2MDk5MzcsLTMyOTE2NTU1Nl19
 -->
