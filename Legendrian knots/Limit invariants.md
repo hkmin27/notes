@@ -27,11 +27,13 @@ $$\phi_-(EH(K_i)) = EH(K_{i+1})$$
 
 $$\underrightarrow{EH}(K) \in \underrightarrow{SFH}(-Y,K)$$
 
-**Theorem.** Let $K \subset (Y, \xi)$ be a null-homologous Legendrian knot. Then 
+**Theorem.** Let $K \subset (Y, \xi)$ be a null-homologous Legendrian knot. Then the isomorphism 
+$$I_-: \underrightarrow{SFH}(-Y,K) \to HFK^-(-Y,K)$$
+identifies $EH(K)$ and $\mathcal{L}(K)$
 
 ### Inverse limit invariant
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjQzMDE4OCw0NjU0NjIzMzcsMTgyOT
-EwMzQwLC0xMzA3ODcxMTUzLC0xNTE0ODY3Mjg3LDk0NDYwOTkz
-NywtMzI5MTY1NTU2XX0=
+eyJoaXN0b3J5IjpbNDIyMjgyMjU3LDQ2NTQ2MjMzNywxODI5MT
+AzNDAsLTEzMDc4NzExNTMsLTE1MTQ4NjcyODcsOTQ0NjA5OTM3
+LC0zMjkxNjU1NTZdfQ==
 -->
