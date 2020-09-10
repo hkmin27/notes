@@ -10,8 +10,11 @@ $$\underrightarrow{SFH}(-Y,K) := \underrightarrow{\lim}SFH(-Y(K),-\Gamma_i).$$
 We also have another gluing map induced by $\xi_+$.
 $$\psi_+:SFH(-Y(K), -\Gamma_i) \to SFH(-Y(K), -\Gamma_{i+1}).$$
 
+We will **show** that the maps induce a well-defined map
+$$\Psi: \underrightarrow{SFH}(-Y,K) \to \underrightarrow{SFH}(-Y,K).$$
 
+The group $\underrightarrow{SFH}(-Y,K)$ can be 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTQyOTIyNiwtMTMwNzg3MTE1MywtMT
+eyJoaXN0b3J5IjpbLTQyOTgzNjgxNSwtMTMwNzg3MTE1MywtMT
 UxNDg2NzI4Nyw5NDQ2MDk5MzcsLTMyOTE2NTU1Nl19
 -->
