@@ -38,8 +38,10 @@ $$\underleftarrow{SFH}(-Y,K)$$
 
 **Theorem.** Let $K \subset Y$ be a null-homologous knot. Then there exists an isomorphism of bigraded $\mathbb{F}[U]$-modules
 $$I_+: \underleftarrow{SFH}(-Y,K) \to HFK^+(-Y,K).$$
+
+We can also define the Legendrian invariant of $\underleftarrow{EH}(K) \in \underleftarrow
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODIxMTgxODEsNDY1NDYyMzM3LDE4Mj
-kxMDM0MCwtMTMwNzg3MTE1MywtMTUxNDg2NzI4Nyw5NDQ2MDk5
-MzcsLTMyOTE2NTU1Nl19
+eyJoaXN0b3J5IjpbMTM0NTgwNzc4NCwtMjA4MjExODE4MSw0Nj
+U0NjIzMzcsMTgyOTEwMzQwLC0xMzA3ODcxMTUzLC0xNTE0ODY3
+Mjg3LDk0NDYwOTkzNywtMzI5MTY1NTU2XX0=
 -->
