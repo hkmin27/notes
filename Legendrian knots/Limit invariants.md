@@ -7,8 +7,8 @@ $$\phi_-: SFH(-Y(K), -\Gamma_i) \to SFH(-Y(K), -\Gamma_{i+1}),\\
 induced by $\xi_-$ and $\xi_+$ respectively.
 
 Taking the direct limit of the above sequence on thickened tori, 
-$$\underline{SFH}$$
+$$\underrightarrow{SFH}(-Y,K) := \underrightarrow{\lim}SFH(-Y(K),-\Gamma_i).$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTI2OTI5OSwtMTMwNzg3MTE1MywtMT
+eyJoaXN0b3J5IjpbMTk5NDc1MDA4OCwtMTMwNzg3MTE1MywtMT
 UxNDg2NzI4Nyw5NDQ2MDk5MzcsLTMyOTE2NTU1Nl19
 -->
