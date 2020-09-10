@@ -1,5 +1,5 @@
 ### Limit invariant
-a
+Let $K$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MzI3MzQ2N119
+eyJoaXN0b3J5IjpbLTc3NTgwMjE5Ml19
 -->
