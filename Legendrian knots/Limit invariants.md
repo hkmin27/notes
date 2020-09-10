@@ -1,5 +1,5 @@
 ### Limit invariant
-Let $K$ 
+Consider a knot $K$ in a 3-manifold $Y$. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTgwMjE5Ml19
+eyJoaXN0b3J5IjpbLTMyOTE2NTU1Nl19
 -->
