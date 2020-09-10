@@ -30,12 +30,12 @@ $$\underrightarrow{EH}(K) \in \underrightarrow{SFH}(-Y,K)$$
 **Theorem.** Let $K \subset (Y, \xi)$ be a null-homologous Legendrian knot. Then the isomorphism 
 $$I_-: \underrightarrow{SFH}(-Y,K) \to HFK^-(-Y,K)$$
 
-identifies $EH(K)$ and $\mathcal{L}(K)$
+identifies $\underrightarrow{EH}(K)$ and $\mathcal{L}(K)$
 
 ### Inverse limit invariant
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzQ2ODg4MSw0NjU0NjIzMzcsMTgyOT
+eyJoaXN0b3J5IjpbLTkzMDQ4NTQ2MCw0NjU0NjIzMzcsMTgyOT
 EwMzQwLC0xMzA3ODcxMTUzLC0xNTE0ODY3Mjg3LDk0NDYwOTkz
 NywtMzI5MTY1NTU2XX0=
 -->
