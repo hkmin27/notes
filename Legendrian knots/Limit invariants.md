@@ -33,9 +33,11 @@ $$I_-: \underrightarrow{SFH}(-Y,K) \to HFK^-(-Y,K)$$
 identifies $\underrightarrow{EH}(K)$ and $\mathcal{L}(K)$
 
 ### Inverse limit invariant
-Now, let $\Gamma_i$ be a pair of sutures on $\partial Y(K)$ of slope $i$. 
+Now, let $\Gamma_i$ be a pair of sutures on $\partial Y(K)$ of slope $i$. In this case, we can define an inverse limit invariant
+$$\underleftarrow{SFH}(-Y,K)$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDI5MzA5Miw0NjU0NjIzMzcsMTgyOT
+eyJoaXN0b3J5IjpbMjEwODA0MTM1MSw0NjU0NjIzMzcsMTgyOT
 EwMzQwLC0xMzA3ODcxMTUzLC0xNTE0ODY3Mjg3LDk0NDYwOTkz
 NywtMzI5MTY1NTU2XX0=
 -->
