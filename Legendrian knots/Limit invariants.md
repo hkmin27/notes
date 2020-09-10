@@ -36,8 +36,9 @@ identifies $\underrightarrow{EH}(K)$ and $\mathcal{L}(K)$
 Now, let $\Gamma_i$ be a pair of sutures on $\partial Y(K)$ of slope $i$. In this case, we can define an inverse limit invariant
 $$\underleftarrow{SFH}(-Y,K)$$
 
+**Theorem.** Let $K \subset Y$ be a null-homologous knot. Then there exists an isomorphism of bigraded $\mathbb{F}[U]$-modules
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwODA0MTM1MSw0NjU0NjIzMzcsMTgyOT
+eyJoaXN0b3J5IjpbMTAzNTA2OTgyOCw0NjU0NjIzMzcsMTgyOT
 EwMzQwLC0xMzA3ODcxMTUzLC0xNTE0ODY3Mjg3LDk0NDYwOTkz
 NywtMzI5MTY1NTU2XX0=
 -->
