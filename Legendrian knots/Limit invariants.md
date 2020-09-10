@@ -14,7 +14,10 @@ We will **show** that the maps induce a well-defined map
 $$\Psi: \underrightarrow{SFH}(-Y,K) \to \underrightarrow{SFH}(-Y,K).$$
 
 The group $\underrightarrow{SFH}(-Y,K)$ can be given the structure of $\mathbb{F}[U]$-module, where $U$ acts by $\Psi$. **why?**
+
+**Theorem.** Let $K \subset Y$ be a 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTEwMzQwLC0xMzA3ODcxMTUzLC0xNT
-E0ODY3Mjg3LDk0NDYwOTkzNywtMzI5MTY1NTU2XX0=
+eyJoaXN0b3J5IjpbLTM3NDY2NTE5NSwxODI5MTAzNDAsLTEzMD
+c4NzExNTMsLTE1MTQ4NjcyODcsOTQ0NjA5OTM3LC0zMjkxNjU1
+NTZdfQ==
 -->
