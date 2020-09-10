@@ -21,10 +21,14 @@ $$I_-: \underrightarrow{SFH}(-Y,K) \to HFK^-(-Y,K).$$
 
 ### Legendrian invariant
 
+$$EH(K_i) \in SFH(-Y(K),-\Gamma_i)$$
+
+$$\phi_-(EH(K_i)) = EH(K_{i+1})$$
+
 
 ### Inverse limit invariant
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTA4OTMwMyw0NjU0NjIzMzcsMTgyOT
-EwMzQwLC0xMzA3ODcxMTUzLC0xNTE0ODY3Mjg3LDk0NDYwOTkz
-NywtMzI5MTY1NTU2XX0=
+eyJoaXN0b3J5IjpbODg1NDYwMDc2LDQ2NTQ2MjMzNywxODI5MT
+AzNDAsLTEzMDc4NzExNTMsLTE1MTQ4NjcyODcsOTQ0NjA5OTM3
+LC0zMjkxNjU1NTZdfQ==
 -->
