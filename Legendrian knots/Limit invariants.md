@@ -4,12 +4,12 @@ Consider a knot $K$ in a closed 3-manifold $Y$. Let $Y(K)$ be the knot complemen
 Thus we have a gluing map induced by $\xi_-$.
 $$\phi_-: SFH(-Y(K), -\Gamma_i) \to SFH(-Y(K), -\Gamma_{i+1}).$$
 
-Taking the direct limit of the above sequence on thickened tori, 
+Taking the direct limit of the above sequence of groups and we have 
 $$\underrightarrow{SFH}(-Y,K) := \underrightarrow{\lim}SFH(-Y(K),-\Gamma_i).$$
 
 We also have another gluing map induced by $\xi_+$.
 $$\psi_+:SFH(-Y(K), -\Gamma_i) \to SFH(-Y(K), -\Gamma_{i+1})$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM3MzMxMjYsLTEzMDc4NzExNTMsLT
+eyJoaXN0b3J5IjpbLTE1OTUxNDYzMDgsLTEzMDc4NzExNTMsLT
 E1MTQ4NjcyODcsOTQ0NjA5OTM3LC0zMjkxNjU1NTZdfQ==
 -->
