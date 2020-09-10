@@ -13,13 +13,15 @@ $$\psi_+:SFH(-Y(K), -\Gamma_i) \to SFH(-Y(K), -\Gamma_{i+1}).$$
 We will **show** that the maps induce a well-defined map
 $$\Psi: \underrightarrow{SFH}(-Y,K) \to \underrightarrow{SFH}(-Y,K).$$
 
-The group $\underrightarrow{SFH}(-Y,K)$ can be given the structure of $\mathbb{F}[U]$-module, where $U$ acts by $\Psi$. **why?**
+The group $\underrightarrow{SFH}(-Y,K)$ can be given the structure of $\mathbb{F}[U]$-module, where $U$ acts by $\Psi$. **(why?)**
 
 **Theorem.** Let $K \subset Y$ be a null-homologous knot. Then there exists an isomorphism of bigraded $\mathbb{F}[U]$-modules
 $$I_-: \underrightarrow{SFH}(-Y,K) \to HFK^-(-Y,K).$$
-**why do we need null-homologous cond?**
+**(why do we need null-homologous cond?)**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzA3NTMyNjEsMTgyOTEwMzQwLC0xMz
-A3ODcxMTUzLC0xNTE0ODY3Mjg3LDk0NDYwOTkzNywtMzI5MTY1
-NTU2XX0=
+eyJoaXN0b3J5IjpbNDY1NDYyMzM3LDE4MjkxMDM0MCwtMTMwNz
+g3MTE1MywtMTUxNDg2NzI4Nyw5NDQ2MDk5MzcsLTMyOTE2NTU1
+Nl19
 -->
