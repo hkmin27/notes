@@ -25,10 +25,13 @@ $$EH(K_i) \in SFH(-Y(K),-\Gamma_i)$$
 
 $$\phi_-(EH(K_i)) = EH(K_{i+1})$$
 
+$$\underrightarrow{EH}(K) \in \underrightarrow{SFH}(-Y,K)$$
+
+**Theorem.** Let $K \subset (Y, \xi)$ be a null-homologous Legendrian knot. Then 
 
 ### Inverse limit invariant
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1NDYwMDc2LDQ2NTQ2MjMzNywxODI5MT
-AzNDAsLTEzMDc4NzExNTMsLTE1MTQ4NjcyODcsOTQ0NjA5OTM3
-LC0zMjkxNjU1NTZdfQ==
+eyJoaXN0b3J5IjpbLTQyMjQzMDE4OCw0NjU0NjIzMzcsMTgyOT
+EwMzQwLC0xMzA3ODcxMTUzLC0xNTE0ODY3Mjg3LDk0NDYwOTkz
+NywtMzI5MTY1NTU2XX0=
 -->
