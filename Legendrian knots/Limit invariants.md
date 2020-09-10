@@ -13,8 +13,8 @@ $$\psi_+:SFH(-Y(K), -\Gamma_i) \to SFH(-Y(K), -\Gamma_{i+1}).$$
 We will **show** that the maps induce a well-defined map
 $$\Psi: \underrightarrow{SFH}(-Y,K) \to \underrightarrow{SFH}(-Y,K).$$
 
-The group $\underrightarrow{SFH}(-Y,K)$ can be 
+The group $\underrightarrow{SFH}(-Y,K)$ can be given the structure of $\mathbb{F}[U]$-module, where $U$ acts by $\Psi$. **why?**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTgzNjgxNSwtMTMwNzg3MTE1MywtMT
-UxNDg2NzI4Nyw5NDQ2MDk5MzcsLTMyOTE2NTU1Nl19
+eyJoaXN0b3J5IjpbMTgyOTEwMzQwLC0xMzA3ODcxMTUzLC0xNT
+E0ODY3Mjg3LDk0NDYwOTkzNywtMzI5MTY1NTU2XX0=
 -->
