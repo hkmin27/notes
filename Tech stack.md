@@ -5,12 +5,11 @@ Math
 - geometric flow, holomorphic curves
 - misc
 	- MCG
-	- Alg top
-
+	- obstruction theory
 
 Programming
 - Python
 - Clojure
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDg1MTAwNV19
+eyJoaXN0b3J5IjpbMzUwMzA2NzQzXX0=
 -->
