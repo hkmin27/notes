@@ -1,15 +1,12 @@
 Math
 - 3-dimensional contact topology 
 - Heegaard Floer homology
+- high dimensional convex surfaces
 - Kirby calculus
-- high dimensional covex surfaces
 - geometric flow, holomorphic curves
-- misc
-	- MCG
-	- obstruction theory
 
 Programming
 - Clojure
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3Mzg2MDE2NSwtMTk3MTg1NTk4Nl19
+eyJoaXN0b3J5IjpbMTk3NDQzMjA2MiwtMTk3MTg1NTk4Nl19
 -->
