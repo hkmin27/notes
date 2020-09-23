@@ -1,5 +1,5 @@
 **Problem 1.1.** Show that any measure $\mu$ is continuous from below, in the sense that for any collection of measurable sets $(A_i)_{i=1}^\infty$ such that $A_i \subset A_{i+1}$, $i \geq 1$, we have
-$$\mu(\bigcup_{i=1} A_i)= \lim_{i \to \infty} A_i.$$
+$$\mu(\bigcup_{i=1} A_i)= \lim_{i \to \infty} \mu(A_i).$$
 
 **Solution.** We first claim that if $A \subset B$, then $\mu(A \setminus B) = \mu(A) - \mu(B)$.  It is clear from the equality 
 $$\mu(A) = \mu((A \setminus B) \cup B) = \mu(A \setminus B) + \mu(B).$$
@@ -36,5 +36,5 @@ $$\mu_1(\{i\}) = 1/4,\\\mu_2(\{1\}) = \mu_2(\{3\}) = 1/2,\, \mu_2(\{2\}) = \mu_2
 
 **Problem 2.3.** $\mathcal{L} = \{ \phi, [-1,0], [0,1], (-\infty, -1) \cup (0, \infty), (-\infty, 0) \cup (1, \infty), \mathbb{R} \}$ is a $\lambda$-system. However, it's not a $\sigma$-field. (since $[-1,0]$ and $[0,1]$ intersect)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY0NTI2ODUzXX0=
+eyJoaXN0b3J5IjpbNjMzNjA3NTM4LDY2NDUyNjg1M119
 -->
