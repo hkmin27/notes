@@ -13,11 +13,12 @@ If $a_i \to \infty$ for all $i$, then we can find a monotone increasing subseque
  
  **Problem 5.3** Prove that a random variable X is subexponential if and only if
 
-$$\sup{(\mathbb{E}|X|^p)}$$
+$$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{p}} < \infty$$
 
 Similarly, prove that a random variable X is subgaussian if and only if
+$$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{\sqrt{p}}} < \infty$$
  **Solution.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzU0OTU4MCwtMTY1NTgzMzM1NywtOD
+eyJoaXN0b3J5IjpbMTM4ODA2NjY4NCwtMTY1NTgzMzM1NywtOD
 g3MTUyMTYyLC0xNjI4MzgxMDU4LC0yNTc2NTUxODZdfQ==
 -->
