@@ -11,8 +11,13 @@ If $a_1 \leq a'_i$, we have $\{X_i \leq a_i \} \subseteq \{X_i \leq a'_i\}$. Thu
 If $a^m \downarrow a$, then we have $A_{m+1}:=\{X_i \leq a^{m+1}_i \} \subseteq \{X_i \leq a^m_i\}$ and $\lim_{i\to\infty} A_i = \{X_i \leq a_i\}$. Now the second item follows from **Lemma**.
 If $a_i \to \infty$ for all $i$, then we can find a monotone increasing subsequence for all i. Relabel it as $a_i$. Now apply **Problem 1.1** in measure theoretic foundation and we obtain the third item. $-\infty$ is similar.
  
- **Problem 5.3**
+ **Problem 5.3** Prove that a random variable X is subexponential if and only if
+
+$$\sup{(\mathbb{E}|X|^p)}$$
+
+Similarly, prove that a random variable X is subgaussian if and only if
+ **Solution.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTU4MzMzNTcsLTg4NzE1MjE2MiwtMT
-YyODM4MTA1OCwtMjU3NjU1MTg2XX0=
+eyJoaXN0b3J5IjpbMTQ3MzU0OTU4MCwtMTY1NTgzMzM1NywtOD
+g3MTUyMTYyLC0xNjI4MzgxMDU4LC0yNTc2NTUxODZdfQ==
 -->
