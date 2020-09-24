@@ -17,7 +17,7 @@ $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{p}} < \infty$$
 
 Similarly, prove that a random variable X is subgaussian if and only if
 $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{\sqrt{p}}} < \infty$$
- **Solution.** We have
+ **Solution.** Suppose $X$ is subexponential.
  $$\begin{aligned}
  \mathbb{E}|X|^p &= \int_0^\infty \mathbb{P}\{|X|\geq t^{1/p}\}\,dt\\
  &= \int_C^\infty \exp(-ct^{1/p})\,dt + D\\
@@ -27,8 +27,8 @@ $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{\sqrt{p}}} < \infty$$
  
  Since $\Gamma(p)^{1/p} \leq p$, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg4NTgzOTQsLTEzNDE0ODc3ODYsMT
-AxOTg2NTcwNiwtMTMxNTIzNjMzOSwtMTY0NjA3NzE2NCwtMTY1
-NTgzMzM1NywtODg3MTUyMTYyLC0xNjI4MzgxMDU4LC0yNTc2NT
-UxODZdfQ==
+eyJoaXN0b3J5IjpbLTI1MjA0MjQ3MiwtMTI4ODg1ODM5NCwtMT
+M0MTQ4Nzc4NiwxMDE5ODY1NzA2LC0xMzE1MjM2MzM5LC0xNjQ2
+MDc3MTY0LC0xNjU1ODMzMzU3LC04ODcxNTIxNjIsLTE2MjgzOD
+EwNTgsLTI1NzY1NTE4Nl19
 -->
