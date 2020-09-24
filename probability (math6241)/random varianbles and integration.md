@@ -20,10 +20,10 @@ $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{\sqrt{p}}} < \infty$$
  **Solution.** We have
  $$\begin{aligned}
  \mathbb{E}|X|^p &= \int_0^\infty \mathbb{P}\{|X|\geq t^{1/p}\}\,dt\\
- &= x
+ &= \int_C^\infty exp(-ct)\,dt + D
  \end{aligned}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODkzMDY4NjIsLTEzMTUyMzYzMzksLT
+eyJoaXN0b3J5IjpbLTE0MjA2Mzg2MTQsLTEzMTUyMzYzMzksLT
 E2NDYwNzcxNjQsLTE2NTU4MzMzNTcsLTg4NzE1MjE2MiwtMTYy
 ODM4MTA1OCwtMjU3NjU1MTg2XX0=
 -->
