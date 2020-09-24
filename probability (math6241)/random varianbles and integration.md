@@ -18,9 +18,12 @@ $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{p}} < \infty$$
 Similarly, prove that a random variable X is subgaussian if and only if
 $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{\sqrt{p}}} < \infty$$
  **Solution.** We have
- $$\mathbb{E}|X|^p = \int_0^\infty \mathbb{P}\{|X|^p\geq t\}\,dt$$
+ $$\begin{aligned}
+ \mathbb{E}|X|^p &= \int_0^\infty \mathbb{P}\{|X|\geq t^{1/p}\}\,dt\\
+ &= x
+ \end{aligned}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTUyMzYzMzksLTE2NDYwNzcxNjQsLT
-E2NTU4MzMzNTcsLTg4NzE1MjE2MiwtMTYyODM4MTA1OCwtMjU3
-NjU1MTg2XX0=
+eyJoaXN0b3J5IjpbLTE5ODkzMDY4NjIsLTEzMTUyMzYzMzksLT
+E2NDYwNzcxNjQsLTE2NTU4MzMzNTcsLTg4NzE1MjE2MiwtMTYy
+ODM4MTA1OCwtMjU3NjU1MTg2XX0=
 -->
