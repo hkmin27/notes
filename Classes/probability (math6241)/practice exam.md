@@ -4,9 +4,10 @@ $$\mu = \begin{cases} \int_1^\infty(x\log(1+x))^{-2}\,dx/(x\log(1+x))^2 \quad &x
 Now $\mathbb{E}(X) = \int_1^\infty t\,\mu(t)\,dt <\infty$. However, $\mathbb{E}(X\log(1+X)) = \int_1^\infty t\log(1+t)\mu(t)\,dt=\infty.$ $\square$
 
 **Problem 2.** The probability density function is
-$$\mu = 1/3 \quad &x \in [2,4] \cup [8,9],\\
-0 \quad &x<1.\end{cases}$$
+$$\mu = \begin{cases}1/3 \quad &x \in [2,4] \cup [8,9],\\
+0  &\text{otherwise}.\end{cases}$$
+Thus $\mathbb{E}(X) = \int t\,\mu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4NTg1NTEwLDU0NTk3NjU0Myw1NzIyOT
-Y3MzYsLTIyNDA0ODg4OF19
+eyJoaXN0b3J5IjpbMTc3NzMxODIyNyw1NDU5NzY1NDMsNTcyMj
+k2NzM2LC0yMjQwNDg4ODhdfQ==
 -->
