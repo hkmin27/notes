@@ -7,10 +7,10 @@ Now $\mathbb{E}(X) = \int_1^\infty t\,\mu(t)\,dt <\infty$. However, $\mathbb{E}(
 $$\mu = \begin{cases}1/3 \quad &x \in [2,4] \cup [8,9],\\
 0  &\text{otherwise}.\end{cases}$$
 Thus $\mathbb{E}(X) = \int t\,\mu\,dt = 29/6$, $\mathbb{E}(X^2) = \int t^2\,\mu\,dt = 91/3$.
-Thus $Var(X)=$
+Thus $Var(X)=\mathbb{E}(X^2)-\mathbb{E}(X)^2=153/3=51.$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODQzNjM4MCwtOTgyOTA0NjksODk5Nj
+eyJoaXN0b3J5IjpbLTM2ODYwMzU0MCwtOTgyOTA0NjksODk5Nj
 QwNDYyLDU0NTk3NjU0Myw1NzIyOTY3MzYsLTIyNDA0ODg4OF19
 
 -->
