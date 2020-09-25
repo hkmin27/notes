@@ -6,8 +6,8 @@ Now $\mathbb{E}(X) = \int_1^\infty t\,\mu(t)\,dt <\infty$. However, $\mathbb{E}(
 **Problem 2.** The probability density function is
 $$\mu = \begin{cases}1/3 \quad &x \in [2,4] \cup [8,9],\\
 0  &\text{otherwise}.\end{cases}$$
-Thus $\mathbb{E}(X) = \int t\,\mu\,dt = f$
+Thus $\mathbb{E}(X) = \int t\,\mu\,dt = s$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5NjQwNDYyLDU0NTk3NjU0Myw1NzIyOT
-Y3MzYsLTIyNDA0ODg4OF19
+eyJoaXN0b3J5IjpbLTk4MjkwNDY5LDg5OTY0MDQ2Miw1NDU5Nz
+Y1NDMsNTcyMjk2NzM2LC0yMjQwNDg4ODhdfQ==
 -->
