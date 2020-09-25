@@ -19,12 +19,12 @@ $F_X(a,b) = $
 $$\begin{aligned}\rho_1 &= \begin{cases} 1/2 \quad &t \in [1,3] \\ 0 \quad \text{otherwise} \end{cases}\\
 \rho_2 &= \begin{cases} 1/2 \quad &t \in [1,2] \cup [4,5] \\ 0 \quad \text{otherwise} \end{cases}\end{aligned}$$
 
-Let $Z := X_1 + X_2$. Since $X_1$ and $X_2$ are independent, $\mathbb{P}\{Z=z\} = \mathbb{P}\{X_1 = t \;\&\; X_2 = z-t\} = \mathbb{P}\{X_1 = t \} \mathbb{P}\{ X_2 = z-t\}$. Thus, 
-$$\rho_{Z}(z) = \int_{-\infty}^{\infty} \rho_1(z-t) \rho(t) \, dt$$
+Let $Z := X_1 + X_2$. Since $X_1$ and $X_2$ are independent, $\mathbb{P}\{Z=z\} = \sum_t\mathbb{P}\{X_1 = t \;\&\; X_2 = z-t\} = \sum_{t}\mathbb{P}\{X_1 = t \} \mathbb{P}\{ X_2 = z-t\}$. Thus, 
+$$\rho_{Z}(z) = \int_{-\infty}^{\infty} \rho_1(z-t) \rho_2(t) \, dt$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzc4NzAzNDgsLTE2MDA2MDA3MSw1Mz
-cyNDI3NDEsLTc0MDk2OTIwOSwxMTE0NzAzNDI4LC05ODY0NzIx
-MjAsMjAzNzMzODQ0NCwtMTQ0MTgxMTY5MiwxNTk5Njk4MTU5LC
-04NDUxNDMyOTUsLTM2ODYwMzU0MCwtOTgyOTA0NjksODk5NjQw
-NDYyLDU0NTk3NjU0Myw1NzIyOTY3MzYsLTIyNDA0ODg4OF19
+eyJoaXN0b3J5IjpbMTY1NzY1NTc5MSwtMTYwMDYwMDcxLDUzNz
+I0Mjc0MSwtNzQwOTY5MjA5LDExMTQ3MDM0MjgsLTk4NjQ3MjEy
+MCwyMDM3MzM4NDQ0LC0xNDQxODExNjkyLDE1OTk2OTgxNTksLT
+g0NTE0MzI5NSwtMzY4NjAzNTQwLC05ODI5MDQ2OSw4OTk2NDA0
+NjIsNTQ1OTc2NTQzLDU3MjI5NjczNiwtMjI0MDQ4ODg4XX0=
 -->
