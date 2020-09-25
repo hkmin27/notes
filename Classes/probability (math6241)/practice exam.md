@@ -24,16 +24,16 @@ $$\begin{aligned}\rho_{Z}(z) &= \int_{-\infty}^{\infty} \rho_1(t) \rho_2(z-t) \,
 &=\int_1^3 \frac{1}{2} \rho_2(z-t)\,dt \end{aligned}$$
 
 Now $\rho_2$ is nonzero if $1 \leq z-t \leq 2$ or $4 \leq z-t \leq 5$.
-If $4 < z < 6$, 
+If $2 < z < 6$, 
 
-$$\rho_{Z}(z) =\int_1^{z-3} \frac{1}{2} \rho_2(z-t)\,dt $$
+$$\rho_{Z}(z) =\int_1^{z-1} \frac{1}{2} \rho_2(z-t)\,dt $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwODIwNzAyOSwtMTU0OTg3ODYwOCwyMD
-Y2MjMyNjUzLDIwMzQ5NDc5MTEsLTExOTQyNDQ5MzAsLTE2MDA2
-MDA3MSw1MzcyNDI3NDEsLTc0MDk2OTIwOSwxMTE0NzAzNDI4LC
-05ODY0NzIxMjAsMjAzNzMzODQ0NCwtMTQ0MTgxMTY5MiwxNTk5
-Njk4MTU5LC04NDUxNDMyOTUsLTM2ODYwMzU0MCwtOTgyOTA0Nj
-ksODk5NjQwNDYyLDU0NTk3NjU0Myw1NzIyOTY3MzYsLTIyNDA0
-ODg4OF19
+eyJoaXN0b3J5IjpbOTk3ODAxODY3LC0xNTQ5ODc4NjA4LDIwNj
+YyMzI2NTMsMjAzNDk0NzkxMSwtMTE5NDI0NDkzMCwtMTYwMDYw
+MDcxLDUzNzI0Mjc0MSwtNzQwOTY5MjA5LDExMTQ3MDM0MjgsLT
+k4NjQ3MjEyMCwyMDM3MzM4NDQ0LC0xNDQxODExNjkyLDE1OTk2
+OTgxNTksLTg0NTE0MzI5NSwtMzY4NjAzNTQwLC05ODI5MDQ2OS
+w4OTk2NDA0NjIsNTQ1OTc2NTQzLDU3MjI5NjczNiwtMjI0MDQ4
+ODg4XX0=
 -->
