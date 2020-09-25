@@ -35,9 +35,9 @@ $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{\sqrt{p}}} < \infty$$
 
 **Proof.** $\mathbb{E}(e^{\lambda X}) = \int e^{\lambda X}d\mathbb{P} \geq \int e^{\lambda X} \cdot 1_{X \geq t}d\mathbb{P} \geq \int e^{\lambda t} \cdot 1_{X \geq t}d\mathbb{P} \geq e^{\lambda t}\,\mathbb{P}\{X \geq t\}$. $\square$
 
-By lemma, $\mathbb{P}\{X \leq t\}$
+By lemma, $\mathbb{P}\{|X| \geq t\} \leq de^{-\lambt} \leq e^{-ct}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTYzOTg3MDksLTE1MDU4OTAwODksNj
+eyJoaXN0b3J5IjpbLTIxMjgxNzA1OTcsLTE1MDU4OTAwODksNj
 A4NDM4NzYsMTIyODIyNjU4MywyMDA1MDY4NDE4LDIwNjA1NTQy
 OSwxNDAwMzA1Mzc4LDEwMDU0ODc2NzgsLTEyODg4NTgzOTQsLT
 EzNDE0ODc3ODYsMTAxOTg2NTcwNiwtMTMxNTIzNjMzOSwtMTY0
