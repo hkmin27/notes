@@ -35,12 +35,12 @@ $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{\sqrt{p}}} < \infty$$
 
 **Proof.** $\mathbb{E}(e^{\lambda X}) = \int e^{\lambda X}d\mathbb{P} \geq \int e^{\lambda X} \cdot 1_{X \geq t}d\mathbb{P} \geq \int e^{\lambda t} \cdot 1_{X \geq t}d\mathbb{P} \geq e^{\lambda t}\,\mathbb{P}\{X \geq t\}$. $\square$
 
-By lemma, $\mathbb{P}\{|X| \geq t\} \leq de^{-\lambt} \leq e^{-ct}$
+By lemma, $\mathbb{P}\{|X| \geq t\} \leq de^{-\lambda t} \leq e^{-ct}$ for $t \geq C$. $\square$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjgxNzA1OTcsLTE1MDU4OTAwODksNj
-A4NDM4NzYsMTIyODIyNjU4MywyMDA1MDY4NDE4LDIwNjA1NTQy
-OSwxNDAwMzA1Mzc4LDEwMDU0ODc2NzgsLTEyODg4NTgzOTQsLT
-EzNDE0ODc3ODYsMTAxOTg2NTcwNiwtMTMxNTIzNjMzOSwtMTY0
-NjA3NzE2NCwtMTY1NTgzMzM1NywtODg3MTUyMTYyLC0xNjI4Mz
-gxMDU4LC0yNTc2NTUxODZdfQ==
+eyJoaXN0b3J5IjpbMTQ3NDc4MzI2MCwtMTUwNTg5MDA4OSw2MD
+g0Mzg3NiwxMjI4MjI2NTgzLDIwMDUwNjg0MTgsMjA2MDU1NDI5
+LDE0MDAzMDUzNzgsMTAwNTQ4NzY3OCwtMTI4ODg1ODM5NCwtMT
+M0MTQ4Nzc4NiwxMDE5ODY1NzA2LC0xMzE1MjM2MzM5LC0xNjQ2
+MDc3MTY0LC0xNjU1ODMzMzU3LC04ODcxNTIxNjIsLTE2MjgzOD
+EwNTgsLTI1NzY1NTE4Nl19
 -->
