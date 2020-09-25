@@ -30,13 +30,15 @@ $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{\sqrt{p}}} < \infty$$
  $$\mathbb{E}(e^{\lambda |X|})=1+\sum_{k=1}^\infty \frac{\lambda^k\mathbb{E}(|X|^k)}{k!}<\infty$$
  
  for $|\lambda| < C$. Now we need a lemma.
-**Lemma.** $\mathbb{P}\{X \geq t\} \leq \frac{\mathbb{E}(e^{\lambda X})}{e^{\lambda t}}$.
+**Lemma. (Chernoff bound)** $\mathbb{P}\{X \geq t\} \leq \frac{\mathbb{E}(e^{\lambda X})}{e^{\lambda t}}$.
 
-**Proof.** $\mathbb{E}(e^{\lambda X}) = \int e^Xd\mathbb{P} \geq \int e^X \cdot 1_{X \geq t}d\mathbb{P} \geq \int e^t \cdot 1_{X \geq t}d\mathbb{P} \geq e^t\,\mathbb{P}\{X \geq t\}$
+**Proof.** $\mathbb{E}(e^{\lambda X}) = \int e^{\lambda X}d\mathbb{P} \geq \int e^{\lambda X} \cdot 1_{X \geq t}d\mathbb{P} \geq \int e^{\lambda t} \cdot 1_{X \geq t}d\mathbb{P} \geq e^{\lambda t}\,\mathbb{P}\{X \geq t\}$. $\square$
+
+By lemma, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjQwOTMwNCwxMjI4MjI2NTgzLDIwMD
-UwNjg0MTgsMjA2MDU1NDI5LDE0MDAzMDUzNzgsMTAwNTQ4NzY3
-OCwtMTI4ODg1ODM5NCwtMTM0MTQ4Nzc4NiwxMDE5ODY1NzA2LC
-0xMzE1MjM2MzM5LC0xNjQ2MDc3MTY0LC0xNjU1ODMzMzU3LC04
-ODcxNTIxNjIsLTE2MjgzODEwNTgsLTI1NzY1NTE4Nl19
+eyJoaXN0b3J5IjpbNjA4NDM4NzYsMTIyODIyNjU4MywyMDA1MD
+Y4NDE4LDIwNjA1NTQyOSwxNDAwMzA1Mzc4LDEwMDU0ODc2Nzgs
+LTEyODg4NTgzOTQsLTEzNDE0ODc3ODYsMTAxOTg2NTcwNiwtMT
+MxNTIzNjMzOSwtMTY0NjA3NzE2NCwtMTY1NTgzMzM1NywtODg3
+MTUyMTYyLC0xNjI4MzgxMDU4LC0yNTc2NTUxODZdfQ==
 -->
