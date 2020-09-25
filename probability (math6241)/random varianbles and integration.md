@@ -29,11 +29,11 @@ $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{\sqrt{p}}} < \infty$$
  
  $$\mathbb{E}(e^{\lambda |X|})=1+\sum_{k=1}^\infty \frac{\lambda^k\mathbb{E}(|X|^k)}{k!}<\infty$$
  
- for $|\lambda < C$.
+ for $|\lambda| < C$. Now by Chernoff bound.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDMzNzExODIsMjA2MDU1NDI5LDE0MD
-AzMDUzNzgsMTAwNTQ4NzY3OCwtMTI4ODg1ODM5NCwtMTM0MTQ4
-Nzc4NiwxMDE5ODY1NzA2LC0xMzE1MjM2MzM5LC0xNjQ2MDc3MT
-Y0LC0xNjU1ODMzMzU3LC04ODcxNTIxNjIsLTE2MjgzODEwNTgs
-LTI1NzY1NTE4Nl19
+eyJoaXN0b3J5IjpbMjAwNTA2ODQxOCwyMDYwNTU0MjksMTQwMD
+MwNTM3OCwxMDA1NDg3Njc4LC0xMjg4ODU4Mzk0LC0xMzQxNDg3
+Nzg2LDEwMTk4NjU3MDYsLTEzMTUyMzYzMzksLTE2NDYwNzcxNj
+QsLTE2NTU4MzMzNTcsLTg4NzE1MjE2MiwtMTYyODM4MTA1OCwt
+MjU3NjU1MTg2XX0=
 -->
