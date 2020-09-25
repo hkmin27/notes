@@ -30,9 +30,9 @@ $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{\sqrt{p}}} < \infty$$
  $$\mathbb{E}(e^{\lambda |X|})=1+\sum_{k=1}^\infty \frac{\lambda^k\mathbb{E}(|X|^k)}{k!}<\infty$$
  
  for $|\lambda| < C$. Now we need a lemma.
-**Lemma.** $\mathbb{P}\{X \geq t\}$
+**Lemma.** $\mathbb{P}\{X \geq t\} <213$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzczNTMxNiwyMDA1MDY4NDE4LDIwNj
+eyJoaXN0b3J5IjpbMTg1MjkzNjY2NCwyMDA1MDY4NDE4LDIwNj
 A1NTQyOSwxNDAwMzA1Mzc4LDEwMDU0ODc2NzgsLTEyODg4NTgz
 OTQsLTEzNDE0ODc3ODYsMTAxOTg2NTcwNiwtMTMxNTIzNjMzOS
 wtMTY0NjA3NzE2NCwtMTY1NTgzMzM1NywtODg3MTUyMTYyLC0x
