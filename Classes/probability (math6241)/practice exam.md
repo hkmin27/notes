@@ -9,15 +9,15 @@ $$\rho = \begin{cases}1/3 \quad &x \in [2,4] \cup [8,9],\\
 Thus $\mathbb{E}(X) = \int t\,\rho\,dt = 29/6$, $\mathbb{E}(X^2) = \int t^2\,\rho\,dt = 91/3$.
 Thus $Var(X)=\mathbb{E}(X^2)-\mathbb{E}(X)^2=153/3=51.$
 
-**Problem 3.** By continuity and without loss of generality, $\rho_X(t) \geq \epsilon > 0$ for $|t| < \delta$. Thus
-$$\int_{-\infty}^{\infty} \frac{\rho_X(t)}{t}\,dt \geq \int_{-\delta}^{\delta} \frac{\epsilon}{t}\,dt = \infty.$$
+**Problem 3.** By continuity, $\rho_X(t) \geq \epsilon > 0$ for $|t| < \delta$. Thus
+$$\int_{-\infty}^{\infty} \frac{\rho_X(t)}{|t|}\,dt \geq \int_{-\delta}^{\delta} \frac{\epsilon}{|t|}\,dt = \infty.$$
 
 **Problem 6.** $F_X = \frac{\text{length of arc} }{2\pi}$ (why?)
 $F_X(a,b) = $
 
 **Problem 7.** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODI3NzM4OCwxMTE0NzAzNDI4LC05OD
+eyJoaXN0b3J5IjpbMTY4NjAyMDI1MywxMTE0NzAzNDI4LC05OD
 Y0NzIxMjAsMjAzNzMzODQ0NCwtMTQ0MTgxMTY5MiwxNTk5Njk4
 MTU5LC04NDUxNDMyOTUsLTM2ODYwMzU0MCwtOTgyOTA0NjksOD
 k5NjQwNDYyLDU0NTk3NjU0Myw1NzIyOTY3MzYsLTIyNDA0ODg4
