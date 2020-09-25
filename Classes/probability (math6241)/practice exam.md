@@ -10,10 +10,10 @@ Thus $\mathbb{E}(X) = \int t\,\mu\,dt = 29/6$, $\mathbb{E}(X^2) = \int t^2\,\mu\
 Thus $Var(X)=\mathbb{E}(X^2)-\mathbb{E}(X)^2=153/3=51.$
 
 **Problem 6.** $F_X = \frac{\text{length of arc} }{2\pi}$ (why?)
-$F_X(a	
+$F_X(a,b) = $
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTU1OTU0NzIsMTU5OTY5ODE1OSwtOD
+eyJoaXN0b3J5IjpbLTE0NDE4MTE2OTIsMTU5OTY5ODE1OSwtOD
 Q1MTQzMjk1LC0zNjg2MDM1NDAsLTk4MjkwNDY5LDg5OTY0MDQ2
 Miw1NDU5NzY1NDMsNTcyMjk2NzM2LC0yMjQwNDg4ODhdfQ==
 -->
