@@ -19,12 +19,12 @@ $F_X(a,b) = $
 $$\begin{aligned}\rho_{X_1} &= \begin{cases} 1/2 \quad &t \in [1,3] \\ 0 \quad \text{otherwise} \end{cases}\\
 \rho_{X_2} &= \begin{cases} 1/2 \quad &t \in [1,2] \cup [4,5] \\ 0 \quad \text{otherwise} \end{cases}\end{aligned}$$
 
-Let $Z := X_1 + X_2$. Since $X_1$ and $X_2$ are independent, $\mathbb{P}\\}$ 
+Let $Z := X_1 + X_2$. Since $X_1$ and $X_2$ are independent, $\mathbb{P}\{Z=z\} = \mathbb{P}\{X_1 = t \;\&\; X_2 = z-t\} = $ 
 $$\rho_{Z}(z) = \int_{-\infty}^{\infty} \rho(z-t) \rho(t) \, dt$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5MDY3OTgyLC0xNjAwNjAwNzEsNTM3Mj
-QyNzQxLC03NDA5NjkyMDksMTExNDcwMzQyOCwtOTg2NDcyMTIw
-LDIwMzczMzg0NDQsLTE0NDE4MTE2OTIsMTU5OTY5ODE1OSwtOD
-Q1MTQzMjk1LC0zNjg2MDM1NDAsLTk4MjkwNDY5LDg5OTY0MDQ2
-Miw1NDU5NzY1NDMsNTcyMjk2NzM2LC0yMjQwNDg4ODhdfQ==
+eyJoaXN0b3J5IjpbLTM0NDIyNzQxMCwtMTYwMDYwMDcxLDUzNz
+I0Mjc0MSwtNzQwOTY5MjA5LDExMTQ3MDM0MjgsLTk4NjQ3MjEy
+MCwyMDM3MzM4NDQ0LC0xNDQxODExNjkyLDE1OTk2OTgxNTksLT
+g0NTE0MzI5NSwtMzY4NjAzNTQwLC05ODI5MDQ2OSw4OTk2NDA0
+NjIsNTQ1OTc2NTQzLDU3MjI5NjczNiwtMjI0MDQ4ODg4XX0=
 -->
