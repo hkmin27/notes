@@ -21,11 +21,12 @@ $$\begin{aligned}\rho_1 &= \begin{cases} 1/2 \quad &t \in [1,3] \\ 0 \quad \text
 
 Let $Z := X_1 + X_2$. Since $X_1$ and $X_2$ are independent, $\mathbb{P}\{Z=z\} = \sum_t\mathbb{P}\{X_1 = t \;\&\; X_2 = z-t\} = \sum_{t}\mathbb{P}\{X_1 = t \} \mathbb{P}\{ X_2 = z-t\}$. Thus, 
 $$\begin{aligned}\rho_{Z}(z) &= \int_{-\infty}^{\infty} \rho_1(z-t) \rho_2(t) \, dt\\
-&= \end{aligned}$$
+&=\int_1^5 \end{aligned}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQyNDQ5MzAsLTE2MDA2MDA3MSw1Mz
-cyNDI3NDEsLTc0MDk2OTIwOSwxMTE0NzAzNDI4LC05ODY0NzIx
-MjAsMjAzNzMzODQ0NCwtMTQ0MTgxMTY5MiwxNTk5Njk4MTU5LC
-04NDUxNDMyOTUsLTM2ODYwMzU0MCwtOTgyOTA0NjksODk5NjQw
-NDYyLDU0NTk3NjU0Myw1NzIyOTY3MzYsLTIyNDA0ODg4OF19
+eyJoaXN0b3J5IjpbLTQ4NTYyOTA2MCwtMTE5NDI0NDkzMCwtMT
+YwMDYwMDcxLDUzNzI0Mjc0MSwtNzQwOTY5MjA5LDExMTQ3MDM0
+MjgsLTk4NjQ3MjEyMCwyMDM3MzM4NDQ0LC0xNDQxODExNjkyLD
+E1OTk2OTgxNTksLTg0NTE0MzI5NSwtMzY4NjAzNTQwLC05ODI5
+MDQ2OSw4OTk2NDA0NjIsNTQ1OTc2NTQzLDU3MjI5NjczNiwtMj
+I0MDQ4ODg4XX0=
 -->
