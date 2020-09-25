@@ -20,9 +20,9 @@ $$\begin{aligned}\rho_{X_1} &= \begin{cases} 1/2 \quad &t \in [1,3] \\ 0 \quad \
 \rho_{X_2} &= \begin{cases} 1/2 \quad &t \in [1,2] \cup [4,5] \\ 0 \quad \text{otherwise} \end{cases}\end{aligned}$$
 
 Let $Z := X_1 + X_2$. Since $X_1$ and $X_2$ are independent, 
-$$\rho_{X_1+X_2}(z) = \int_{-\infty}^{\infty} \rho(z-t) \rho(t) \, dt$$
+$$\rho_{Z}(z) = \int_{-\infty}^{\infty} \rho(z-t) \rho(t) \, dt$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzcwODcxMyw1MzcyNDI3NDEsLTc0MD
+eyJoaXN0b3J5IjpbLTE2MDA2MDA3MSw1MzcyNDI3NDEsLTc0MD
 k2OTIwOSwxMTE0NzAzNDI4LC05ODY0NzIxMjAsMjAzNzMzODQ0
 NCwtMTQ0MTgxMTY5MiwxNTk5Njk4MTU5LC04NDUxNDMyOTUsLT
 M2ODYwMzU0MCwtOTgyOTA0NjksODk5NjQwNDYyLDU0NTk3NjU0
