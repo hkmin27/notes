@@ -31,9 +31,9 @@ $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{\sqrt{p}}} < \infty$$
  
  for $|\lambda| < C$. Now we need a lemma.
 **Lemma.** $\mathbb{P}\{X \geq t\} \leq \frac{\mathbb{E}(e^X)}{t}$.
-**Proof.** $\mathbb{E}(e^X) = \int e^Xd\mathbb{P} \geq \int e^X \cdot 1_{X \geq t}d\mathbb{P} \geq t\,\mathbb{P}\{X \geq t\}$
+**Proof.** $\mathbb{E}(e^X) = \int e^Xd\mathbb{P} \geq \int e^X \cdot 1_{X \geq t}d\mathbb{P} \geq \int e^t \cdot 1_{X \geq t}d\mathbb{P} \geq t\,\mathbb{P}\{X \geq t\}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTA4OTE5MywxMjI4MjI2NTgzLDIwMD
+eyJoaXN0b3J5IjpbMTc2NjYzMjAxNSwxMjI4MjI2NTgzLDIwMD
 UwNjg0MTgsMjA2MDU1NDI5LDE0MDAzMDUzNzgsMTAwNTQ4NzY3
 OCwtMTI4ODg1ODM5NCwtMTM0MTQ4Nzc4NiwxMDE5ODY1NzA2LC
 0xMzE1MjM2MzM5LC0xNjQ2MDc3MTY0LC0xNjU1ODMzMzU3LC04
