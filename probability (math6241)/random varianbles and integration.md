@@ -31,11 +31,11 @@ $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{\sqrt{p}}} < \infty$$
  
  for $|\lambda| < C$. Now we need a lemma.
 **Lemma.** $\mathbb{P}\{X \geq t\} \leq \frac{\mathbb{E}(e^X)}{t}$.
-**Proof.** $\mathbb{E}\ {X \geq t \}$
+**Proof.** $\mathbb{E}\{X\} = \int Xd\mathbb{P} \geq \int X \cdot 1_{X \geq t} \geq t\mathbb{P}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MzUyMTY5NSwxMjI4MjI2NTgzLDIwMD
-UwNjg0MTgsMjA2MDU1NDI5LDE0MDAzMDUzNzgsMTAwNTQ4NzY3
-OCwtMTI4ODg1ODM5NCwtMTM0MTQ4Nzc4NiwxMDE5ODY1NzA2LC
-0xMzE1MjM2MzM5LC0xNjQ2MDc3MTY0LC0xNjU1ODMzMzU3LC04
-ODcxNTIxNjIsLTE2MjgzODEwNTgsLTI1NzY1NTE4Nl19
+eyJoaXN0b3J5IjpbLTEzNDYxODI5MTIsMTIyODIyNjU4MywyMD
+A1MDY4NDE4LDIwNjA1NTQyOSwxNDAwMzA1Mzc4LDEwMDU0ODc2
+NzgsLTEyODg4NTgzOTQsLTEzNDE0ODc3ODYsMTAxOTg2NTcwNi
+wtMTMxNTIzNjMzOSwtMTY0NjA3NzE2NCwtMTY1NTgzMzM1Nywt
+ODg3MTUyMTYyLC0xNjI4MzgxMDU4LC0yNTc2NTUxODZdfQ==
 -->
