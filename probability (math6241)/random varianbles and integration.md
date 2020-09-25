@@ -30,15 +30,17 @@ $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{\sqrt{p}}} < \infty$$
  $$\mathbb{E}(e^{\lambda |X|})=1+\sum_{k=1}^\infty \frac{\lambda^k\mathbb{E}(|X|^k)}{k!}<\infty$$
  
  for $|\lambda| < C$. Now we need a lemma.
-**Lemma. (Chernoff bound)** $\mathbb{P}\{X \geq t\} \leq \frac{\mathbb{E}(e^{\lambda X})}{e^{\lambda t}}$.
+ 
+**Lemma. (Chernoff bound)** $\mathbb{P}\{X \geq t\} \leq e^{-\lambda t}\,\mathbb{E}(e^{\lambda X})$.
 
 **Proof.** $\mathbb{E}(e^{\lambda X}) = \int e^{\lambda X}d\mathbb{P} \geq \int e^{\lambda X} \cdot 1_{X \geq t}d\mathbb{P} \geq \int e^{\lambda t} \cdot 1_{X \geq t}d\mathbb{P} \geq e^{\lambda t}\,\mathbb{P}\{X \geq t\}$. $\square$
 
 By lemma, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4NDM4NzYsMTIyODIyNjU4MywyMDA1MD
-Y4NDE4LDIwNjA1NTQyOSwxNDAwMzA1Mzc4LDEwMDU0ODc2Nzgs
-LTEyODg4NTgzOTQsLTEzNDE0ODc3ODYsMTAxOTg2NTcwNiwtMT
-MxNTIzNjMzOSwtMTY0NjA3NzE2NCwtMTY1NTgzMzM1NywtODg3
-MTUyMTYyLC0xNjI4MzgxMDU4LC0yNTc2NTUxODZdfQ==
+eyJoaXN0b3J5IjpbLTE1MDU4OTAwODksNjA4NDM4NzYsMTIyOD
+IyNjU4MywyMDA1MDY4NDE4LDIwNjA1NTQyOSwxNDAwMzA1Mzc4
+LDEwMDU0ODc2NzgsLTEyODg4NTgzOTQsLTEzNDE0ODc3ODYsMT
+AxOTg2NTcwNiwtMTMxNTIzNjMzOSwtMTY0NjA3NzE2NCwtMTY1
+NTgzMzM1NywtODg3MTUyMTYyLC0xNjI4MzgxMDU4LC0yNTc2NT
+UxODZdfQ==
 -->
