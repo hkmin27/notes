@@ -26,11 +26,11 @@ $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{\sqrt{p}}} < \infty$$
  \end{aligned}$$
  
  Since $\Gamma(p)^{1/p} \leq p$, the inequality follows. Conversely, if the inequality holds, then
- $$E
+ $$\mathbb{E}(e^{\lambda X})$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDU1NDI5LDE0MDAzMDUzNzgsMTAwNT
-Q4NzY3OCwtMTI4ODg1ODM5NCwtMTM0MTQ4Nzc4NiwxMDE5ODY1
-NzA2LC0xMzE1MjM2MzM5LC0xNjQ2MDc3MTY0LC0xNjU1ODMzMz
-U3LC04ODcxNTIxNjIsLTE2MjgzODEwNTgsLTI1NzY1NTE4Nl19
-
+eyJoaXN0b3J5IjpbMTA5Nzc0MDczMCwyMDYwNTU0MjksMTQwMD
+MwNTM3OCwxMDA1NDg3Njc4LC0xMjg4ODU4Mzk0LC0xMzQxNDg3
+Nzg2LDEwMTk4NjU3MDYsLTEzMTUyMzYzMzksLTE2NDYwNzcxNj
+QsLTE2NTU4MzMzNTcsLTg4NzE1MjE2MiwtMTYyODM4MTA1OCwt
+MjU3NjU1MTg2XX0=
 -->
