@@ -29,11 +29,12 @@ $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{\sqrt{p}}} < \infty$$
  
  $$\mathbb{E}(e^{\lambda |X|})=1+\sum_{k=1}^\infty \frac{\lambda^k\mathbb{E}(|X|^k)}{k!}<\infty$$
  
- for $|\lambda| < C$. Now by Chernoff bound.
+ for $|\lambda| < C$. Now we need a lemma.
+**Lemma.** $\mathbb{P}\{X \geq t\}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTA2ODQxOCwyMDYwNTU0MjksMTQwMD
-MwNTM3OCwxMDA1NDg3Njc4LC0xMjg4ODU4Mzk0LC0xMzQxNDg3
-Nzg2LDEwMTk4NjU3MDYsLTEzMTUyMzYzMzksLTE2NDYwNzcxNj
-QsLTE2NTU4MzMzNTcsLTg4NzE1MjE2MiwtMTYyODM4MTA1OCwt
-MjU3NjU1MTg2XX0=
+eyJoaXN0b3J5IjpbLTk5NzczNTMxNiwyMDA1MDY4NDE4LDIwNj
+A1NTQyOSwxNDAwMzA1Mzc4LDEwMDU0ODc2NzgsLTEyODg4NTgz
+OTQsLTEzNDE0ODc3ODYsMTAxOTg2NTcwNiwtMTMxNTIzNjMzOS
+wtMTY0NjA3NzE2NCwtMTY1NTgzMzM1NywtODg3MTUyMTYyLC0x
+NjI4MzgxMDU4LC0yNTc2NTUxODZdfQ==
 -->
