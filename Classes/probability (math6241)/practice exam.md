@@ -16,13 +16,14 @@ $$\mathbb{E}(\frac{1}{|X|}) = \int_{-\infty}^{\infty} \frac{\rho_X(t)}{|t|}\,dt 
 $F_X(a,b) = $
 
 **Problem 7.** The probability density functions are
-$$\begin{aligned}\mu_{X_1} &= \begin{cases} 1/2 \quad &t \in [1,3] \\ 0 \quad \text{otherwise} \end{cases}\\
-\mu_{X_2} &= \begin{cases} 1/2 \quad &t \in [1,2] \cup [4,5] \\ 0 \quad \text{otherwise} \end{cases}\end{aligned}$$
+$$\begin{aligned}\rho_{X_1} &= \begin{cases} 1/2 \quad &t \in [1,3] \\ 0 \quad \text{otherwise} \end{cases}\\
+\rho_{X_2} &= \begin{cases} 1/2 \quad &t \in [1,2] \cup [4,5] \\ 0 \quad \text{otherwise} \end{cases}\end{aligned}$$
 
+Since $X_1$ and $X_2$ are independent, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3MjQyNzQxLC03NDA5NjkyMDksMTExND
-cwMzQyOCwtOTg2NDcyMTIwLDIwMzczMzg0NDQsLTE0NDE4MTE2
-OTIsMTU5OTY5ODE1OSwtODQ1MTQzMjk1LC0zNjg2MDM1NDAsLT
-k4MjkwNDY5LDg5OTY0MDQ2Miw1NDU5NzY1NDMsNTcyMjk2NzM2
-LC0yMjQwNDg4ODhdfQ==
+eyJoaXN0b3J5IjpbODQzNDY5NTA3LDUzNzI0Mjc0MSwtNzQwOT
+Y5MjA5LDExMTQ3MDM0MjgsLTk4NjQ3MjEyMCwyMDM3MzM4NDQ0
+LC0xNDQxODExNjkyLDE1OTk2OTgxNTksLTg0NTE0MzI5NSwtMz
+Y4NjAzNTQwLC05ODI5MDQ2OSw4OTk2NDA0NjIsNTQ1OTc2NTQz
+LDU3MjI5NjczNiwtMjI0MDQ4ODg4XX0=
 -->
