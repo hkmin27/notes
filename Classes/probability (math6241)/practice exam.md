@@ -16,11 +16,13 @@ $$\mathbb{E}(\frac{1}{|X|}) = \int_{-\infty}^{\infty} \frac{\rho_X(t)}{|t|}\,dt 
 $F_X(a,b) = $
 
 **Problem 7.** The probability density functions are
-$$\mu_{X_1} = \begin{cases} 1/2 \quad t \in[1,3]\\0 \end{cases}$$
+$$\begin{aligned}\mu_{X_1} &= \begin{cases} 1/2 \quad &t \in [1,3] \\ 0 \quad \text{otherwise} \end{cases}\\
+\mu_{X_2} = \begin{cases} 1/2 \quad &t \in [1,2] \cup [4,5] \\ 0 \quad \text{otherwise} \end{cases}\end{aligned}$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyODQwNDI2LC03NDA5NjkyMDksMTExND
-cwMzQyOCwtOTg2NDcyMTIwLDIwMzczMzg0NDQsLTE0NDE4MTE2
-OTIsMTU5OTY5ODE1OSwtODQ1MTQzMjk1LC0zNjg2MDM1NDAsLT
-k4MjkwNDY5LDg5OTY0MDQ2Miw1NDU5NzY1NDMsNTcyMjk2NzM2
-LC0yMjQwNDg4ODhdfQ==
+eyJoaXN0b3J5IjpbMTk0OTg4MDkxNywtNzQwOTY5MjA5LDExMT
+Q3MDM0MjgsLTk4NjQ3MjEyMCwyMDM3MzM4NDQ0LC0xNDQxODEx
+NjkyLDE1OTk2OTgxNTksLTg0NTE0MzI5NSwtMzY4NjAzNTQwLC
+05ODI5MDQ2OSw4OTk2NDA0NjIsNTQ1OTc2NTQzLDU3MjI5Njcz
+NiwtMjI0MDQ4ODg4XX0=
 -->
