@@ -15,11 +15,12 @@ $$\mathbb{E}(\frac{1}{|X|}) = \int_{-\infty}^{\infty} \frac{\rho_X(t)}{|t|}\,dt 
 **Problem 6.** $F_X = \frac{\text{length of arc} }{2\pi}$ (why?)
 $F_X(a,b) = $
 
-**Problem 7.** 
+**Problem 7.** The probability density functions are
+$$\mu_{X_1} = \begin{cases} 1/2 \quad t \in[1,3]\\0 \end{cases}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDk2OTIwOSwxMTE0NzAzNDI4LC05OD
-Y0NzIxMjAsMjAzNzMzODQ0NCwtMTQ0MTgxMTY5MiwxNTk5Njk4
-MTU5LC04NDUxNDMyOTUsLTM2ODYwMzU0MCwtOTgyOTA0NjksOD
-k5NjQwNDYyLDU0NTk3NjU0Myw1NzIyOTY3MzYsLTIyNDA0ODg4
-OF19
+eyJoaXN0b3J5IjpbODMyODQwNDI2LC03NDA5NjkyMDksMTExND
+cwMzQyOCwtOTg2NDcyMTIwLDIwMzczMzg0NDQsLTE0NDE4MTE2
+OTIsMTU5OTY5ODE1OSwtODQ1MTQzMjk1LC0zNjg2MDM1NDAsLT
+k4MjkwNDY5LDg5OTY0MDQ2Miw1NDU5NzY1NDMsNTcyMjk2NzM2
+LC0yMjQwNDg4ODhdfQ==
 -->
