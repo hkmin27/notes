@@ -23,12 +23,12 @@ Let $Z := X_1 + X_2$. Since $X_1$ and $X_2$ are independent, $\mathbb{P}\{Z=z\} 
 $$\begin{aligned}\rho_{Z}(z) &= \int_{-\infty}^{\infty} \rho_1(t) \rho_2(z-t) \, dt\\
 &=\int_1^3 \frac{1}{2} \rho_2(z-t)\,dt \end{aligned}$$
 
-Now $1 \leq z-t \leq 2$ $4 \leq z-t \leq 5$.
+Now $\rho_2$ is nonzero if $1 \leq z-t \leq 2$ or $4 \leq z-t \leq 5$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjIzMjY1MywyMDM0OTQ3OTExLC0xMT
-k0MjQ0OTMwLC0xNjAwNjAwNzEsNTM3MjQyNzQxLC03NDA5Njky
-MDksMTExNDcwMzQyOCwtOTg2NDcyMTIwLDIwMzczMzg0NDQsLT
-E0NDE4MTE2OTIsMTU5OTY5ODE1OSwtODQ1MTQzMjk1LC0zNjg2
-MDM1NDAsLTk4MjkwNDY5LDg5OTY0MDQ2Miw1NDU5NzY1NDMsNT
-cyMjk2NzM2LC0yMjQwNDg4ODhdfQ==
+eyJoaXN0b3J5IjpbLTE1NDk4Nzg2MDgsMjA2NjIzMjY1MywyMD
+M0OTQ3OTExLC0xMTk0MjQ0OTMwLC0xNjAwNjAwNzEsNTM3MjQy
+NzQxLC03NDA5NjkyMDksMTExNDcwMzQyOCwtOTg2NDcyMTIwLD
+IwMzczMzg0NDQsLTE0NDE4MTE2OTIsMTU5OTY5ODE1OSwtODQ1
+MTQzMjk1LC0zNjg2MDM1NDAsLTk4MjkwNDY5LDg5OTY0MDQ2Mi
+w1NDU5NzY1NDMsNTcyMjk2NzM2LC0yMjQwNDg4ODhdfQ==
 -->
