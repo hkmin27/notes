@@ -25,10 +25,10 @@ $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{\sqrt{p}}} < \infty$$
  &=pc^{-p}\Gamma(p)
  \end{aligned}$$
  
- Since $\Gamma(p)^{1/p} \leq p$, the inequality follows.
+ Since $\Gamma(p)^{1/p} \leq p$, the inequality follows. Conversely, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTQ4NzY3OCwtMTI4ODg1ODM5NCwtMT
-M0MTQ4Nzc4NiwxMDE5ODY1NzA2LC0xMzE1MjM2MzM5LC0xNjQ2
-MDc3MTY0LC0xNjU1ODMzMzU3LC04ODcxNTIxNjIsLTE2MjgzOD
-EwNTgsLTI1NzY1NTE4Nl19
+eyJoaXN0b3J5IjpbMTQwMDMwNTM3OCwxMDA1NDg3Njc4LC0xMj
+g4ODU4Mzk0LC0xMzQxNDg3Nzg2LDEwMTk4NjU3MDYsLTEzMTUy
+MzYzMzksLTE2NDYwNzcxNjQsLTE2NTU4MzMzNTcsLTg4NzE1Mj
+E2MiwtMTYyODM4MTA1OCwtMjU3NjU1MTg2XX0=
 -->
