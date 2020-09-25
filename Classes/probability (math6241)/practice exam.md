@@ -10,8 +10,9 @@ Thus $\mathbb{E}(X) = \int t\,\mu\,dt = 29/6$, $\mathbb{E}(X^2) = \int t^2\,\mu\
 Thus $Var(X)=\mathbb{E}(X^2)-\mathbb{E}(X)^2=153/3=51.$
 
 **Problem 6.**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTE0MzI5NSwtMzY4NjAzNTQwLC05OD
-I5MDQ2OSw4OTk2NDA0NjIsNTQ1OTc2NTQzLDU3MjI5NjczNiwt
-MjI0MDQ4ODg4XX0=
+eyJoaXN0b3J5IjpbMTU5OTY5ODE1OSwtODQ1MTQzMjk1LC0zNj
+g2MDM1NDAsLTk4MjkwNDY5LDg5OTY0MDQ2Miw1NDU5NzY1NDMs
+NTcyMjk2NzM2LC0yMjQwNDg4ODhdfQ==
 -->
