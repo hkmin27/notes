@@ -26,10 +26,10 @@ $$\begin{aligned}\rho_{Z}(z) &= \int_{-\infty}^{\infty} \rho_1(t) \rho_2(z-t) \,
 Now $\rho_2$ is nonzero if $1 \leq z-t \leq 2$ or $4 \leq z-t \leq 5$.
 If $2 < z < 3$, 
 
-$$\rho_{Z}(z) =\int_1^{z} \frac{1}{2} \rho_2(z-t)\,dt $$
+$$\rho_{Z}(z) =\int_1^{z-1} \frac{1}{2} \rho_2(z-t)\,dt $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjEzNTY5MCwtMTU0OTg3ODYwOCwyMD
+eyJoaXN0b3J5IjpbLTg2ODcwMzA1OCwtMTU0OTg3ODYwOCwyMD
 Y2MjMyNjUzLDIwMzQ5NDc5MTEsLTExOTQyNDQ5MzAsLTE2MDA2
 MDA3MSw1MzcyNDI3NDEsLTc0MDk2OTIwOSwxMTE0NzAzNDI4LC
 05ODY0NzIxMjAsMjAzNzMzODQ0NCwtMTQ0MTgxMTY5MiwxNTk5
