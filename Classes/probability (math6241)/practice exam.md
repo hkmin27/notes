@@ -9,10 +9,10 @@ $$\mu = \begin{cases}1/3 \quad &x \in [2,4] \cup [8,9],\\
 Thus $\mathbb{E}(X) = \int t\,\mu\,dt = 29/6$, $\mathbb{E}(X^2) = \int t^2\,\mu\,dt = 91/3$.
 Thus $Var(X)=\mathbb{E}(X^2)-\mathbb{E}(X)^2=153/3=51.$
 
-**Problem 6.** 
+**Problem 6.** $F_X = \frac{\text{length of arc} }{2\pi}$ (why?)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDEwODYwNywxNTk5Njk4MTU5LC04ND
+eyJoaXN0b3J5IjpbMTMyNjgyNjUxMCwxNTk5Njk4MTU5LC04ND
 UxNDMyOTUsLTM2ODYwMzU0MCwtOTgyOTA0NjksODk5NjQwNDYy
 LDU0NTk3NjU0Myw1NzIyOTY3MzYsLTIyNDA0ODg4OF19
 -->
