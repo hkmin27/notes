@@ -17,7 +17,7 @@ $$\mathbb{P}\{X < c\} > 0.$$
 
 This implies $\mathbb{P}\{ \bigcap\{\xi_n< c\}\} > 0$ for all but finitely many $n$. Since $\xi_i$ are independent, $\mathbb{P}\{ \xi_n< c\} = 1$ for all but finitely many $n$. Thus $X < c$ almost everywhere.
 
-**Problem 5.** $X_n := \sum_{i=1}^n \xi_i$
+**Problem 5.** $X_n := \sum_{i=1}^n \xi_i$. Then $\{X_n \leq \frac{\epsilon^2 
 
 **Problem 6.** $F_X = \frac{\text{length of arc} }{2\pi}$ (why?)
 $F_X(a,b) = $
@@ -44,11 +44,11 @@ $$\rho_{Z}(z) = \begin{cases}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjgzMzc5MiwtMTk5ODYzMzA1NCwtMT
-g4MzU2Mjc2NCwzMTY5NjkzNjYsLTY3MTk2MzE0NywtMTkwODgx
-ODk2MiwtODY4NzAzMDU4LC0xNTQ5ODc4NjA4LDIwNjYyMzI2NT
-MsMjAzNDk0NzkxMSwtMTE5NDI0NDkzMCwtMTYwMDYwMDcxLDUz
-NzI0Mjc0MSwtNzQwOTY5MjA5LDExMTQ3MDM0MjgsLTk4NjQ3Mj
-EyMCwyMDM3MzM4NDQ0LC0xNDQxODExNjkyLDE1OTk2OTgxNTks
-LTg0NTE0MzI5NV19
+eyJoaXN0b3J5IjpbLTM1ODQ2MjA0MiwxMDQyODMzNzkyLC0xOT
+k4NjMzMDU0LC0xODgzNTYyNzY0LDMxNjk2OTM2NiwtNjcxOTYz
+MTQ3LC0xOTA4ODE4OTYyLC04Njg3MDMwNTgsLTE1NDk4Nzg2MD
+gsMjA2NjIzMjY1MywyMDM0OTQ3OTExLC0xMTk0MjQ0OTMwLC0x
+NjAwNjAwNzEsNTM3MjQyNzQxLC03NDA5NjkyMDksMTExNDcwMz
+QyOCwtOTg2NDcyMTIwLDIwMzczMzg0NDQsLTE0NDE4MTE2OTIs
+MTU5OTY5ODE1OV19
 -->
