@@ -15,7 +15,7 @@ $$\mathbb{E}(\frac{1}{|X|}) = \int_{-\infty}^{\infty} \frac{\rho_X(t)}{|t|}\,dt 
 **Problem 4.** Suppose $X$ is not $\infty$ a.e. Then there is $c > 0$ such that 
 $$\mathbb{P}\{X < c\} = \epsilon > 0.$$
 
-This implies $\mathbb{P}\{ \bigcap\{\xi_n< c\}\} = \epsilon > 0$ for infinitely many $n$. Since $\xi_i$ are independent, $\mathbb{P}\{ \{\xi_n< c\}\}$
+This implies $\mathbb{P}\{ \bigcap\{\xi_n< c\}\} = \epsilon > 0$ for infinitely many $n$. Since $\xi_i$ are independent, $\mathbb{P}\{ \xi_n< c\} = 1$ for infinitely many $n$
 
 **Problem 6.** $F_X = \frac{\text{length of arc} }{2\pi}$ (why?)
 $F_X(a,b) = $
@@ -42,7 +42,7 @@ $$\rho_{Z}(z) = \begin{cases}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDY5OTExMiwzMTY5NjkzNjYsLTY3MT
+eyJoaXN0b3J5IjpbLTQxMTczMDE0MywzMTY5NjkzNjYsLTY3MT
 k2MzE0NywtMTkwODgxODk2MiwtODY4NzAzMDU4LC0xNTQ5ODc4
 NjA4LDIwNjYyMzI2NTMsMjAzNDk0NzkxMSwtMTE5NDI0NDkzMC
 wtMTYwMDYwMDcxLDUzNzI0Mjc0MSwtNzQwOTY5MjA5LDExMTQ3
