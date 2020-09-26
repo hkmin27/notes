@@ -30,13 +30,13 @@ $$\rho_{Z}(z) = \begin{cases}
 	\int_1^{z-1} \frac{1}{4}\,dt = \frac{z-2}{4}\quad &2 \leq z \leq 3\\
 	\int_1^2 \frac{1}{4}\,dt = \frac{1}{4} \quad &3 \leq z \leq 4\\
 	\int_{z-3}^2 \frac{1}{4}\,dt = \frac{5-z}{4}\quad &4 \leq z \leq 5\\
-	\int_4^{z-1} \frac{1}{4}\,dt \quad &5 \leq z \leq 6\\
-	\int_1^{z-1} \frac{1}{4}\,dt \quad &6 \leq z \leq 7\\
-	\int_1^{z-1} \frac{1}{4}\,dt \quad &7 \leq z \leq 8\\	 
+	\int_4^{z-1} \frac{1}{4}\,dt = \frac{z-5}{z} \quad &5 \leq z \leq 6\\
+	\int_4^5 \frac{1}{4}\,dt = \frac{1}{4} \quad &6 \leq z \leq 7\\
+	\int_{z-3}^5 \frac{1}{4}\,dt = \frac{8-z}{4} \quad &7 \leq z \leq 8\\	 
 	\end{cases} $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODAwNjk0MjMsLTg2ODcwMzA1OCwtMT
+eyJoaXN0b3J5IjpbLTE5MDg4MTg5NjIsLTg2ODcwMzA1OCwtMT
 U0OTg3ODYwOCwyMDY2MjMyNjUzLDIwMzQ5NDc5MTEsLTExOTQy
 NDQ5MzAsLTE2MDA2MDA3MSw1MzcyNDI3NDEsLTc0MDk2OTIwOS
 wxMTE0NzAzNDI4LC05ODY0NzIxMjAsMjAzNzMzODQ0NCwtMTQ0
