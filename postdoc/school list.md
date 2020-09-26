@@ -8,7 +8,9 @@ No teaching letter
 5. Caltech
 6.  Yale
 7. Georgia Tech
+8. Chicago
+9. University of Notre Dame, Mathematics (visiting ass
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2MzU0NjcsLTc4OTMwNjI1NiwxODE1MD
-g4ODIzXX0=
+eyJoaXN0b3J5IjpbNDk3NDM1NjM4LDg1NjM1NDY3LC03ODkzMD
+YyNTYsMTgxNTA4ODgyM119
 -->
