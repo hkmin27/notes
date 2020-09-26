@@ -4,10 +4,11 @@ Require teaching letter
 3. Stanford
 
 No teaching letter
-4. UCLA
-5. CALTECH
-6.  
+4. Ucla
+5. Caltech
+6.  Yale
+7. Georgia Tech
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2NTUxMDAzLC03ODkzMDYyNTYsMTgxNT
-A4ODgyM119
+eyJoaXN0b3J5IjpbODU2MzU0NjcsLTc4OTMwNjI1NiwxODE1MD
+g4ODIzXX0=
 -->
