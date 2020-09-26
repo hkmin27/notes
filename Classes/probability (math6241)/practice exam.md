@@ -15,7 +15,7 @@ $$\mathbb{E}(\frac{1}{|X|}) = \int_{-\infty}^{\infty} \frac{\rho_X(t)}{|t|}\,dt 
 **Problem 4.** Suppose $X$ is not $\infty$ a.e. Then there is $c > 0$ such that 
 $$\mathbb{P}\{X < c\} > 0.$$
 
-This implies 
+This implies $\mathbb{P}\{\xi_n < c\} > 0$ for infinitely many $n$.
 
 **Problem 6.** $F_X = \frac{\text{length of arc} }{2\pi}$ (why?)
 $F_X(a,b) = $
@@ -42,11 +42,11 @@ $$\rho_{Z}(z) = \begin{cases}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3NTA0OTU0LC02NzE5NjMxNDcsLTE5MD
-g4MTg5NjIsLTg2ODcwMzA1OCwtMTU0OTg3ODYwOCwyMDY2MjMy
-NjUzLDIwMzQ5NDc5MTEsLTExOTQyNDQ5MzAsLTE2MDA2MDA3MS
-w1MzcyNDI3NDEsLTc0MDk2OTIwOSwxMTE0NzAzNDI4LC05ODY0
-NzIxMjAsMjAzNzMzODQ0NCwtMTQ0MTgxMTY5MiwxNTk5Njk4MT
-U5LC04NDUxNDMyOTUsLTM2ODYwMzU0MCwtOTgyOTA0NjksODk5
-NjQwNDYyXX0=
+eyJoaXN0b3J5IjpbLTIxMzI2NzE5ODQsLTY3MTk2MzE0NywtMT
+kwODgxODk2MiwtODY4NzAzMDU4LC0xNTQ5ODc4NjA4LDIwNjYy
+MzI2NTMsMjAzNDk0NzkxMSwtMTE5NDI0NDkzMCwtMTYwMDYwMD
+cxLDUzNzI0Mjc0MSwtNzQwOTY5MjA5LDExMTQ3MDM0MjgsLTk4
+NjQ3MjEyMCwyMDM3MzM4NDQ0LC0xNDQxODExNjkyLDE1OTk2OT
+gxNTksLTg0NTE0MzI5NSwtMzY4NjAzNTQwLC05ODI5MDQ2OSw4
+OTk2NDA0NjJdfQ==
 -->
