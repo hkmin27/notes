@@ -32,15 +32,16 @@ $$\rho_{Z}(z) = \begin{cases}
 	\int_{z-3}^2 \frac{1}{4}\,dt = \frac{5-z}{4}\quad &4 \leq z \leq 5\\
 	\int_4^{z-1} \frac{1}{4}\,dt = \frac{z-5}{z} \quad &5 \leq z \leq 6\\
 	\int_4^5 \frac{1}{4}\,dt = \frac{1}{4} \quad &6 \leq z \leq 7\\
-	\int_{z-3}^5 \frac{1}{4}\,dt = \frac{8-z}{4} \quad &7 \leq z \leq 8\\	 
-	\end{cases} \quad $$
+	\int_{z-3}^5 \frac{1}{4}\,dt = \frac{8-z}{4} \quad &7 \leq z \leq 8 \quad \square\\	 
+	\end{cases} $$
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODkzNTk5NDIsLTE5MDg4MTg5NjIsLT
-g2ODcwMzA1OCwtMTU0OTg3ODYwOCwyMDY2MjMyNjUzLDIwMzQ5
-NDc5MTEsLTExOTQyNDQ5MzAsLTE2MDA2MDA3MSw1MzcyNDI3ND
-EsLTc0MDk2OTIwOSwxMTE0NzAzNDI4LC05ODY0NzIxMjAsMjAz
-NzMzODQ0NCwtMTQ0MTgxMTY5MiwxNTk5Njk4MTU5LC04NDUxND
-MyOTUsLTM2ODYwMzU0MCwtOTgyOTA0NjksODk5NjQwNDYyLDU0
-NTk3NjU0M119
+eyJoaXN0b3J5IjpbLTY3MTk2MzE0NywtMTkwODgxODk2MiwtOD
+Y4NzAzMDU4LC0xNTQ5ODc4NjA4LDIwNjYyMzI2NTMsMjAzNDk0
+NzkxMSwtMTE5NDI0NDkzMCwtMTYwMDYwMDcxLDUzNzI0Mjc0MS
+wtNzQwOTY5MjA5LDExMTQ3MDM0MjgsLTk4NjQ3MjEyMCwyMDM3
+MzM4NDQ0LC0xNDQxODExNjkyLDE1OTk2OTgxNTksLTg0NTE0Mz
+I5NSwtMzY4NjAzNTQwLC05ODI5MDQ2OSw4OTk2NDA0NjIsNTQ1
+OTc2NTQzXX0=
 -->
