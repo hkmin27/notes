@@ -10,7 +10,8 @@ Require teaching letter
 9. Rice
 
 No teaching letter
-10. Ucla
+
+10. UCLA
 11. Caltech
 12.  Yale
 13. Georgia Tech
@@ -26,7 +27,7 @@ No teaching letter
 23. IBS
 24. KIAS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQ0OTM0Miw3MjUwOTI2MDUsMTQyMz
-c2ODAwMyw4NTYzNTQ2NywtNzg5MzA2MjU2LDE4MTUwODg4MjNd
-fQ==
+eyJoaXN0b3J5IjpbLTQ2NzEzMDU0NCwtMTgwNDQ5MzQyLDcyNT
+A5MjYwNSwxNDIzNzY4MDAzLDg1NjM1NDY3LC03ODkzMDYyNTYs
+MTgxNTA4ODgyM119
 -->
