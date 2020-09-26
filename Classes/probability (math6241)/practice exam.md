@@ -15,7 +15,7 @@ $$\mathbb{E}(\frac{1}{|X|}) = \int_{-\infty}^{\infty} \frac{\rho_X(t)}{|t|}\,dt 
 **Problem 4.** Suppose $X$ is not $\infty$ a.e. Then there is $c > 0$ such that 
 $$\mathbb{P}\{X < c\} = \epsilon > 0.$$
 
-This implies $\mathbb{P}\{ \bigcap\{\xi_n< c\}\} = \epsilon > 0$ for infinitely many $n$. Since $\xi_i$ are independent, $\mathbb{P}\{ \xi_n< c\} = 1$ for infinitely many $n$
+This implies $\mathbb{P}\{ \bigcap\{\xi_n< c\}\} = \epsilon > 0$ for infinitely many $n$. Since $\xi_i$ are independent, $\mathbb{P}\{ \xi_n< c\} = 1$ for infinitely many $n$. Thus $X < c$ almost everywhere.
 
 **Problem 6.** $F_X = \frac{\text{length of arc} }{2\pi}$ (why?)
 $F_X(a,b) = $
@@ -42,11 +42,11 @@ $$\rho_{Z}(z) = \begin{cases}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTczMDE0MywzMTY5NjkzNjYsLTY3MT
-k2MzE0NywtMTkwODgxODk2MiwtODY4NzAzMDU4LC0xNTQ5ODc4
-NjA4LDIwNjYyMzI2NTMsMjAzNDk0NzkxMSwtMTE5NDI0NDkzMC
-wtMTYwMDYwMDcxLDUzNzI0Mjc0MSwtNzQwOTY5MjA5LDExMTQ3
-MDM0MjgsLTk4NjQ3MjEyMCwyMDM3MzM4NDQ0LC0xNDQxODExNj
-kyLDE1OTk2OTgxNTksLTg0NTE0MzI5NSwtMzY4NjAzNTQwLC05
-ODI5MDQ2OV19
+eyJoaXN0b3J5IjpbLTE4ODM1NjI3NjQsMzE2OTY5MzY2LC02Nz
+E5NjMxNDcsLTE5MDg4MTg5NjIsLTg2ODcwMzA1OCwtMTU0OTg3
+ODYwOCwyMDY2MjMyNjUzLDIwMzQ5NDc5MTEsLTExOTQyNDQ5Mz
+AsLTE2MDA2MDA3MSw1MzcyNDI3NDEsLTc0MDk2OTIwOSwxMTE0
+NzAzNDI4LC05ODY0NzIxMjAsMjAzNzMzODQ0NCwtMTQ0MTgxMT
+Y5MiwxNTk5Njk4MTU5LC04NDUxNDMyOTUsLTM2ODYwMzU0MCwt
+OTgyOTA0NjldfQ==
 -->
