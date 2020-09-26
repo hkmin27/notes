@@ -17,7 +17,7 @@ $$\mathbb{P}\{X < c\} > 0.$$
 
 This implies $\mathbb{P}\{ \bigcap\{\xi_n< c\}\} > 0$ for all but finitely many $n$. Since $\xi_i$ are independent, $\mathbb{P}\{ \xi_n< c\} = 1$ for all but finitely many $n$. Thus $X < c$ almost everywhere.
 
-**Problem 5.** $X_n := \sum_{i=1}^n \xi_i$. Then $\{X_n \leq \frac{\epsilon^2 
+**Problem 5.** $X_n := \sum_{i=1}^n \xi_i$. Then $\{X_n \leq \frac{\epsilon^2n}{100}\} \subseteq |\{i<n \;|\; \xi_i \geq \epsilon\}| \leq \frac{\epsilon n}{100}$ 
 
 **Problem 6.** $F_X = \frac{\text{length of arc} }{2\pi}$ (why?)
 $F_X(a,b) = $
@@ -44,7 +44,7 @@ $$\rho_{Z}(z) = \begin{cases}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODQ2MjA0MiwxMDQyODMzNzkyLC0xOT
+eyJoaXN0b3J5IjpbLTgxODEzMjQwOSwxMDQyODMzNzkyLC0xOT
 k4NjMzMDU0LC0xODgzNTYyNzY0LDMxNjk2OTM2NiwtNjcxOTYz
 MTQ3LC0xOTA4ODE4OTYyLC04Njg3MDMwNTgsLTE1NDk4Nzg2MD
 gsMjA2NjIzMjY1MywyMDM0OTQ3OTExLC0xMTk0MjQ0OTMwLC0x
