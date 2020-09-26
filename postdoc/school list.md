@@ -6,19 +6,20 @@ Require teaching letter
 5. Dartmouth
 6. Cornell
 7. Duke
+8. University of Oklahoma
 
 No teaching letter
-8. Ucla
-9. Caltech
-10.  Yale
-11. Georgia Tech
-12. Chicago
-13. University of Notre Dame, Mathematics (visiting assistant?)
-14. University of Maryland 
-15. Northeastern
-16. Harvard
-17. IAS
+9. Ucla
+10. Caltech
+11.  Yale
+12. Georgia Tech
+13. Chicago
+14. University of Notre Dame, Mathematics (visiting assistant?)
+15. University of Maryland 
+16. Northeastern
+17. Harvard
+18. IAS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTk5MDk2NywxNDIzNzY4MDAzLDg1Nj
-M1NDY3LC03ODkzMDYyNTYsMTgxNTA4ODgyM119
+eyJoaXN0b3J5IjpbLTE5MDgxMTc5ODMsMTQyMzc2ODAwMyw4NT
+YzNTQ2NywtNzg5MzA2MjU2LDE4MTUwODg4MjNdfQ==
 -->
