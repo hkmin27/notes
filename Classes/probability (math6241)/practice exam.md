@@ -23,17 +23,16 @@ Let $Z := X_1 + X_2$. Since $X_1$ and $X_2$ are independent, $\mathbb{P}\{Z=z\} 
 $$\begin{aligned}\rho_{Z}(z) &= \int_{-\infty}^{\infty} \rho_1(t) \rho_2(z-t) \, dt\\
 &=\int_1^3 \frac{1}{2} \rho_2(z-t)\,dt \end{aligned}$$
 
-Now $\rho_2$ is nonzero if $1 \leq z-t \leq 2$ or $4 \leq z-t \leq 5$.
-If $2 < z < 3$, 
+Now $\rho_2$ is nonzero if $1 \leq z-t \leq 2$ or $4 \leq z-t \leq 5$. Thus we have
 
-$$\rho_{Z}(z) =\int_1^{z-1} \frac{1}{2} \rho_2(z-t)\,dt $$
+$$\rho_{Z}(z) = \begin{cases}\int_1^{z-1} \frac{1}{2} \rho_2(z-t)\,dt \end{cases} $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODcwMzA1OCwtMTU0OTg3ODYwOCwyMD
-Y2MjMyNjUzLDIwMzQ5NDc5MTEsLTExOTQyNDQ5MzAsLTE2MDA2
-MDA3MSw1MzcyNDI3NDEsLTc0MDk2OTIwOSwxMTE0NzAzNDI4LC
-05ODY0NzIxMjAsMjAzNzMzODQ0NCwtMTQ0MTgxMTY5MiwxNTk5
-Njk4MTU5LC04NDUxNDMyOTUsLTM2ODYwMzU0MCwtOTgyOTA0Nj
-ksODk5NjQwNDYyLDU0NTk3NjU0Myw1NzIyOTY3MzYsLTIyNDA0
-ODg4OF19
+eyJoaXN0b3J5IjpbLTc4OTU3MDU3NiwtODY4NzAzMDU4LC0xNT
+Q5ODc4NjA4LDIwNjYyMzI2NTMsMjAzNDk0NzkxMSwtMTE5NDI0
+NDkzMCwtMTYwMDYwMDcxLDUzNzI0Mjc0MSwtNzQwOTY5MjA5LD
+ExMTQ3MDM0MjgsLTk4NjQ3MjEyMCwyMDM3MzM4NDQ0LC0xNDQx
+ODExNjkyLDE1OTk2OTgxNTksLTg0NTE0MzI5NSwtMzY4NjAzNT
+QwLC05ODI5MDQ2OSw4OTk2NDA0NjIsNTQ1OTc2NTQzLDU3MjI5
+NjczNl19
 -->
