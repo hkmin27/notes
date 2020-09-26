@@ -20,8 +20,7 @@ This implies $\mathbb{P}\{ \bigcap\{\xi_n< c\}\} > 0$ for all but finitely many 
 **Problem 5.** $X_n := \sum_{i=1}^n \xi_i$. Then $\{X_n \leq \frac{\epsilon^2n}{100}\} \subseteq \{|\{i \leq n \;|\; \xi_i \geq \epsilon\}| \leq \frac{\epsilon n}{100}\}$ 
 
 **Problem 6.** $X$ is uniformly distributed on the unit circle. Thus we have 
-$$F_X(a.b) = (\text{length of arc contatined in (x,y) $\leq$ (a,b)})/{2\pi}$$
-Let $Y$ be a 
+$$F_X(a.b) = (\text{length of arc contatined in (x,y) $\leq$ (a,b)})/{2\pi}. \quad \square$$
 
 **Problem 7.** The probability density functions are
 $$\begin{aligned}\rho_1 &= \begin{cases} 1/2 \quad &t \in [1,3] \\ 0 \quad \text{otherwise} \end{cases}\\
@@ -45,11 +44,11 @@ $$\rho_{Z}(z) = \begin{cases}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDczMDY3NDksLTcxMDUyMTI5MywxMD
-QyODMzNzkyLC0xOTk4NjMzMDU0LC0xODgzNTYyNzY0LDMxNjk2
-OTM2NiwtNjcxOTYzMTQ3LC0xOTA4ODE4OTYyLC04Njg3MDMwNT
-gsLTE1NDk4Nzg2MDgsMjA2NjIzMjY1MywyMDM0OTQ3OTExLC0x
-MTk0MjQ0OTMwLC0xNjAwNjAwNzEsNTM3MjQyNzQxLC03NDA5Nj
-kyMDksMTExNDcwMzQyOCwtOTg2NDcyMTIwLDIwMzczMzg0NDQs
-LTE0NDE4MTE2OTJdfQ==
+eyJoaXN0b3J5IjpbMjcwNjgzOTIzLC03MTA1MjEyOTMsMTA0Mj
+gzMzc5MiwtMTk5ODYzMzA1NCwtMTg4MzU2Mjc2NCwzMTY5Njkz
+NjYsLTY3MTk2MzE0NywtMTkwODgxODk2MiwtODY4NzAzMDU4LC
+0xNTQ5ODc4NjA4LDIwNjYyMzI2NTMsMjAzNDk0NzkxMSwtMTE5
+NDI0NDkzMCwtMTYwMDYwMDcxLDUzNzI0Mjc0MSwtNzQwOTY5Mj
+A5LDExMTQ3MDM0MjgsLTk4NjQ3MjEyMCwyMDM3MzM4NDQ0LC0x
+NDQxODExNjkyXX0=
 -->
