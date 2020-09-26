@@ -22,9 +22,9 @@ No teaching letter
 19. IAS
 20. Brown University
 21. UT Arlington
-22. 
+22. ## University of Washington
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwMDcyOTc0LDcyNTA5MjYwNSwxNDIzNz
-Y4MDAzLDg1NjM1NDY3LC03ODkzMDYyNTYsMTgxNTA4ODgyM119
-
+eyJoaXN0b3J5IjpbMTE5MjUwNjg3OSw3MjUwOTI2MDUsMTQyMz
+c2ODAwMyw4NTYzNTQ2NywtNzg5MzA2MjU2LDE4MTUwODg4MjNd
+fQ==
 -->
