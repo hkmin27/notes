@@ -27,20 +27,20 @@ Now $\rho_2$ is nonzero if $1 \leq z-t \leq 2$ or $4 \leq z-t \leq 5$. Thus we h
 
 $$\rho_{Z}(z) = \begin{cases}
 	0 \quad &z \leq 2 \text{ or } z \geq 8\\
-	\int_1^{z-1} \frac{1}{4}\,dt = \quad &2 \leq z \leq 3\\
-	\int_1^{z-1} \frac{1}{4}\,dt \quad &2 \leq z \leq 3\\
-	\int_1^{z-1} \frac{1}{4}\,dt \quad &2 \leq z \leq 3\\
+	\int_1^{z-1} \frac{1}{4}\,dt = \frac{z-2}{4}\quad &2 \leq z \leq 3\\
+	\int_1^2 \frac{1}{4}\,dt = \frac{1}{4} \quad &3 \leq z \leq 4\\
+	\int_{z-3}^2 \frac{1}{4}\,dt \quad & \leq z \leq 4\\
 	\int_1^{z-1} \frac{1}{4}\,dt \quad &2 \leq z \leq 3\\
 	\int_1^{z-1} \frac{1}{4}\,dt \quad &2 \leq z \leq 3\\
 	\int_1^{z-1} \frac{1}{4}\,dt \quad &2 \leq z \leq 3\\	 
 	\end{cases} $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTQwNTY0NSwtODY4NzAzMDU4LC0xNT
-Q5ODc4NjA4LDIwNjYyMzI2NTMsMjAzNDk0NzkxMSwtMTE5NDI0
-NDkzMCwtMTYwMDYwMDcxLDUzNzI0Mjc0MSwtNzQwOTY5MjA5LD
-ExMTQ3MDM0MjgsLTk4NjQ3MjEyMCwyMDM3MzM4NDQ0LC0xNDQx
-ODExNjkyLDE1OTk2OTgxNTksLTg0NTE0MzI5NSwtMzY4NjAzNT
-QwLC05ODI5MDQ2OSw4OTk2NDA0NjIsNTQ1OTc2NTQzLDU3MjI5
-NjczNl19
+eyJoaXN0b3J5IjpbNzIyMzM0Mzg2LC04Njg3MDMwNTgsLTE1ND
+k4Nzg2MDgsMjA2NjIzMjY1MywyMDM0OTQ3OTExLC0xMTk0MjQ0
+OTMwLC0xNjAwNjAwNzEsNTM3MjQyNzQxLC03NDA5NjkyMDksMT
+ExNDcwMzQyOCwtOTg2NDcyMTIwLDIwMzczMzg0NDQsLTE0NDE4
+MTE2OTIsMTU5OTY5ODE1OSwtODQ1MTQzMjk1LC0zNjg2MDM1ND
+AsLTk4MjkwNDY5LDg5OTY0MDQ2Miw1NDU5NzY1NDMsNTcyMjk2
+NzM2XX0=
 -->
