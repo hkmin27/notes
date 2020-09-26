@@ -12,6 +12,9 @@ Thus $Var(X)=\mathbb{E}(X^2)-\mathbb{E}(X)^2=153/3=51. \quad \square$
 **Problem 3.** By continuity, $\rho_X(t) \geq \epsilon > 0$ for $|t| < \delta$. Thus
 $$\mathbb{E}(\frac{1}{|X|}) = \int_{-\infty}^{\infty} \frac{\rho_X(t)}{|t|}\,dt \geq \int_{-\delta}^{\delta} \frac{\epsilon}{|t|}\,dt = \infty. \quad\square$$
 
+**Problem 4.** Suppose $X$ is not $\infty$ a.e. Then there is $c > 0$ such that 
+$$\mathbb{P}\{X < c\}$$
+
 **Problem 6.** $F_X = \frac{\text{length of arc} }{2\pi}$ (why?)
 $F_X(a,b) = $
 
@@ -37,11 +40,11 @@ $$\rho_{Z}(z) = \begin{cases}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTk2MzE0NywtMTkwODgxODk2MiwtOD
-Y4NzAzMDU4LC0xNTQ5ODc4NjA4LDIwNjYyMzI2NTMsMjAzNDk0
-NzkxMSwtMTE5NDI0NDkzMCwtMTYwMDYwMDcxLDUzNzI0Mjc0MS
-wtNzQwOTY5MjA5LDExMTQ3MDM0MjgsLTk4NjQ3MjEyMCwyMDM3
-MzM4NDQ0LC0xNDQxODExNjkyLDE1OTk2OTgxNTksLTg0NTE0Mz
-I5NSwtMzY4NjAzNTQwLC05ODI5MDQ2OSw4OTk2NDA0NjIsNTQ1
-OTc2NTQzXX0=
+eyJoaXN0b3J5IjpbMTgyNzg0ODQ5OSwtNjcxOTYzMTQ3LC0xOT
+A4ODE4OTYyLC04Njg3MDMwNTgsLTE1NDk4Nzg2MDgsMjA2NjIz
+MjY1MywyMDM0OTQ3OTExLC0xMTk0MjQ0OTMwLC0xNjAwNjAwNz
+EsNTM3MjQyNzQxLC03NDA5NjkyMDksMTExNDcwMzQyOCwtOTg2
+NDcyMTIwLDIwMzczMzg0NDQsLTE0NDE4MTE2OTIsMTU5OTY5OD
+E1OSwtODQ1MTQzMjk1LC0zNjg2MDM1NDAsLTk4MjkwNDY5LDg5
+OTY0MDQ2Ml19
 -->
