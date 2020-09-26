@@ -29,18 +29,18 @@ $$\rho_{Z}(z) = \begin{cases}
 	0 \quad &z \leq 2 \text{ or } z \geq 8\\
 	\int_1^{z-1} \frac{1}{4}\,dt = \frac{z-2}{4}\quad &2 \leq z \leq 3\\
 	\int_1^2 \frac{1}{4}\,dt = \frac{1}{4} \quad &3 \leq z \leq 4\\
-	\int_{z-3}^2 \frac{1}{4}\,dt \quad & \leq z \leq 4\\
-	\int_1^{z-1} \frac{1}{4}\,dt \quad &2 \leq z \leq 3\\
-	\int_1^{z-1} \frac{1}{4}\,dt \quad &2 \leq z \leq 3\\
-	\int_1^{z-1} \frac{1}{4}\,dt \quad &2 \leq z \leq 3\\	 
+	\int_{z-3}^2 \frac{1}{4}\,dt = \frac{5-z}{4}\quad &4 \leq z \leq 5\\
+	\int_4^{z-1} \frac{1}{4}\,dt \quad &5 \leq z \leq 6\\
+	\int_1^{z-1} \frac{1}{4}\,dt \quad &6 \leq z \leq 7\\
+	\int_1^{z-1} \frac{1}{4}\,dt \quad &7 \leq z \leq 8\\	 
 	\end{cases} $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyMzM0Mzg2LC04Njg3MDMwNTgsLTE1ND
-k4Nzg2MDgsMjA2NjIzMjY1MywyMDM0OTQ3OTExLC0xMTk0MjQ0
-OTMwLC0xNjAwNjAwNzEsNTM3MjQyNzQxLC03NDA5NjkyMDksMT
-ExNDcwMzQyOCwtOTg2NDcyMTIwLDIwMzczMzg0NDQsLTE0NDE4
-MTE2OTIsMTU5OTY5ODE1OSwtODQ1MTQzMjk1LC0zNjg2MDM1ND
-AsLTk4MjkwNDY5LDg5OTY0MDQ2Miw1NDU5NzY1NDMsNTcyMjk2
-NzM2XX0=
+eyJoaXN0b3J5IjpbLTEyODAwNjk0MjMsLTg2ODcwMzA1OCwtMT
+U0OTg3ODYwOCwyMDY2MjMyNjUzLDIwMzQ5NDc5MTEsLTExOTQy
+NDQ5MzAsLTE2MDA2MDA3MSw1MzcyNDI3NDEsLTc0MDk2OTIwOS
+wxMTE0NzAzNDI4LC05ODY0NzIxMjAsMjAzNzMzODQ0NCwtMTQ0
+MTgxMTY5MiwxNTk5Njk4MTU5LC04NDUxNDMyOTUsLTM2ODYwMz
+U0MCwtOTgyOTA0NjksODk5NjQwNDYyLDU0NTk3NjU0Myw1NzIy
+OTY3MzZdfQ==
 -->
