@@ -13,9 +13,9 @@ Thus $Var(X)=\mathbb{E}(X^2)-\mathbb{E}(X)^2=153/3=51. \quad \square$
 $$\mathbb{E}(\frac{1}{|X|}) = \int_{-\infty}^{\infty} \frac{\rho_X(t)}{|t|}\,dt \geq \int_{-\delta}^{\delta} \frac{\epsilon}{|t|}\,dt = \infty. \quad\square$$
 
 **Problem 4.** Suppose $X$ is not $\infty$ a.e. Then there is $c > 0$ such that 
-$$\mathbb{P}\{X < c\} > 0.$$
+$$\mathbb{P}\{X < c\} = \epsilon > 0.$$
 
-This implies $\mathbb{P}\{\xi_n < c\} > 0$ for infinitely many $n$.
+This implies $\mathbb{P}\{ \bigcap\{\xi_n< c\}\} = \epsilon > 0$ for infinitely many $n$.
 
 **Problem 6.** $F_X = \frac{\text{length of arc} }{2\pi}$ (why?)
 $F_X(a,b) = $
@@ -42,11 +42,11 @@ $$\rho_{Z}(z) = \begin{cases}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzI2NzE5ODQsLTY3MTk2MzE0NywtMT
-kwODgxODk2MiwtODY4NzAzMDU4LC0xNTQ5ODc4NjA4LDIwNjYy
-MzI2NTMsMjAzNDk0NzkxMSwtMTE5NDI0NDkzMCwtMTYwMDYwMD
-cxLDUzNzI0Mjc0MSwtNzQwOTY5MjA5LDExMTQ3MDM0MjgsLTk4
-NjQ3MjEyMCwyMDM3MzM4NDQ0LC0xNDQxODExNjkyLDE1OTk2OT
-gxNTksLTg0NTE0MzI5NSwtMzY4NjAzNTQwLC05ODI5MDQ2OSw4
-OTk2NDA0NjJdfQ==
+eyJoaXN0b3J5IjpbMzE2OTY5MzY2LC02NzE5NjMxNDcsLTE5MD
+g4MTg5NjIsLTg2ODcwMzA1OCwtMTU0OTg3ODYwOCwyMDY2MjMy
+NjUzLDIwMzQ5NDc5MTEsLTExOTQyNDQ5MzAsLTE2MDA2MDA3MS
+w1MzcyNDI3NDEsLTc0MDk2OTIwOSwxMTE0NzAzNDI4LC05ODY0
+NzIxMjAsMjAzNzMzODQ0NCwtMTQ0MTgxMTY5MiwxNTk5Njk4MT
+U5LC04NDUxNDMyOTUsLTM2ODYwMzU0MCwtOTgyOTA0NjksODk5
+NjQwNDYyXX0=
 -->
