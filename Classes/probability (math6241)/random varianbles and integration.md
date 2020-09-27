@@ -10,7 +10,9 @@ $$\mathbb{P}(\bigcup_{i=1}^\infty A^c_i) = \lim_{i\to\infty}{P}(A^c_i)\\
 If $a_1 \leq a'_i$, we have $\{X_i \leq a_i \} \subseteq \{X_i \leq a'_i\}$. Thus the first item follows from the definition of measure. (It's not left continuous since $\bigcup A_i = (-\infty, a)$)
 If $a^m \downarrow a$, then we have $A_{m+1}:=\{X_i \leq a^{m+1}_i \} \subseteq \{X_i \leq a^m_i\}$ and $\lim_{i\to\infty} A_i = \{X_i \leq a_i\}$. Now the second item follows from **Lemma**.
 If $a_i \to \infty$ for all $i$, then we can find a monotone increasing subsequence for all i. Relabel it as $a_i$. Now apply **Problem 1.1** in measure theoretic foundation and we obtain the third item. $-\infty$ is similar.
- 
+
+ **Problem 4.1** 
+
  **Problem 5.3** Prove that a random variable X is subexponential if and only if
 
 $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{p}} < \infty$$
@@ -37,5 +39,5 @@ $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{\sqrt{p}}} < \infty$$
 
 By lemma, $\mathbb{P}\{|X| \geq t\} \leq de^{-\lambda t} \leq e^{-ct}$ for $t \geq C$. $\square$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDc4MzI2MF19
+eyJoaXN0b3J5IjpbLTEzNzAwNjk2NTgsMTQ3NDc4MzI2MF19
 -->
