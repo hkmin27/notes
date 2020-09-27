@@ -11,11 +11,11 @@ If $a_1 \leq a'_i$, we have $\{X_i \leq a_i \} \subseteq \{X_i \leq a'_i\}$. Thu
 If $a^m \downarrow a$, then we have $A_{m+1}:=\{X_i \leq a^{m+1}_i \} \subseteq \{X_i \leq a^m_i\}$ and $\lim_{i\to\infty} A_i = \{X_i \leq a_i\}$. Now the second item follows from **Lemma**.
 If $a_i \to \infty$ for all $i$, then we can find a monotone increasing subsequence for all i. Relabel it as $a_i$. Now apply **Problem 1.1** in measure theoretic foundation and we obtain the third item. $-\infty$ is similar.
 
- **Problem 4.1** By definition, we only need to show
+ **Problem 4.1.** By definition, we only need to show
  $$\mathbb{E}f(X) = \int_{\mathbb{R}^n} f(t)\,d\mu_X(t)$$
 
 
-**Problem 4.3** 
+**Problem 4.3.**  
  
  **Problem 5.3** Prove that a random variable X is subexponential if and only if
 
@@ -43,6 +43,6 @@ $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{\sqrt{p}}} < \infty$$
 
 By lemma, $\mathbb{P}\{|X| \geq t\} \leq de^{-\lambda t} \leq e^{-ct}$ for $t \geq C$. $\square$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjcxMjAzOCwxOTgyNzI4OTk2LDE5ND
+eyJoaXN0b3J5IjpbMTc3ODA1OTU1NCwxOTgyNzI4OTk2LDE5ND
 Q5NzQ4MjgsLTEzNzAwNjk2NTgsMTQ3NDc4MzI2MF19
 -->
