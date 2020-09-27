@@ -12,7 +12,8 @@ If $a^m \downarrow a$, then we have $A_{m+1}:=\{X_i \leq a^{m+1}_i \} \subseteq 
 If $a_i \to \infty$ for all $i$, then we can find a monotone increasing subsequence for all i. Relabel it as $a_i$. Now apply **Problem 1.1** in measure theoretic foundation and we obtain the third item. $-\infty$ is similar.
 
  **Problem 4.1** We know
- $$\mathbb{E}X = \inft
+ $$\mathbb{E}f(X) = \int_{-\infty}^{\infty} f(t)\rho_X(t)$$
+ By definition, this coincides 
 
  **Problem 5.3** Prove that a random variable X is subexponential if and only if
 
@@ -40,6 +41,6 @@ $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{\sqrt{p}}} < \infty$$
 
 By lemma, $\mathbb{P}\{|X| \geq t\} \leq de^{-\lambda t} \leq e^{-ct}$ for $t \geq C$. $\square$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDg4NzIxNzAsLTEzNzAwNjk2NTgsMT
-Q3NDc4MzI2MF19
+eyJoaXN0b3J5IjpbMTk0NDk3NDgyOCwtMTM3MDA2OTY1OCwxND
+c0NzgzMjYwXX0=
 -->
