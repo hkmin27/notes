@@ -13,6 +13,9 @@ If $a_i \to \infty$ for all $i$, then we can find a monotone increasing subseque
 
  **Problem 4.1** By definition, we only need to show
  $$\mathbb{E}f(X) = \int_{\mathbb{R}^n} f(t)\,d\mu_X(t)$$
+
+
+**Problem 4.3** 
  
  **Problem 5.3** Prove that a random variable X is subexponential if and only if
 
@@ -40,6 +43,6 @@ $$\sup{\frac{(\mathbb{E}|X|^p)^{1/p}}{\sqrt{p}}} < \infty$$
 
 By lemma, $\mathbb{P}\{|X| \geq t\} \leq de^{-\lambda t} \leq e^{-ct}$ for $t \geq C$. $\square$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjcyODk5NiwxOTQ0OTc0ODI4LC0xMz
-cwMDY5NjU4LDE0NzQ3ODMyNjBdfQ==
+eyJoaXN0b3J5IjpbMjA0MjcxMjAzOCwxOTgyNzI4OTk2LDE5ND
+Q5NzQ4MjgsLTEzNzAwNjk2NTgsMTQ3NDc4MzI2MF19
 -->
