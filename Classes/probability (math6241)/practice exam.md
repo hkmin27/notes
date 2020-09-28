@@ -15,7 +15,8 @@ $$\mathbb{E}(\frac{1}{|X|}) = \int_{-\infty}^{\infty} \frac{\rho_X(t)}{|t|}\,dt 
 **Problem 4.** Suppose $X$ is not $\infty$ a.e. Then there is $c > 0$ such that 
 $$\mathbb{P}\{X < c\} > 0.$$
 
-This implies $\mathbb{P}\{ \bigcap\{\xi_n< c\}\} > 0$ for all but finitely many $n$. Since $\xi_i$ are independent, $\mathbb{P}\{ \xi_n< c\} = 1$ for all but finitely many $n$. Thus $X < c$ almost everywhere.
+Suppose $A := \{ X < c \}$. We claim that $A \subseteq \bigcap\{\xi_n < c\}$ for all but finitely many n. Suppose not. Then there is $x \in A$ such that for infinite subset of $\mathbb{N}$, $x \notin \{\xi_n < c\}$, which implies that $\limsup \xi_n(x)>c$. Therefore, $\mathbb{P}\{ \bigcap\{\xi_n< c\}\} > 0$ for all but finitely many $n$. Since $\xi_i$ are independent, $\mathbb{P}\{ \bigcap\{\xi_n< c\}\} = \prod \mathbb{P}\{\xi_n< c\}$. Thus $\lim \mathbb{P}\{\xi_n< c\} = 1$. Thus $X < c$ almost everywhere. 
+Now suppose $\mathbb{P}\{X < c'\} > 0$ for some $c' < c$. By the same argument above, we have $X < c'$ almost everywhere, which is a contradiction. Thus $X = c$ almost everywhere.
 
 **Problem 5.** $X_n := \sum_{i=1}^n \xi_i$. Then $\{X_n \leq \frac{\epsilon^2n}{100}\} \subseteq \{|\{i \leq n \;|\; \xi_i \geq \epsilon\}| \leq \frac{\epsilon n}{100}\}$ 
 
