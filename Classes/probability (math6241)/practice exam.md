@@ -18,7 +18,7 @@ $$\mathbb{P}\{X < c\} > 0.$$
 Suppose $A := \{ X < c \}$. We claim that $A \subseteq \bigcap\{\xi_n < c\}$ for all but finitely many n. Suppose not. Then there is $x \in A$ such that for infinite subset of $\mathbb{N}$, $x \notin \{\xi_n < c\}$, which implies that $\limsup \xi_n(x)>c$. Therefore, $\mathbb{P}\{ \bigcap\{\xi_n< c\}\} > 0$ for all but finitely many $n$. Since $\xi_i$ are independent, $\mathbb{P}\{ \bigcap\{\xi_n< c\}\} = \prod \mathbb{P}\{\xi_n< c\}$. Thus $\lim \mathbb{P}\{\xi_n< c\} = 1$. Thus $X < c$ almost everywhere. 
 Now suppose $\mathbb{P}\{X < c'\} > 0$ for some $c' < c$. By the same argument above, we have $X < c'$ almost everywhere, which is a contradiction. Thus $X = c$ almost everywhere.
 
-**Problem 5.** $X_n := \sum_{i=1}^n \xi_i$. Then $\{X_n \leq \frac{\epsilon^2n}{100}\} \subseteq \{|\{i \leq n \;|\; \xi_i \geq \epsilon\}| \leq \frac{\epsilon n}{100}\}$ 
+**Problem 5.** 
 
 **Problem 6.** $X$ is uniformly distributed on the unit circle. Thus we have 
 $$F_X(a.b) = (\text{length of arc contatined in (x,y) $\leq$ (a,b)})/{2\pi}. \quad \square$$
@@ -45,11 +45,11 @@ $$\rho_{Z}(z) = \begin{cases}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwNjgzOTIzLC03MTA1MjEyOTMsMTA0Mj
-gzMzc5MiwtMTk5ODYzMzA1NCwtMTg4MzU2Mjc2NCwzMTY5Njkz
-NjYsLTY3MTk2MzE0NywtMTkwODgxODk2MiwtODY4NzAzMDU4LC
-0xNTQ5ODc4NjA4LDIwNjYyMzI2NTMsMjAzNDk0NzkxMSwtMTE5
-NDI0NDkzMCwtMTYwMDYwMDcxLDUzNzI0Mjc0MSwtNzQwOTY5Mj
-A5LDExMTQ3MDM0MjgsLTk4NjQ3MjEyMCwyMDM3MzM4NDQ0LC0x
-NDQxODExNjkyXX0=
+eyJoaXN0b3J5IjpbMTM1MDMxOTY0OSwyNzA2ODM5MjMsLTcxMD
+UyMTI5MywxMDQyODMzNzkyLC0xOTk4NjMzMDU0LC0xODgzNTYy
+NzY0LDMxNjk2OTM2NiwtNjcxOTYzMTQ3LC0xOTA4ODE4OTYyLC
+04Njg3MDMwNTgsLTE1NDk4Nzg2MDgsMjA2NjIzMjY1MywyMDM0
+OTQ3OTExLC0xMTk0MjQ0OTMwLC0xNjAwNjAwNzEsNTM3MjQyNz
+QxLC03NDA5NjkyMDksMTExNDcwMzQyOCwtOTg2NDcyMTIwLDIw
+MzczMzg0NDRdfQ==
 -->
