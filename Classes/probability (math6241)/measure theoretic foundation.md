@@ -32,7 +32,10 @@ The proof of **Corollary 2.5.** doesn't work since $\mathcal{L}$ is not a $\lamb
 $$\mu_1(\{i\}) = 1/4,\\\mu_2(\{1\}) = \mu_2(\{3\}) = 1/2,\, \mu_2(\{2\}) = \mu_2(\{4\}) = 0$$
 
 **Problem 2.3.** $\mathcal{L} = \{ \phi, [-1,0], [0,1], (-\infty, -1) \cup (0, \infty), (-\infty, 0) \cup (1, \infty), \mathbb{R} \}$ is a $\lambda$-system. However, it's not a $\sigma$-field. (since $[-1,0]$ and $[0,1]$ intersect)
+
+**Problem 5.1.** Easy to check from the definition.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjM5NjQ1OTYsLTEzMjU5NjMyNzUsMT
-g4NjYyOTg0OSwxNzY0NTYwNDQyLDYzMzYwNzUzOF19
+eyJoaXN0b3J5IjpbNDU1OTY4NDk0LC0xODIzOTY0NTk2LC0xMz
+I1OTYzMjc1LDE4ODY2Mjk4NDksMTc2NDU2MDQ0Miw2MzM2MDc1
+MzhdfQ==
 -->
