@@ -20,7 +20,7 @@ Now suppose
 $$c := \inf_d \mathbb{P}\{X < d\} > 0$$ 
 By the argument above, we have $X < c+1/n$ almost everywhere. Thus $c-1/n < X < c + 1/n$ almost everywhere for all $n$. Therefore, $X = c$ almost everywhere.
 
-**Problem 5.** $X_n := \sum_{i=1}^n \xi_i$. Then $\{X_n \leq \frac{\epsilon^2n}{100}\} \subseteq \{|\{i \leq n \;|\; \xi_i \geq \epsilon\}| \leq \frac{\epsilon n}{100}\}$ 
+**Problem 5.** 
 
 **Problem 6.** $X$ is uniformly distributed on the unit circle. Thus we have 
 $$F_X(a.b) = (\text{length of arc contatined in (x,y) $\leq$ (a,b)})/{2\pi}. \quad \square$$
@@ -47,11 +47,11 @@ $$\rho_{Z}(z) = \begin{cases}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwNjgzOTIzLC03MTA1MjEyOTMsMTA0Mj
-gzMzc5MiwtMTk5ODYzMzA1NCwtMTg4MzU2Mjc2NCwzMTY5Njkz
-NjYsLTY3MTk2MzE0NywtMTkwODgxODk2MiwtODY4NzAzMDU4LC
-0xNTQ5ODc4NjA4LDIwNjYyMzI2NTMsMjAzNDk0NzkxMSwtMTE5
-NDI0NDkzMCwtMTYwMDYwMDcxLDUzNzI0Mjc0MSwtNzQwOTY5Mj
-A5LDExMTQ3MDM0MjgsLTk4NjQ3MjEyMCwyMDM3MzM4NDQ0LC0x
-NDQxODExNjkyXX0=
+eyJoaXN0b3J5IjpbMTM1MDMxOTY0OSwyNzA2ODM5MjMsLTcxMD
+UyMTI5MywxMDQyODMzNzkyLC0xOTk4NjMzMDU0LC0xODgzNTYy
+NzY0LDMxNjk2OTM2NiwtNjcxOTYzMTQ3LC0xOTA4ODE4OTYyLC
+04Njg3MDMwNTgsLTE1NDk4Nzg2MDgsMjA2NjIzMjY1MywyMDM0
+OTQ3OTExLC0xMTk0MjQ0OTMwLC0xNjAwNjAwNzEsNTM3MjQyNz
+QxLC03NDA5NjkyMDksMTExNDcwMzQyOCwtOTg2NDcyMTIwLDIw
+MzczMzg0NDRdfQ==
 -->

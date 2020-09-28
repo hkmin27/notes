@@ -56,6 +56,9 @@ However, by Jensen's inequality (or the definition of variation),
 $$|E(X-t)| \leq E|X-t| 
 \leq E|X-EX| \leq \sqrt{E(X-EX)^2} =\sqrt{\text{Var}X}. \quad\square$$
 
+Or we can just use
+$$\mathbb{E}(X-t)^2 \leq \mathbb{E}(X-\mathbb{E}X + \mathbb{E}X -t)^2 = \text{Var}X + (\mathbb{E}X - t)^2 \leq 2\text{Var}X$$
+
 **Problem 4.5.** Suppose the probability space is $P = ([0,1],\mathcal{R})$ and 
 
 $$\begin{aligned} X &= \begin{cases}1/t \quad &1/(2n-1) \leq t \leq 1/2n,\\ 0 \quad &1/2n < t < 1/(2n+1).\end{cases}\\
@@ -89,6 +92,7 @@ for $|\lambda| < C$. Now we need a lemma.
 
 By lemma, $\mathbb{P}\{|X| \geq t\} \leq de^{-\lambda t} \leq e^{-ct}$ for $t \geq C. \quad\square$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODA1OTU1NCwxOTgyNzI4OTk2LDE5ND
-Q5NzQ4MjgsLTEzNzAwNjk2NTgsMTQ3NDc4MzI2MF19
+eyJoaXN0b3J5IjpbMzkwODMyMzk5LDE3NzgwNTk1NTQsMTk4Mj
+cyODk5NiwxOTQ0OTc0ODI4LC0xMzcwMDY5NjU4LDE0NzQ3ODMy
+NjBdfQ==
 -->
