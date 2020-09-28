@@ -7,7 +7,7 @@ Now $\mathbb{E}(X) = \int_1^\infty t\,\rho(t)\,dt <\infty$. However, $\mathbb{E}
 $$\rho = \begin{cases}1/3 \quad &x \in [2,4] \cup [8,9],\\
 0  &\text{otherwise}.\end{cases}$$
 Thus $\mathbb{E}(X) = \int t\,\rho\,dt = 29/6$, $\mathbb{E}(X^2) = \int t^2\,\rho\,dt = 91/3$.
-Thus $Var(X)=\mathbb{E}(X^2)-\mathbb{E}(X)^2=153/3=51. \quad \square$
+Thus $Var(X)=\mathbb{E}(X^2)-\mathbb{E}(X)^2=153/3=51. \quad \square$ (제곱안함)
 
 **Problem 3.** By continuity, $\rho_X(t) \geq \epsilon > 0$ for $|t| < \delta$. Thus
 $$\mathbb{E}(\frac{1}{|X|}) = \int_{-\infty}^{\infty} \frac{\rho_X(t)}{|t|}\,dt \geq \int_{-\delta}^{\delta} \frac{\epsilon}{|t|}\,dt = \infty. \quad\square$$
@@ -15,8 +15,10 @@ $$\mathbb{E}(\frac{1}{|X|}) = \int_{-\infty}^{\infty} \frac{\rho_X(t)}{|t|}\,dt 
 **Problem 4.** Suppose $X$ is not $\infty$ a.e. Then there is $c > 0$ such that 
 $$\mathbb{P}\{X < c\} > 0.$$
 
-Suppose $A := \{ X < c \}$. We claim that $A \subseteq \bigcap\{\xi_n < c\}$ for all but finitely many n. Suppose not. Then there is $x \in A$ such that for infinite subset of $\mathbb{N}$, $x \notin \{\xi_n < c\}$, which implies that $\limsup \xi_n(x)>c$. Therefore, $\mathbb{P}\{ \bigcap\{\xi_n< c\}\} > 0$ for all but finitely many $n$. Since $\xi_i$ are independent, $\mathbb{P}\{ \bigcap\{\xi_n< c\}\} = \prod \mathbb{P}\{\xi_n< c\}$. Thus $\lim \mathbb{P}\{\xi_n< c\} = 1$. Thus $X < c$ almost everywhere. 
-Now suppose $\mathbb{P}\{X < c'\} > 0$ for some $c' < c$. By the same argument above, we have $X < c'$ almost everywhere, which is a contradiction. Thus $X = c$ almost everywhere.
+Suppose $A := \{X < c\}$. We claim that $A \subseteq \bigcap\{\xi_n < c\}$ for all but finitely many n. Suppose not. Then there is $x \in A$ such that for infinite subset of $\mathbb{N}$, $x \notin \{\xi_n < c\}$, which implies that $\limsup \xi_n(x)>c$. Therefore, $\mathbb{P}\{\bigcap\{\xi_n< c\}\} > 0$ for all but finitely many $n$. Since $\xi_i$ are i.i.d, $\mathbb{P}\{ \bigcap\{\xi_n< c\}\} = \prod \mathbb{P}\{\xi_n< c\} = \prod \mathbb{P}\{\xi_1< c\} > 0$. Thus $\mathbb{P}\{\xi_n< c\} = 1$ for all $n$. Thus $X < c$ almost everywhere. 
+Now suppose 
+$$c := \inf_d \mathbb{P}\{X < d\} > 0$$ 
+By the argument above, we have $X < c+1/n$ almost everywhere. Thus $c-1/n < X < c + 1/n$ almost everywhere for all $n$. Therefore, $X = c$ almost everywhere.
 
 **Problem 5.** $X_n := \sum_{i=1}^n \xi_i$. Then $\{X_n \leq \frac{\epsilon^2n}{100}\} \subseteq \{|\{i \leq n \;|\; \xi_i \geq \epsilon\}| \leq \frac{\epsilon n}{100}\}$ 
 
