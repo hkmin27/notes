@@ -25,13 +25,14 @@ $$S := \{ \prod_{i=1}^n (a_i,b_i]: -\infty \leq a_1,...,a_n,b_1,...,b_n \leq \in
 **Problem 2.1.**  Let $\mu_1$ be the counting measure on $\mathbb{R}$ and $\mu_2(A)=\infty$ except for $A = \phi$.
 Since 
 $$\bigcap_{n=1}^\infty (a - 1/n, a] = \{a\}$$
-is in the Borel $\sigma$-field, the two measures do not coincide.  $\square$
+is in the Borel $\sigma$-field, the two measures do not coincide.  
+The proof of **Corollary 2.5.** doesn't work since $\mathcal{L}$ is not a $\lambda$-system. (consider a complement of R$\square$
 
 **Problem 2.2.** Let $\mathcal{C}=\{\{1,2\}, \{2,3\}\}.$ Clearly $\sigma(\mathcal{C}) = 2^{\{1,2,3,4\}}$. Notice that $\mathcal{C}$ is not a $\pi$-system. Now define $\mu_1, \mu_2$ as follows.
 $$\mu_1(\{i\}) = 1/4,\\\mu_2(\{1\}) = \mu_2(\{3\}) = 1/2,\, \mu_2(\{2\}) = \mu_2(\{4\}) = 0$$
 
 **Problem 2.3.** $\mathcal{L} = \{ \phi, [-1,0], [0,1], (-\infty, -1) \cup (0, \infty), (-\infty, 0) \cup (1, \infty), \mathbb{R} \}$ is a $\lambda$-system. However, it's not a $\sigma$-field. (since $[-1,0]$ and $[0,1]$ intersect)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxNzkxMzE5LC0xMzI1OTYzMjc1LDE4OD
-Y2Mjk4NDksMTc2NDU2MDQ0Miw2MzM2MDc1MzhdfQ==
+eyJoaXN0b3J5IjpbLTE5MjcwMTY2MjQsLTEzMjU5NjMyNzUsMT
+g4NjYyOTg0OSwxNzY0NTYwNDQyLDYzMzYwNzUzOF19
 -->
