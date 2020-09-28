@@ -10,7 +10,9 @@ $$\begin{aligned}
 **Problem 1.2.**  We will verify the 3 conditions.
 - $\phi, \Omega \in S$: trivial.
 - $A, B \in S \Rightarrow A \cap B \in S$: $$\bigcup_{i=1}^n A_i \cap \bigcup_{j=1}^m B_j = \bigcup_{i,j=1}^{n,m}(A_i\cap B_j).$$
-- $A \in S \Rightarrow A^c \in S$: trivial. $\square$
+- $A \in S \Rightarrow A^c \in S$: trivial. 
+Also any field containing $S$ clearly has the property that any finite union of elements in $S$ should be in the field. $\square$
+
 
 **Problem 1.3.** Let $n \geq 1$, Show that the following set is a semi-field.
 $$S := \{ \prod_{i=1}^n (a_i,b_i]: -\infty \leq a_1,...,a_n,b_1,...,b_n \leq \infty \}. $$
@@ -31,5 +33,6 @@ $$\mu_1(\{i\}) = 1/4,\\\mu_2(\{1\}) = \mu_2(\{3\}) = 1/2,\, \mu_2(\{2\}) = \mu_2
 
 **Problem 2.3.** $\mathcal{L} = \{ \phi, [-1,0], [0,1], (-\infty, -1) \cup (0, \infty), (-\infty, 0) \cup (1, \infty), \mathbb{R} \}$ is a $\lambda$-system. However, it's not a $\sigma$-field. (since $[-1,0]$ and $[0,1]$ intersect)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDU2MDQ0Miw2MzM2MDc1MzhdfQ==
+eyJoaXN0b3J5IjpbMTg4NjYyOTg0OSwxNzY0NTYwNDQyLDYzMz
+YwNzUzOF19
 -->
