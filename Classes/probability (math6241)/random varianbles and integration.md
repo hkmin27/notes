@@ -72,10 +72,10 @@ $Z := \min{(X,Y)}$. Then $Z^2 \leq XY$. By Jensen's inequality, we have
 $$(\mathbb{E}Z)^2 \leq \mathbb{E}Z^2 \leq \mathbb{E}XY < \infty.$$
 Thus $\mathbb{E}Z < \infty \quad \square$. 
 
-**Problem 5.3.** Suppose $X$ is subexponential.
+**Problem 5.1.** Suppose $X$ is subexponential.
 $$\begin{aligned}
 \mathbb{E}|X|^p &= \int_0^\infty \mathbb{P}\{|X|\geq t^{1/p}\}\,dt\\
-&= \int_C^\infty \exp(-ct^{1/p})\,dt + D\\
+&\leq \int_C^\infty \exp(-ct^{1/p})\,dt + D\\
 &\leq \int_0^\infty pc^{-p}u^{p-1} \exp (-u)\,du, \quad (u=ct^{1/p})\\ 
 &=pc^{-p}\Gamma(p)
 \end{aligned}$$

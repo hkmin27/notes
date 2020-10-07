@@ -20,7 +20,10 @@ Now suppose
 $$c := \inf_d \mathbb{P}\{X < d\} > 0$$ 
 By the argument above, we have $X < c+1/n$ almost everywhere. Thus $c-1/n < X < c + 1/n$ almost everywhere for all $n$. Therefore, $X = c$ almost everywhere.
 
-**Problem 5.** 
+**Problem 5.** There is $\epsilon$ such that $\mathbb{P}\{\xi_i > \epsilon\} \geq \epsilon$. Let $X_n = \sum_{i=1}^n\xi_i$. Then we have
+$$\mathbb{P}\{X_n > \frac{\epsilon^2n}{100}\} \geq \mathbb{P}\{\xi_i > \epsilon \;\text{for}\; \frac{n\epsilon}{100} \;i's\} \geq 1- \mathbb{P}\{\xi_i < \epsilon \;\text{for}\; n - \frac{n\epsilon}{100} + 1 \;i's\} \geq 1 - \binom{n}{\frac{n\epsilon^2}{100}}(1-\epsilon)^n $$
+
+The last equation converges to 1 very fast. $\square$
 
 **Problem 6.** $X$ is uniformly distributed on the unit circle. Thus we have 
 $$F_X(a.b) = (\text{length of arc contatined in (x,y) $\leq$ (a,b)})/{2\pi}. \quad \square$$
