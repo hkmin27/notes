@@ -3,11 +3,11 @@
 
 **proof.** $H^n(X) \xrightarrow{i_*} H^n(\partial X) \xrightarrow{\delta} H^{n+1}(X,\partial X)$.
 Since $H^n(\partial X) = H_n(\partial X)$ and $H^{n+1}(X,\partial X) = H_n(X)$ by Poincare duality, we have  
-$$\text{rank }i^* = \dim i^* = \dim \ker i_* = di $$
+$$\dim i^* = \dim \ker i_* = \dim H_n (\partial X) - \dim i_* $$
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU4MTUxMjYsLTExMjAzMDUzNTMsLT
-EzNzM4NzAxMSw3OTEzMDM4ODMsMTY4Nzg1MTE3NSw2MDg4Nzk4
-MzQsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTkyMTgxNzYzMCwtMTEyMDMwNTM1MywtMT
+M3Mzg3MDExLDc5MTMwMzg4MywxNjg3ODUxMTc1LDYwODg3OTgz
+NCwtMjA4ODc0NjYxMl19
 -->
