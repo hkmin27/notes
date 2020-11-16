@@ -6,10 +6,10 @@
 There is a 2-dimensional analogue of a sutured manifold.
 
 ---
-**Definition 2.** A *sutured surface* is a pair $\mathcal{F}(F,\Lambda)$
+**Definition 2.** A *sutured surface* is a pair $\mathcal{F}=(F,\Lambda)$ where $F$ is a
 
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjczMTE5N119
+eyJoaXN0b3J5IjpbLTY2NDM3NTA3Nl19
 -->
