@@ -8,10 +8,10 @@ There is a 2-dimensional analogue of a sutured manifold.
 ---
 **Definition 2.** A *sutured surface* is a pair $\mathcal{F}=(F,\Lambda)$ where $F$ is an oriented surface with boundary and $\Lambda$ is a collection of points on $\partial F$ called *sutures*. Every component of $\partial F$ contains sutures and $\Lambda$ divides $\partial F$ into two regions $S_+$ and $S_-$.
 
-**Definition 3.** Let $\mathcal{F} = (F,\Lambda)$ be a sutured surface. A *dividing set* $\Gamma$ for $\mathcal{F}$ is a finite collection of 
+**Definition 3.** Let $\mathcal{F} = (F,\Lambda)$ be a sutured surface. A *dividing set* $\Gamma$ for $\mathcal{F}$ is a finite collection of oriented properly embedded arcs and simple closed curves in $F$ for which $\partial\Gamma = -\Lambda$.
 
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjM5NzU3NCwxNjIzNzUyMTJdfQ==
+eyJoaXN0b3J5IjpbMTA0MjI5NTM0NywxNjIzNzUyMTJdfQ==
 -->
