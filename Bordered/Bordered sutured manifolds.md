@@ -14,9 +14,14 @@ There is a 2-dimensional analogue of a sutured manifold.
 
 ---
 
+Insert figure of sutured surfaces
+
 ### Arc diagrams and bordered sutured manifolds
 
+---
+**Definition 4.** 
 
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTM3NzQxXX0=
+eyJoaXN0b3J5IjpbLTU4ODUzMDY0NiwxODg1Mzc3NDFdfQ==
 -->
