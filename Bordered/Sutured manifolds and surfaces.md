@@ -6,10 +6,10 @@
 There is a 2-dimensional analogue of a sutured manifold.
 
 ---
-**Definition 2.** A *sutured surface* is a pair $\mathcal{F}=(F,\Lambda)$ where $F$ is an oriented surface with boundary and $\Lambda$ is a set of points on $\partial F$ called *sutures*.
+**Definition 2.** A *sutured surface* is a pair $\mathcal{F}=(F,\Lambda)$ where $F$ is an oriented surface with boundary and $\Lambda$ is a set of points on $\partial F$ called *sutures*. Every component of $\partial F$ contains sutures and $\Lambda$ divides 
 
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzc1MjEyXX0=
+eyJoaXN0b3J5IjpbLTI4NTgzNDk2NCwxNjIzNzUyMTJdfQ==
 -->
