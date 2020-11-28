@@ -7,10 +7,10 @@ $$\mathbb{P} (A \cap B) + \mathbb{P} (A^c \cap B) = \mathbb{P}(B)\\
 
 ---
 **Problem 2.3.** 
-$$\mathbb{E}$$
+$$\mathbb{E}((X-\mathbb{E}(X) + Y -\mathbb{E}(Y))\cdot(X-\mathbb{E}(X) + Y -\mathbb{E}(Y)))$$
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjY2MzE5MSw0NzIwMzIwMDYsMTI3Mz
+eyJoaXN0b3J5IjpbLTc0NzY1ODAxMiw0NzIwMzIwMDYsMTI3Mz
 MxODIxM119
 -->
