@@ -8,6 +8,7 @@ $$\mathbb{P} (A \cap B) + \mathbb{P} (A^c \cap B) = \mathbb{P}(B)\\
 **Problem 2.1.** Since $Y$ is finite almost surely, for any $\delta$, there exists $N>0$ such that $\int_{-N}^N d\mu_Y(x) = 1-\delta$. 
 This implies $\int_{-\epsilon N}^{\epsilon N} d\mu_{\epsilon Y}(x) = \epsilon(1-\delta)$
 
+
 ---
 
 **Problem 2.2.**  Let $D := \det(A)$ Then
@@ -32,7 +33,8 @@ $$\int_{-\infty}^{t/\alpha}\rho _{X}(x) = \int_{-\infty}^t\alpha^{-1}\rho_X(u/\a
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTAzNzczNyw0MDczNTM2NTUsMTcxNj
-Y4NDA2NywtODA2Mzc2OTI4LC0yMjE1OTY2NTAsLTExMjUxNDI4
-MjIsLTM1OTk2MDQ5LDQ3MjAzMjAwNiwxMjczMzE4MjEzXX0=
+eyJoaXN0b3J5IjpbMTI1MTc3MDA1MywtMzYxMDM3NzM3LDQwNz
+M1MzY1NSwxNzE2Njg0MDY3LC04MDYzNzY5MjgsLTIyMTU5NjY1
+MCwtMTEyNTE0MjgyMiwtMzU5OTYwNDksNDcyMDMyMDA2LDEyNz
+MzMTgyMTNdfQ==
 -->
