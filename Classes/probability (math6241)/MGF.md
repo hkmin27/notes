@@ -25,10 +25,10 @@ Therefore, $\mathbb{P}(X = 0)=1$.
 ---
 
 **Problem 3.2.**  independent $\Rightarrow$ uncorrelated: trivial.
-For the other direction, 
+For the other direction,  from Problem 3.1
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTAzMzk0OTQsOTAyNDMzMTU4LDExMD
-IyNTQ4ODRdfQ==
+eyJoaXN0b3J5IjpbMTQxNzQ3MDIxNSw5MDI0MzMxNTgsMTEwMj
+I1NDg4NF19
 -->
