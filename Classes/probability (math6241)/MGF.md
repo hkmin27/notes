@@ -16,11 +16,9 @@ Therefore, $\mathbb{P}(X = 0)=1$.
 ---
 
 **Problem 3.1.** 
-Claim. $M_X^{(j)}(0) = \mathbb{E}(X^j)$.
-
-Now if $M_X(t) = \exp(f(t))$ where $f(t) = \sum_{i=3}^\infty a_i t^i$, then $M_X(t)' = M_X(t)'' = 0$. This implies that 
-$$V(X) = \mathbb{E}(X^2) - \mathbb{E}(X)^2=0.$$
-Therefore, $\mathbb{P}(X = 0)=1$.  
+$$\begin{aligned}
+\phi(t) &= \int_\mathbb 
+\end{aligned}$$
 
 ---
 
@@ -31,6 +29,6 @@ Thus $X_1,\cdots,X_n$ are independent.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2MjczOTc5LC0xMjU2NjI2NjgzLDkwMj
-QzMzE1OCwxMTAyMjU0ODg0XX0=
+eyJoaXN0b3J5IjpbLTMxMDgyNzEzNSwtMTI1NjYyNjY4Myw5MD
+I0MzMxNTgsMTEwMjI1NDg4NF19
 -->
