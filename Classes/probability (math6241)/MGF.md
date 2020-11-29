@@ -17,7 +17,7 @@ Therefore, $\mathbb{P}(X = 0)=1$.
 
 **Problem 3.1.**  Let $Y := X -\mu$. Then 
 $$\begin{aligned}
-\phi(t) &= \mathbb{E}(X\\
+\phi(t) &= \mathbb{E}(\exp(it^T(Y+\mu)))\\
 &=
 \end{aligned}$$
 
@@ -30,7 +30,7 @@ Thus $X_1,\cdots,X_n$ are independent.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDE4ODM2MCwtMTIwOTg2NDU3Nyw0Mz
-U1NzA2NCwtMTI1NjYyNjY4Myw5MDI0MzMxNTgsMTEwMjI1NDg4
-NF19
+eyJoaXN0b3J5IjpbODYyMDQzMjczLC0xMjA5ODY0NTc3LDQzNT
+U3MDY0LC0xMjU2NjI2NjgzLDkwMjQzMzE1OCwxMTAyMjU0ODg0
+XX0=
 -->
