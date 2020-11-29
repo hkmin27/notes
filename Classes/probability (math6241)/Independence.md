@@ -8,6 +8,7 @@ $$\mathbb{P} (A \cap B) + \mathbb{P} (A^c \cap B) = \mathbb{P}(B)\\
 **Problem 2.1.** Since $Y$ is finite almost surely, for any $\delta$, there exists $N>0$ such that $\int_{-N}^N d\mu_Y(x) = 1-\delta$. 
 This implies $\int_{-\epsilon N}^{\epsilon N} d\mu_{\epsilon Y}(x) = \epsilon(1-\delta)$
 
+$$F_\epsilon(t) = \int_{-\infty}^{\infty}F_X(t-y)d\mu_{\epsilon Y}(y)\\ \leq$$
 
 ---
 
@@ -33,8 +34,8 @@ $$\int_{-\infty}^{t/\alpha}\rho _{X}(x) = \int_{-\infty}^t\alpha^{-1}\rho_X(u/\a
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTc3MDA1MywtMzYxMDM3NzM3LDQwNz
-M1MzY1NSwxNzE2Njg0MDY3LC04MDYzNzY5MjgsLTIyMTU5NjY1
-MCwtMTEyNTE0MjgyMiwtMzU5OTYwNDksNDcyMDMyMDA2LDEyNz
-MzMTgyMTNdfQ==
+eyJoaXN0b3J5IjpbODkxMjczNzM3LC0zNjEwMzc3MzcsNDA3Mz
+UzNjU1LDE3MTY2ODQwNjcsLTgwNjM3NjkyOCwtMjIxNTk2NjUw
+LC0xMTI1MTQyODIyLC0zNTk5NjA0OSw0NzIwMzIwMDYsMTI3Mz
+MxODIxM119
 -->
