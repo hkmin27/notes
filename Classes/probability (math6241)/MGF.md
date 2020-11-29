@@ -25,11 +25,12 @@ Therefore, $\mathbb{P}(X = 0)=1$.
 ---
 
 **Problem 3.2.**  independent $\Rightarrow$ uncorrelated: trivial.
-For the other direction,  assume $\mu=0$. From Proposition 3.1, we have $\rho_X(t) = \exp(-\frac12 t^T\Sigma t)$. Since $\Sigma$ is diagonal, we have
-$$\phi_X(t) = \phi_{X_1}(t) \cdots \phi_{X_n}(t)$$
+For the other direction,  assume $\mu=0$. From Proposition 3.11, we have $\rho_X(t) = c\exp(-\frac12 t^T\Sigma^{-1} t)$. Since $\Sigma$ is diagonal, we have
+$$\rho_X(t) = \rho_{X_1}(t_1) \cdots \rho_{X_n}(t_n)$$
+Thus $X_1,\codt
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzk1MTQyOCwtMTI1NjYyNjY4Myw5MD
+eyJoaXN0b3J5IjpbLTU0NjEwODkyMSwtMTI1NjYyNjY4Myw5MD
 I0MzMxNTgsMTEwMjI1NDg4NF19
 -->
