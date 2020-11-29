@@ -11,9 +11,10 @@ Claim. $M_X^{(j)}(0) = \mathbb{E}(X^j)$.
 
 Now if $M_X(t) = \exp(f(t))$ where $f(t) = \sum_{i=3}^\infty a_i t^i$, then $M_X(t)' = M_X(t)'' = 0$. This implies that 
 $$V(X) = \mathbb{E}(X^2) - \mathbb{E}(X)^2=0.$$
-Therefore, $X = 0$.  
+Therefore, $\mathbb{P}(X = 0)=1$.  
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyNDMzMTU4LDExMDIyNTQ4ODRdfQ==
+eyJoaXN0b3J5IjpbMTEyNDU5MzQ2MSw5MDI0MzMxNTgsMTEwMj
+I1NDg4NF19
 -->
