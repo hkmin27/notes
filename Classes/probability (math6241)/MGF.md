@@ -23,7 +23,12 @@ $$V(X) = \mathbb{E}(X^2) - \mathbb{E}(X)^2=0.$$
 Therefore, $\mathbb{P}(X = 0)=1$.  
 
 ---
+
+**Problem 3.2.**  independent $\Rightarrow$ uncorrelated: trivial.
+For the other direction, 
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDMzNTQ2NCw5MDI0MzMxNTgsMTEwMj
-I1NDg4NF19
+eyJoaXN0b3J5IjpbLTE5OTAzMzk0OTQsOTAyNDMzMTU4LDExMD
+IyNTQ4ODRdfQ==
 -->
