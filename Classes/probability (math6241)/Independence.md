@@ -26,11 +26,11 @@ $$\mathbb{E}((X-\mathbb{E}(X))\cdot(Y-\mathbb{E}(Y))) = \mathbb{E}(X)\mathbb{E}(
 **Problem 2.4.** 
 $$F_{\alpha X}(t) = \mathbb{P}(\alpha X\leq t) = \mathbb{P}(X\leq t/\alpha) = F_X(t/\alpha)$$
 
-$$F_{\alpha X}(t) = 
+$$F_{\alpha X}(t) = \int_{-\infty}^t\rho _{\alpha X}(t) = \int_{-\infty}^{t/\alpha}\rho _{X}(t) = F_X(t/\alpha)$$
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2NjI2MjEyLDE3MTY2ODQwNjcsLTgwNj
+eyJoaXN0b3J5IjpbODM4Mjc3MjMyLDE3MTY2ODQwNjcsLTgwNj
 M3NjkyOCwtMjIxNTk2NjUwLC0xMTI1MTQyODIyLC0zNTk5NjA0
 OSw0NzIwMzIwMDYsMTI3MzMxODIxM119
 -->
