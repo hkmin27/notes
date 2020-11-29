@@ -6,7 +6,8 @@ $$\mathbb{P} (A \cap B) + \mathbb{P} (A^c \cap B) = \mathbb{P}(B)\\
 ---
 
 ---
-**Problem 2.1.** Since $Y$ is finite almost surely, 
+**Problem 2.1.** Since $Y$ is finite almost surely, for any $\delta$, there exists $N>0$ such that $\int_{-N}^N d\mu_Y(x) = 1-\delta$. 
+This implie
 
 ---
 
@@ -25,7 +26,7 @@ $$\mathbb{E}((X-\mathbb{E}(X))\cdot(Y-\mathbb{E}(Y))) = \mathbb{E}(X)\mathbb{E}(
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDI2MDMwMCwtODA2Mzc2OTI4LC0yMj
-E1OTY2NTAsLTExMjUxNDI4MjIsLTM1OTk2MDQ5LDQ3MjAzMjAw
-NiwxMjczMzE4MjEzXX0=
+eyJoaXN0b3J5IjpbMTE2NDgyMDAwLC04MDYzNzY5MjgsLTIyMT
+U5NjY1MCwtMTEyNTE0MjgyMiwtMzU5OTYwNDksNDcyMDMyMDA2
+LDEyNzMzMTgyMTNdfQ==
 -->
