@@ -10,9 +10,10 @@ M_X(t) &= \int_a^b \exp(ts)\frac{1}{b-a}\,ds\\
 Claim. $M_X^{(j)}(0) = \mathbb{E}(X^j)$.
 
 Now if $M_X(t) = \exp(f(t))$ where $f(t) = \sum_{i=3}^\infty a_i t^i$, then $M_X(t)' = M_X(t)'' = 0$. This implies that 
-$$V  
+$$V(X) = \mathbb{E}(X^2) - \mathbb{E}(X)^2=0.$$
+Therefore,   
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjM3MDk0NSwxMTAyMjU0ODg0XX0=
+eyJoaXN0b3J5IjpbLTE4ODQyMDQ4MzcsMTEwMjI1NDg4NF19
 -->
