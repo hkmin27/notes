@@ -15,9 +15,9 @@ Therefore, $\mathbb{P}(X = 0)=1$.
 
 ---
 
-**Problem 3.1.** 
+**Problem 3.1.**  Let $Y := X -\mu$. Then 
 $$\begin{aligned}
-\phi(t) &= \int_{\mathbb{R}^n} \exp(ts)\rho(s)\,ds\\
+\phi(t) &= \mathbb{E}(X\\
 &=
 \end{aligned}$$
 
@@ -30,6 +30,7 @@ Thus $X_1,\cdots,X_n$ are independent.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk4NjQ1NzcsNDM1NTcwNjQsLTEyNT
-Y2MjY2ODMsOTAyNDMzMTU4LDExMDIyNTQ4ODRdfQ==
+eyJoaXN0b3J5IjpbMTI1NDE4ODM2MCwtMTIwOTg2NDU3Nyw0Mz
+U1NzA2NCwtMTI1NjYyNjY4Myw5MDI0MzMxNTgsMTEwMjI1NDg4
+NF19
 -->
