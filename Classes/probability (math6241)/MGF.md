@@ -25,10 +25,11 @@ Therefore, $\mathbb{P}(X = 0)=1$.
 ---
 
 **Problem 3.2.**  independent $\Rightarrow$ uncorrelated: trivial.
-For the other direction,  from Problem 3.1
+For the other direction,  assume $\mu=0$. From Problem 3.1, we have $\phi_X(t) = \exp(-\frac12 t^T\Sigma t)$. Since $\Sigma$ is diagonal, we have
+$$\phi_X(t) = \phi_{X_1}
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzQ3MDIxNSw5MDI0MzMxNTgsMTEwMj
-I1NDg4NF19
+eyJoaXN0b3J5IjpbLTE5MzAyNDkxMzEsOTAyNDMzMTU4LDExMD
+IyNTQ4ODRdfQ==
 -->
