@@ -28,9 +28,11 @@ $$F_{\alpha X}(t) = \mathbb{P}(\alpha X\leq t) = \mathbb{P}(X\leq t/\alpha) = F_
 
 $$F_{\alpha X}(t) = \int_{-\infty}^t\rho _{\alpha X}(t) = \int_{-\infty}^{t/\alpha}\rho _{X}(t) = F_X(t/\alpha)$$
 
+$$\int_{-\infty}^{t/\alpha}\rho _{X}(t) = \int_{-\infty}^t\alpha^{-1}\rho_X(u/\alpha)du$$
+
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4Mjc3MjMyLDE3MTY2ODQwNjcsLTgwNj
-M3NjkyOCwtMjIxNTk2NjUwLC0xMTI1MTQyODIyLC0zNTk5NjA0
-OSw0NzIwMzIwMDYsMTI3MzMxODIxM119
+eyJoaXN0b3J5IjpbLTE2NzY1Mjk4NzcsMTcxNjY4NDA2NywtOD
+A2Mzc2OTI4LC0yMjE1OTY2NTAsLTExMjUxNDI4MjIsLTM1OTk2
+MDQ5LDQ3MjAzMjAwNiwxMjczMzE4MjEzXX0=
 -->
