@@ -24,11 +24,11 @@ $$\mathbb{E}((X-\mathbb{E}(X))\cdot(Y-\mathbb{E}(Y))) = \mathbb{E}(X)\mathbb{E}(
 ---
 
 **Problem 2.4.** 
-$$F_{\alpha X}(t) = \mathbb{P}(\alpha X\leq t) = $$
+$$F_{\alpha X}(t) = \mathbb{P}(\alpha X\leq t) = \mathbb{P}(X\leq t/\alpha) = $$
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzcwMDYyOSwxNzE2Njg0MDY3LC04MD
-YzNzY5MjgsLTIyMTU5NjY1MCwtMTEyNTE0MjgyMiwtMzU5OTYw
-NDksNDcyMDMyMDA2LDEyNzMzMTgyMTNdfQ==
+eyJoaXN0b3J5IjpbLTEyMzY4NjIxODIsMTcxNjY4NDA2NywtOD
+A2Mzc2OTI4LC0yMjE1OTY2NTAsLTExMjUxNDI4MjIsLTM1OTk2
+MDQ5LDQ3MjAzMjAwNiwxMjczMzE4MjEzXX0=
 -->
