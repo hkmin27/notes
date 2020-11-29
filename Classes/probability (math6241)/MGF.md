@@ -9,9 +9,10 @@ M_X(t) &= \int_a^b \exp(ts)\frac{1}{b-a}\,ds\\
 **Problem 2.2.** 
 Claim. $M_X^{(j)}(0) = \mathbb{E}(X^j)$.
 
-Now if $M_X(t) = 
+Now if $M_X(t) = \exp(f(t))$ where $f(t) = \sum_{i=3}^\infty a_i t^i$, then $M_X(t)' = M_X(t)'' = 0$. This implies that 
+$$V  
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTc3NjM4NCwxMTAyMjU0ODg0XX0=
+eyJoaXN0b3J5IjpbLTk2MjM3MDk0NSwxMTAyMjU0ODg0XX0=
 -->
