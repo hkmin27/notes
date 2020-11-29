@@ -9,7 +9,9 @@ M_X(t) &= \int_a^b \exp(ts)\frac{1}{b-a}\,ds\\
 **Problem 2.2.** 
 Claim. $M_X^{(j)}(0) = \mathbb{E}(X^j)$.
 
+Now if $M_X(t) = 
+
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTYyNjM5MzcsMTEwMjI1NDg4NF19
+eyJoaXN0b3J5IjpbLTYwNTc3NjM4NCwxMTAyMjU0ODg0XX0=
 -->
