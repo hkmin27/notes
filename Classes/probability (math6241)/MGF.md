@@ -17,7 +17,7 @@ Therefore, $\mathbb{P}(X = 0)=1$.
 
 **Problem 3.1.** 
 $$\begin{aligned}
-\phi(t) &= \int_\mathbb 
+\phi(t) &= \int_{\mathbb{R}^n} \exp(ts)\rho(s)\,ds
 \end{aligned}$$
 
 ---
@@ -29,6 +29,6 @@ Thus $X_1,\cdots,X_n$ are independent.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDgyNzEzNSwtMTI1NjYyNjY4Myw5MD
-I0MzMxNTgsMTEwMjI1NDg4NF19
+eyJoaXN0b3J5IjpbNDM1NTcwNjQsLTEyNTY2MjY2ODMsOTAyND
+MzMTU4LDExMDIyNTQ4ODRdfQ==
 -->
