@@ -39,9 +39,10 @@ $[\Rightarrow]$: This is true. Let $A \in \Sigma_Y$. Then there is a Borel set $
 $[\Leftarrow]$: ???
 
 **Problem 4.2.**
+$[\Leftarrow]$:  For two hyperrectangles $R\in\mathbb{R}$ and $R'\in
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjcyNjY0MSw4OTEyNzM3MzcsLTM2MT
-AzNzczNyw0MDczNTM2NTUsMTcxNjY4NDA2NywtODA2Mzc2OTI4
-LC0yMjE1OTY2NTAsLTExMjUxNDI4MjIsLTM1OTk2MDQ5LDQ3Mj
-AzMjAwNiwxMjczMzE4MjEzXX0=
+eyJoaXN0b3J5IjpbLTgyMjQzOTE1NCwxMTEyNzI2NjQxLDg5MT
+I3MzczNywtMzYxMDM3NzM3LDQwNzM1MzY1NSwxNzE2Njg0MDY3
+LC04MDYzNzY5MjgsLTIyMTU5NjY1MCwtMTEyNTE0MjgyMiwtMz
+U5OTYwNDksNDcyMDMyMDA2LDEyNzMzMTgyMTNdfQ==
 -->
