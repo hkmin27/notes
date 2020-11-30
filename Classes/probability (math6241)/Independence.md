@@ -39,14 +39,14 @@ $[\Rightarrow]$: This is true. Let $A \in \Sigma_Y$. Then there is a Borel set $
 $[\Leftarrow]$: ???
 
 **Problem 4.2.**
-$[\Leftarrow]$:  Suppose $X_1, ... , X_n$ are mutually independent. For two hyperrectangles $R\in\mathbb{R}$ and $R' \in \mathbb{R}^k$, we have
+$[\Leftarrow]$:  Suppose $X_1, ... , X_n$ are mutually independent. Then 
 $$\begin{aligned}
-	\mathbb{P}(X_{k+1}\in
+	\mathbb{P}(X_{k+1}\in R \mid (X_1,...,X_k)\in R'\} &= \frac{\mathbb{P}(X_{k+1} \in R  \cap (X_1,...,X_k)\in R'\}}{\mathbb{P}(} 
 \end{aligned}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODEzNDE2NDksMTAzMTA2Mzc5LDExMT
-I3MjY2NDEsODkxMjczNzM3LC0zNjEwMzc3MzcsNDA3MzUzNjU1
-LDE3MTY2ODQwNjcsLTgwNjM3NjkyOCwtMjIxNTk2NjUwLC0xMT
-I1MTQyODIyLC0zNTk5NjA0OSw0NzIwMzIwMDYsMTI3MzMxODIx
-M119
+eyJoaXN0b3J5IjpbLTQ2MzgxNjgzNCwxMDMxMDYzNzksMTExMj
+cyNjY0MSw4OTEyNzM3MzcsLTM2MTAzNzczNyw0MDczNTM2NTUs
+MTcxNjY4NDA2NywtODA2Mzc2OTI4LC0yMjE1OTY2NTAsLTExMj
+UxNDI4MjIsLTM1OTk2MDQ5LDQ3MjAzMjAwNiwxMjczMzE4MjEz
+XX0=
 -->
