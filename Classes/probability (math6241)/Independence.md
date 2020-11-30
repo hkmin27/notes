@@ -35,9 +35,9 @@ $$\int_{-\infty}^{t/\alpha}\rho _{X}(x) = \int_{-\infty}^t\alpha^{-1}\rho_X(u/\a
 ---
 
 **Problem 4.1.** 
-$[\Rightarrow]$: This is true. Let $A \in 
+$[\Rightarrow]$: This is true. Let $A \in \Sigma_$. This Then for a Borel set $B$, we have $Y^{-1}(B) = X^{-1}f^{-1}(B) \in \Sigma_Y$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjUyMjUwOSw4OTEyNzM3MzcsLTM2MT
+eyJoaXN0b3J5IjpbMTEzNzc5MDQzMCw4OTEyNzM3MzcsLTM2MT
 AzNzczNyw0MDczNTM2NTUsMTcxNjY4NDA2NywtODA2Mzc2OTI4
 LC0yMjE1OTY2NTAsLTExMjUxNDI4MjIsLTM1OTk2MDQ5LDQ3Mj
 AzMjAwNiwxMjczMzE4MjEzXX0=
