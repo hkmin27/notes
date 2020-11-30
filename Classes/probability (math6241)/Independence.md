@@ -55,10 +55,12 @@ Thus we have
 $$\mathbb{P}(X_{k+1} \leq t \cap (X_1,...,X_k)\in B) = F_{k+1}(t)\mathbb{P}((X_1,...,X_k)\in B)$$
 By induction we can get the result.
 
+**Problem 4.3.** We simplify the problem and construct mutually 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTg2NzcyMjEsMTAzMTA2Mzc5LDExMT
-I3MjY2NDEsODkxMjczNzM3LC0zNjEwMzc3MzcsNDA3MzUzNjU1
-LDE3MTY2ODQwNjcsLTgwNjM3NjkyOCwtMjIxNTk2NjUwLC0xMT
-I1MTQyODIyLC0zNTk5NjA0OSw0NzIwMzIwMDYsMTI3MzMxODIx
-M119
+eyJoaXN0b3J5IjpbODU0MTUzMDk3LC0xMzE4Njc3MjIxLDEwMz
+EwNjM3OSwxMTEyNzI2NjQxLDg5MTI3MzczNywtMzYxMDM3NzM3
+LDQwNzM1MzY1NSwxNzE2Njg0MDY3LC04MDYzNzY5MjgsLTIyMT
+U5NjY1MCwtMTEyNTE0MjgyMiwtMzU5OTYwNDksNDcyMDMyMDA2
+LDEyNzMzMTgyMTNdfQ==
 -->
