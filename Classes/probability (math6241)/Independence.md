@@ -39,10 +39,14 @@ $[\Rightarrow]$: This is true. Let $A \in \Sigma_Y$. Then there is a Borel set $
 $[\Leftarrow]$: ???
 
 **Problem 4.2.**
-$[\Leftarrow]$:  For two hyperrectangles $R\in\mathbb{R}$ and $R' \in \mathbb{R}^k$, 
+$[\Leftarrow]$:  Suppose $X_1, ... , X_n$ are mutually independent. For two hyperrectangles $R\in\mathbb{R}$ and $R' \in \mathbb{R}^k$, we have
+$$\begin{aligned}
+	\mathbb{P}(X_{k+1}\in
+\end{aligned}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTA2Mzc5LDExMTI3MjY2NDEsODkxMj
-czNzM3LC0zNjEwMzc3MzcsNDA3MzUzNjU1LDE3MTY2ODQwNjcs
-LTgwNjM3NjkyOCwtMjIxNTk2NjUwLC0xMTI1MTQyODIyLC0zNT
-k5NjA0OSw0NzIwMzIwMDYsMTI3MzMxODIxM119
+eyJoaXN0b3J5IjpbLTEwODEzNDE2NDksMTAzMTA2Mzc5LDExMT
+I3MjY2NDEsODkxMjczNzM3LC0zNjEwMzc3MzcsNDA3MzUzNjU1
+LDE3MTY2ODQwNjcsLTgwNjM3NjkyOCwtMjIxNTk2NjUwLC0xMT
+I1MTQyODIyLC0zNTk5NjA0OSw0NzIwMzIwMDYsMTI3MzMxODIx
+M119
 -->
