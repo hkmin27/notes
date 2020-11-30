@@ -57,12 +57,12 @@ By induction we can get the result.
 
 **Problem 4.3.** We simplify the problem and construct mutually independent B(1/2).
 
-$$X_1(x) =  \begin{cases}0 \quad \text{x \in [0,1/2)\\1\end{cases}$$
+$$X_1(x) =  \begin{cases}0 \quad x \in (0,1/2]\\1\quad  x \in [1/2,1)\end{cases}$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTg5OTAxMywtMTMxODY3NzIyMSwxMD
-MxMDYzNzksMTExMjcyNjY0MSw4OTEyNzM3MzcsLTM2MTAzNzcz
-Nyw0MDczNTM2NTUsMTcxNjY4NDA2NywtODA2Mzc2OTI4LC0yMj
-E1OTY2NTAsLTExMjUxNDI4MjIsLTM1OTk2MDQ5LDQ3MjAzMjAw
-NiwxMjczMzE4MjEzXX0=
+eyJoaXN0b3J5IjpbLTE5MjMxNzM5NjEsLTEzMTg2NzcyMjEsMT
+AzMTA2Mzc5LDExMTI3MjY2NDEsODkxMjczNzM3LC0zNjEwMzc3
+MzcsNDA3MzUzNjU1LDE3MTY2ODQwNjcsLTgwNjM3NjkyOCwtMj
+IxNTk2NjUwLC0xMTI1MTQyODIyLC0zNTk5NjA0OSw0NzIwMzIw
+MDYsMTI3MzMxODIxM119
 -->
