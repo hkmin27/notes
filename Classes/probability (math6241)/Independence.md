@@ -33,9 +33,12 @@ $$F_{\alpha X}(t) = \int_{-\infty}^t\rho _{\alpha X}(x) = \int_{-\infty}^{t/\alp
 $$\int_{-\infty}^{t/\alpha}\rho _{X}(x) = \int_{-\infty}^t\alpha^{-1}\rho_X(u/\alpha)du$$
 
 ---
+
+**Problem 4.1.** 
+$[\Rightarrow]$: This is true. Let $A \in 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxMjczNzM3LC0zNjEwMzc3MzcsNDA3Mz
-UzNjU1LDE3MTY2ODQwNjcsLTgwNjM3NjkyOCwtMjIxNTk2NjUw
-LC0xMTI1MTQyODIyLC0zNTk5NjA0OSw0NzIwMzIwMDYsMTI3Mz
-MxODIxM119
+eyJoaXN0b3J5IjpbLTQ4MjUyMjUwOSw4OTEyNzM3MzcsLTM2MT
+AzNzczNyw0MDczNTM2NTUsMTcxNjY4NDA2NywtODA2Mzc2OTI4
+LC0yMjE1OTY2NTAsLTExMjUxNDI4MjIsLTM1OTk2MDQ5LDQ3Mj
+AzMjAwNiwxMjczMzE4MjEzXX0=
 -->
