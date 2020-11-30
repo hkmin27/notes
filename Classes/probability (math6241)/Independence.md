@@ -41,14 +41,14 @@ $[\Leftarrow]$: ???
 **Problem 4.2.**
 $[\Leftarrow]$:  Suppose $X_1, ... , X_n$ are mutually independent. Then 
 $$\begin{aligned}
-	\mathbb{P}(X_{k+1}\in R \mid (X_1,...,X_k)\in R') &= \frac{\mathbb{P}(X_{k+1} \in R  \cap (X_1,...,X_k)\in R')}{\mathbb{P}((X_1,...,X_k)\in R')} \\
-	&=\frac{\mathbb{P}(X_{k+1} \in R) \mathbb{P}( (X_1,...,X_k)\in R')}{\mathbb{P}((X_1,...,X_k)\in R')} \\
-	&=\mathbb
+	\mathbb{P}(X_{k+1}\leq t \mid (X_1,...,X_k)\in R') &= \frac{\mathbb{P}(X_{k+1}\leq t  \cap (X_1,...,X_k)\in R')}{\mathbb{P}((X_1,...,X_k)\in R')} \\
+	&=\frac{\mathbb{P}(X_{k+1} \leq t) \mathbb{P}( (X_1,...,X_k)\in R')}{\mathbb{P}((X_1,...,X_k)\in R')} \\
+	&=\mathbb{P}(X_{k+1} \leq t)
 \end{aligned}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkzNTc2NDAwLDEwMzEwNjM3OSwxMTEyNz
-I2NjQxLDg5MTI3MzczNywtMzYxMDM3NzM3LDQwNzM1MzY1NSwx
-NzE2Njg0MDY3LC04MDYzNzY5MjgsLTIyMTU5NjY1MCwtMTEyNT
-E0MjgyMiwtMzU5OTYwNDksNDcyMDMyMDA2LDEyNzMzMTgyMTNd
-fQ==
+eyJoaXN0b3J5IjpbLTExODA2NzE2NjIsMTAzMTA2Mzc5LDExMT
+I3MjY2NDEsODkxMjczNzM3LC0zNjEwMzc3MzcsNDA3MzUzNjU1
+LDE3MTY2ODQwNjcsLTgwNjM3NjkyOCwtMjIxNTk2NjUwLC0xMT
+I1MTQyODIyLC0zNTk5NjA0OSw0NzIwMzIwMDYsMTI3MzMxODIx
+M119
 -->
