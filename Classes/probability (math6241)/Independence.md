@@ -48,16 +48,17 @@ $$\begin{aligned}
 $[\Rightarrow]$: Suppose $B$ is a hyperrectangle. By induction, we have
 $$\begin{aligned}
 	\mathbb{P}(X_{k+1}\leq t \mid (X_1,...,X_k)\in B) &= \frac{\mathbb{P}(X_{k+1}\leq t  \cap (X_1,...,X_k)\in B)}{\mathbb{P}((X_1,...,X_k)\in B)} \\
-	&=\frac{\mathbb{P}(X_{k+1} \leq t \mid (X_1,...,X_k)\in B)}{\mathbb{P}((X_1,...,X_k)\in B)} \\
+	&=\frac{\mathbb{P}(X_{k+1} \leq t \cap (X_1,...,X_k)\in B)}{\mathbb{P}((X_1,...,X_k)\in B)} \\
 	&= F_{k+1}(t)
 \end{aligned}$$
 Thus we have
-$$ \mathbb{P}(X_{k+1} \leq t \mid (X_1,...,X_k)\in B)$$
+$$\mathbb{P}(X_{k+1} \leq t \cap (X_1,...,X_k)\in B) = F_{k+1}(t)\mathbb{P}((X_1,...,X_k)\in B)$$
+By induction we can get the result.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Njg4NTg1MCwxMDMxMDYzNzksMTExMj
-cyNjY0MSw4OTEyNzM3MzcsLTM2MTAzNzczNyw0MDczNTM2NTUs
-MTcxNjY4NDA2NywtODA2Mzc2OTI4LC0yMjE1OTY2NTAsLTExMj
-UxNDI4MjIsLTM1OTk2MDQ5LDQ3MjAzMjAwNiwxMjczMzE4MjEz
-XX0=
+eyJoaXN0b3J5IjpbLTEzMTg2NzcyMjEsMTAzMTA2Mzc5LDExMT
+I3MjY2NDEsODkxMjczNzM3LC0zNjEwMzc3MzcsNDA3MzUzNjU1
+LDE3MTY2ODQwNjcsLTgwNjM3NjkyOCwtMjIxNTk2NjUwLC0xMT
+I1MTQyODIyLC0zNTk5NjA0OSw0NzIwMzIwMDYsMTI3MzMxODIx
+M119
 -->
