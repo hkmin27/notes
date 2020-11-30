@@ -55,12 +55,14 @@ Thus we have
 $$\mathbb{P}(X_{k+1} \leq t \cap (X_1,...,X_k)\in B) = F_{k+1}(t)\mathbb{P}((X_1,...,X_k)\in B)$$
 By induction we can get the result.
 
-**Problem 4.3.** We simplify the problem and construct mutually 
+**Problem 4.3.** We simplify the problem and construct mutually independent B(1/2).
+
+$$X_1(x) =  \begin{cases}0 \quad \text{x \in [0,1/2)\\1\end{cases}$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0MTUzMDk3LC0xMzE4Njc3MjIxLDEwMz
-EwNjM3OSwxMTEyNzI2NjQxLDg5MTI3MzczNywtMzYxMDM3NzM3
-LDQwNzM1MzY1NSwxNzE2Njg0MDY3LC04MDYzNzY5MjgsLTIyMT
-U5NjY1MCwtMTEyNTE0MjgyMiwtMzU5OTYwNDksNDcyMDMyMDA2
-LDEyNzMzMTgyMTNdfQ==
+eyJoaXN0b3J5IjpbMTI4MTg5OTAxMywtMTMxODY3NzIyMSwxMD
+MxMDYzNzksMTExMjcyNjY0MSw4OTEyNzM3MzcsLTM2MTAzNzcz
+Nyw0MDczNTM2NTUsMTcxNjY4NDA2NywtODA2Mzc2OTI4LC0yMj
+E1OTY2NTAsLTExMjUxNDI4MjIsLTM1OTk2MDQ5LDQ3MjAzMjAw
+NiwxMjczMzE4MjEzXX0=
 -->
