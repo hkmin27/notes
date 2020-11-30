@@ -59,10 +59,12 @@ By induction we can get the result.
 
 $$X_1(x) =  \begin{cases}0 \quad x \in (0,1/2]\\1\quad  x \in [1/2,1)\end{cases}$$
 $$X_2(x) = \begin{cases}0 \quad x \in (0,1/4]\cup[1/2,3/4)\\1\quad  \text{otherwise}\end{cases}$$
+
+and so on..
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjYwOTc4NjQsLTEzMTg2NzcyMjEsMT
-AzMTA2Mzc5LDExMTI3MjY2NDEsODkxMjczNzM3LC0zNjEwMzc3
-MzcsNDA3MzUzNjU1LDE3MTY2ODQwNjcsLTgwNjM3NjkyOCwtMj
-IxNTk2NjUwLC0xMTI1MTQyODIyLC0zNTk5NjA0OSw0NzIwMzIw
-MDYsMTI3MzMxODIxM119
+eyJoaXN0b3J5IjpbLTc4NzI3MDAyLC0xMzE4Njc3MjIxLDEwMz
+EwNjM3OSwxMTEyNzI2NjQxLDg5MTI3MzczNywtMzYxMDM3NzM3
+LDQwNzM1MzY1NSwxNzE2Njg0MDY3LC04MDYzNzY5MjgsLTIyMT
+U5NjY1MCwtMTEyNTE0MjgyMiwtMzU5OTYwNDksNDcyMDMyMDA2
+LDEyNzMzMTgyMTNdfQ==
 -->
