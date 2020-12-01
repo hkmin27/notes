@@ -9,6 +9,7 @@ $$\begin{aligned} \mathbb{P}(\bigcup_{i=1}^\infty A^c_i) &= \lim_{i\to\infty}\ma
 If $a_1 \leq a'_i$, we have $\{X_i \leq a_i \} \subseteq \{X_i \leq a'_i\}$. Thus the first item follows from the definition of measure. (It's not left continuous since $\bigcup A_i = (-\infty, a)$)
 If $a^m \downarrow a$, then we have $A_{m+1}:=\{X_i \leq a^{m+1}_i \} \subseteq \{X_i \leq a^m_i\}$ and $\lim_{i\to\infty} A_i = \{X_i \leq a_i\}$. Now the second item follows from **Lemma**.
 If $a_i \to \infty$ for all $i$, then we can find a monotone increasing subsequence for all i. Relabel it as $a_i$. Now apply **Problem 1.1** in measure theoretic foundation and we obtain the third item. $-\infty$ is similar.
+The fourth item follows from that the formula is $\mathbb{P}(\prod [a_i, b_i])$.
 
 **Problem 4.1.** It's almost same as the case of $\mathbb{R}$.
 
@@ -92,7 +93,7 @@ for $|\lambda| < C$. Now we need a lemma.
 
 By lemma, $\mathbb{P}\{|X| \geq t\} \leq de^{-\lambda t} \leq e^{-ct}$ for $t \geq C. \quad\square$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwODMyMzk5LDE3NzgwNTk1NTQsMTk4Mj
-cyODk5NiwxOTQ0OTc0ODI4LC0xMzcwMDY5NjU4LDE0NzQ3ODMy
-NjBdfQ==
+eyJoaXN0b3J5IjpbMTk5NTgwODQ0MSwzOTA4MzIzOTksMTc3OD
+A1OTU1NCwxOTgyNzI4OTk2LDE5NDQ5NzQ4MjgsLTEzNzAwNjk2
+NTgsMTQ3NDc4MzI2MF19
 -->
