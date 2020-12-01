@@ -34,7 +34,7 @@ $$\begin{aligned} \mathbb{E}(|Y-w|) &= \int_0^\infty \mathbb{P}\{Y - w \geq t\}\
 
 Thus we have
 
-$$g'(t) = \mathbb{P}(Y \leq t) - \mathbb{P}(Y \geq t)$$
+$$g'(t) = \mathbb{P}(Y \leq w) - \mathbb{P}(Y \geq w)$$
 
 If $g(w)$ is the minimum then $g'(w)=0$ and $w$ is median. If $w$ is median of $Y$, we obtain $g'(w) = 0$ from the above formula. Also notice that $g'(t)$ is monotone increasing function. Thus $\{t \;|\; g'(t)=0\}$ is an interval and the $g(w)$ is the minimum of $g$. $\square$  
 
@@ -93,7 +93,7 @@ for $|\lambda| < C$. Now we need a lemma.
 
 By lemma, $\mathbb{P}\{|X| \geq t\} \leq de^{-\lambda t} \leq e^{-ct}$ for $t \geq C. \quad\square$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTgwODQ0MSwzOTA4MzIzOTksMTc3OD
-A1OTU1NCwxOTgyNzI4OTk2LDE5NDQ5NzQ4MjgsLTEzNzAwNjk2
-NTgsMTQ3NDc4MzI2MF19
+eyJoaXN0b3J5IjpbLTg2MDQ4OTcwMywxOTk1ODA4NDQxLDM5MD
+gzMjM5OSwxNzc4MDU5NTU0LDE5ODI3Mjg5OTYsMTk0NDk3NDgy
+OCwtMTM3MDA2OTY1OCwxNDc0NzgzMjYwXX0=
 -->
