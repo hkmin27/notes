@@ -22,7 +22,9 @@ Insert figure of sutured surfaces
 **Definition 4.** An *arc diagram* of rank k is a triple $\mathcal{Z} = (Z, a, M)$ where $Z$ is a finite collection of oriented arcs, $a = \{a_1, ... , a_{2k}\} \subset Z$ is a set of $2k$ disjoint points and $M: a \to \{1,...,k\}$ is a 2-1 matching. Also the 1-manifold obtained by 0-surgery along each 0-sphere $M^{-1}(i)$ in $Z$ should have no closed component.
 
 ---
+
+Given an arc diagram $\mathcal{Z}$, we can associate a graph $G(\mathcal{Z})$ by attaching 1-cells to points in $a$ according to the matching $M$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5MTUzMjg2LC04NjIyOTUzMzYsLTU4OD
-UzMDY0NiwxODg1Mzc3NDFdfQ==
+eyJoaXN0b3J5IjpbMzQwMjA5MDMxLDU0OTE1MzI4NiwtODYyMj
+k1MzM2LC01ODg1MzA2NDYsMTg4NTM3NzQxXX0=
 -->
