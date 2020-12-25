@@ -19,9 +19,10 @@ Insert figure of sutured surfaces
 ### Arc diagrams and bordered sutured manifolds
 
 ---
-**Definition 4.** 
+**Definition 4.** An arc dia
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODUzMDY0NiwxODg1Mzc3NDFdfQ==
+eyJoaXN0b3J5IjpbMTg2NjAzNTAxMywtNTg4NTMwNjQ2LDE4OD
+UzNzc0MV19
 -->
