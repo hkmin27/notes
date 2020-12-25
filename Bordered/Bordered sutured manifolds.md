@@ -24,7 +24,9 @@ Insert figure of sutured surfaces
 ---
 
 Given an arc diagram $\mathcal{Z}$, we can associate a graph $G(\mathcal{Z})$ by attaching 1-cells to points in $a$ according to the matching $M$.
+We can also associate a sutured surface $\mathcal{F}(\mathcal{Z}) = (F(\mathcal{Z}),\Lambda(\mathcal{Z}))$ in the following way.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwMjA5MDMxLDU0OTE1MzI4NiwtODYyMj
-k1MzM2LC01ODg1MzA2NDYsMTg4NTM3NzQxXX0=
+eyJoaXN0b3J5IjpbLTEwNDEyNzk4MTAsMzQwMjA5MDMxLDU0OT
+E1MzI4NiwtODYyMjk1MzM2LC01ODg1MzA2NDYsMTg4NTM3NzQx
+XX0=
 -->
