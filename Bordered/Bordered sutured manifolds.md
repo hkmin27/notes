@@ -19,10 +19,10 @@ Insert figure of sutured surfaces
 ### Arc diagrams and bordered sutured manifolds
 
 ---
-**Definition 4.** An arc dia
+**Definition 4.** An *arc diagram* of rank k is a triple $Z = (Z, a, M)$
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjAzNTAxMywtNTg4NTMwNjQ2LDE4OD
-UzNzc0MV19
+eyJoaXN0b3J5IjpbLTExNTY5NjkyMTcsLTU4ODUzMDY0NiwxOD
+g1Mzc3NDFdfQ==
 -->
