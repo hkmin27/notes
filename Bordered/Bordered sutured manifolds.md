@@ -19,10 +19,10 @@ Insert figure of sutured surfaces
 ### Arc diagrams and bordered sutured manifolds
 
 ---
-**Definition 4.** An *arc diagram* of rank k is a triple $\mathcal{Z} = (Z, a, M)$ where $Z$ is a finite collection of oriented arcs, $a = \{a_1, ... , a_{2k}\}$ is a set of $2k$ disjoint points 
+**Definition 4.** An *arc diagram* of rank k is a triple $\mathcal{Z} = (Z, a, M)$ where $Z$ is a finite collection of oriented arcs, $a = \{a_1, ... , a_{2k}\} \subset Z$ is a set of $2k$ disjoint points and $M: a \to \{1,...,k\}$ is a 2-1 matching.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzY1MjI4MCwtNTg4NTMwNjQ2LDE4OD
-UzNzc0MV19
+eyJoaXN0b3J5IjpbLTEzMjQ5NzI0OTIsLTU4ODUzMDY0NiwxOD
+g1Mzc3NDFdfQ==
 -->
