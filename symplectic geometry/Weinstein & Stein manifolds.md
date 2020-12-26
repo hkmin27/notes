@@ -11,8 +11,7 @@ A symplectic manifold $(W,\omega)$ is called a *Weinstein manifold* if there are
 **Proof.**
 
 ---
-
-
+**Lemma.** Let $(W,\omega,\phi,v)$ is a Weinstein manifold and $p$ is a . Then $W_p^-$ is an isotropic manifold and $W_p^+$ is an coisotropic manifold
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2MTc2MjE4LDMxODI0MDM2MF19
+eyJoaXN0b3J5IjpbLTMyOTg4MjUyNCwzMTgyNDAzNjBdfQ==
 -->
