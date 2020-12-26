@@ -11,7 +11,9 @@ A symplectic manifold $(W,\omega)$ is called a *Weinstein manifold* if there are
 **Proof.**
 
 ---
-**Lemma.** Let $(W,\omega,\phi,v)$ is a Weinstein manifold and $p$ is a . Then $W_p^-$ is an isotropic manifold and $W_p^+$ is an coisotropic manifold
+**Lemma.** Let $(W,\omega,\phi,v)$ is a Weinstein manifold and $p$ is a critical point. Then $W_p^-$ is an isotropic manifold and $W_p^+$ is an coisotropic manifold.
+
+**Cor.** $\text{index}(p) \leq n$. Thus $W$ is a manifold with boundary.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTg4MjUyNCwzMTgyNDAzNjBdfQ==
+eyJoaXN0b3J5IjpbNzg0MTM1NDMsMzE4MjQwMzYwXX0=
 -->
