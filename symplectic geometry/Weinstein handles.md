@@ -24,9 +24,13 @@ $v$ is gradient for $f$
 Let $S$ be an isotropic submanifold of a contact manifold $(M,\alpha)$. $d\alpha$ is a symplectic structure on $\xi$. Then we define a *conformal symplectic normal bundle* as follows.
 $$CSN(S) = TS^{\perp d\alpha}/TS$$
 
+We can decompose $TM|_S$ as follows.
+$$TM|_S = \xi \oplus TM / \xi = (CSN(S) \oplus TS \oplus \xi/TS^\perp) \oplus \R$
+
 **framing in 3-dimension**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQyMzQ3NDIsMzA2OTA4NTk3LC04OT
-kxODY3NywxODc3NzI0NDcyLDUyMTk3NjMxOSwyMDM2NTU5Nywx
-MTI5NDEzNDI3LC0yMTQ0MDM4MDY0LC0xNDIwNTIxMjE2XX0=
+eyJoaXN0b3J5IjpbLTE1NjI5NDgzNjcsLTE2NDQyMzQ3NDIsMz
+A2OTA4NTk3LC04OTkxODY3NywxODc3NzI0NDcyLDUyMTk3NjMx
+OSwyMDM2NTU5NywxMTI5NDEzNDI3LC0yMTQ0MDM4MDY0LC0xND
+IwNTIxMjE2XX0=
 -->
