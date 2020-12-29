@@ -1,5 +1,6 @@
 ### Weinstein handles
 
+**Weinstein k-handles**
 We will define a *Weinstein k-handle* as a subset of $\R^{2n} = T^*\R^k\times\R^{2(n-k)}$. Set the coordinates of the space as follows.
 $$(q_1,...,q_k,p_1,...,p_k) \in T^*\R^k\\
 (x_1,y_1,...,x_{n-k},y_{n-k}) \in \R^{2(n-k)}$$
@@ -19,10 +20,12 @@ $v$ is gradient for $f$
 
 ---
 
+**Conformal symplectic normal bundles**
+Let $S$ be an isotropic submanifold of $(M,\xi)$. Th
 
 **framing in 3-dimension**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIyNDg4NTQxLDMwNjkwODU5NywtODk5MT
-g2NzcsMTg3NzcyNDQ3Miw1MjE5NzYzMTksMjAzNjU1OTcsMTEy
-OTQxMzQyNywtMjE0NDAzODA2NCwtMTQyMDUyMTIxNl19
+eyJoaXN0b3J5IjpbLTIxNDA0MTg2NDAsMzA2OTA4NTk3LC04OT
+kxODY3NywxODc3NzI0NDcyLDUyMTk3NjMxOSwyMDM2NTU5Nywx
+MTI5NDEzNDI3LC0yMTQ0MDM4MDY0LC0xNDIwNTIxMjE2XX0=
 -->
