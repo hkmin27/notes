@@ -21,12 +21,12 @@ $v$ is gradient for $f$
 ---
 
 **Conformal symplectic normal bundles**
-Let $S$ be an isotropic submanifold of a contact manifold $(M,\alpha)$.  Then we define a *conformal symplectic normal bundle* as follows.
+Let $S$ be an isotropic submanifold of a contact manifold $(M,\alpha)$. $d\alpha$ is a symplectic structure on $\xi$. Then we define a *conformal symplectic normal bundle* as follows.
 $$CSN(S) = TS^{\perp d\alpha}/TS$$
 
 **framing in 3-dimension**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjgzMDgzMDksMzA2OTA4NTk3LC04OT
+eyJoaXN0b3J5IjpbLTE2NDQyMzQ3NDIsMzA2OTA4NTk3LC04OT
 kxODY3NywxODc3NzI0NDcyLDUyMTk3NjMxOSwyMDM2NTU5Nywx
 MTI5NDEzNDI3LC0yMTQ0MDM4MDY0LC0xNDIwNTIxMjE2XX0=
 -->
