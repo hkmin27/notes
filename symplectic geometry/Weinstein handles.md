@@ -15,14 +15,14 @@ Check every facts
 
 $v$ is expanding: $\mathcal{L}_v\omega = \omega$
 $i_vd\omega + di_v\omega = \sum d(2q_idp_i+p_idq_i)+\sum d(x_idy_i-y_idx_i)=\omega$
-$v$ is gradient-like for $f$: 
+$v$ is gradient-like for $f$:  $df(v) \geq 0$
 
 ---
 
 
 **framing in 3-dimension**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDI2NTE4MywxODc3NzI0NDcyLDUyMT
-k3NjMxOSwyMDM2NTU5NywxMTI5NDEzNDI3LC0yMTQ0MDM4MDY0
-LC0xNDIwNTIxMjE2XX0=
+eyJoaXN0b3J5IjpbLTg5OTE4Njc3LDE4Nzc3MjQ0NzIsNTIxOT
+c2MzE5LDIwMzY1NTk3LDExMjk0MTM0MjcsLTIxNDQwMzgwNjQs
+LTE0MjA1MjEyMTZdfQ==
 -->
