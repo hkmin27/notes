@@ -28,12 +28,12 @@ We can decompose $TM|_S$ as follows.
 $$TM|_S = \xi \oplus TM / \xi = (CSN(S) \oplus TS \oplus \xi/TS^\perp) \oplus \R,$$
 
 where $\R$ is spanned by the Reeb vector field.
-Since $T(T^*S) \cong TS \oplus \xi/TS^\perp$, $S$ determines $TM|_S$ except for $CSN(S)$.
+Since $T(T^*S)|_S \cong TS \oplus \xi/TS^\perp$, $S$ determines $TM|_S$ except for $CSN(S)$.
 
 **framing in 3-dimension**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTYwOTU3OSw4NTgwNTU3MzUsLTE2ND
-QyMzQ3NDIsMzA2OTA4NTk3LC04OTkxODY3NywxODc3NzI0NDcy
-LDUyMTk3NjMxOSwyMDM2NTU5NywxMTI5NDEzNDI3LC0yMTQ0MD
-M4MDY0LC0xNDIwNTIxMjE2XX0=
+eyJoaXN0b3J5IjpbLTEyNzAxOTYyNDcsMTk1OTYwOTU3OSw4NT
+gwNTU3MzUsLTE2NDQyMzQ3NDIsMzA2OTA4NTk3LC04OTkxODY3
+NywxODc3NzI0NDcyLDUyMTk3NjMxOSwyMDM2NTU5NywxMTI5ND
+EzNDI3LC0yMTQ0MDM4MDY0LC0xNDIwNTIxMjE2XX0=
 -->
