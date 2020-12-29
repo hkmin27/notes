@@ -25,12 +25,15 @@ Let $S$ be an isotropic submanifold of a contact manifold $(M,\alpha)$. $d\alpha
 $$CSN(S) = TS^{\perp d\alpha}/TS$$
 
 We can decompose $TM|_S$ as follows.
-$$TM|_S = \xi \oplus TM / \xi = (CSN(S) \oplus TS \oplus \xi/TS^\perp) \oplus \R$
+$$TM|_S = \xi \oplus TM / \xi = (CSN(S) \oplus TS \oplus \xi/TS^\perp) \oplus \R,$$
+
+where $\R$ is spanned by the Reeb vector field.
+$T(T^*S) = TS \oplus \xi/TS^\perp$
 
 **framing in 3-dimension**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjI5NDgzNjcsLTE2NDQyMzQ3NDIsMz
-A2OTA4NTk3LC04OTkxODY3NywxODc3NzI0NDcyLDUyMTk3NjMx
-OSwyMDM2NTU5NywxMTI5NDEzNDI3LC0yMTQ0MDM4MDY0LC0xND
-IwNTIxMjE2XX0=
+eyJoaXN0b3J5IjpbODU4MDU1NzM1LC0xNjQ0MjM0NzQyLDMwNj
+kwODU5NywtODk5MTg2NzcsMTg3NzcyNDQ3Miw1MjE5NzYzMTks
+MjAzNjU1OTcsMTEyOTQxMzQyNywtMjE0NDAzODA2NCwtMTQyMD
+UyMTIxNl19
 -->
