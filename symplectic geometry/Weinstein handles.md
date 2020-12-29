@@ -14,15 +14,15 @@ $(H,\omega,v,f)$ is called a *Weinstein k-handle*.
 Check every facts
 
 $v$ is expanding: $\mathcal{L}_v\omega = \omega$
-$i_vd\omega + di_v\omega = \sum d(2q_idp_i+p_idq_i)+\sum d(x_idy_i-y_idx_i)=\omega$
-$v$ is gradient-like for $f$:  $df(v) \geq 0$
+$i_vd\omega + di_v\omega = \sum d(-q_idp_i-2p_idq_i)+\sum d(x_idy_i-y_idx_i)=\omega$
+$v$ is gradient for $f$:  $df(v) \geq 0$
 
 ---
 
 
 **framing in 3-dimension**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2OTA4NTk3LC04OTkxODY3NywxODc3Nz
-I0NDcyLDUyMTk3NjMxOSwyMDM2NTU5NywxMTI5NDEzNDI3LC0y
-MTQ0MDM4MDY0LC0xNDIwNTIxMjE2XX0=
+eyJoaXN0b3J5IjpbLTI1NDIyMzI4OCwzMDY5MDg1OTcsLTg5OT
+E4Njc3LDE4Nzc3MjQ0NzIsNTIxOTc2MzE5LDIwMzY1NTk3LDEx
+Mjk0MTM0MjcsLTIxNDQwMzgwNjQsLTE0MjA1MjEyMTZdfQ==
 -->
