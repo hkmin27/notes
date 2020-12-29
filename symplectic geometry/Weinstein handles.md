@@ -6,14 +6,18 @@ $$(q_1,...,q_k,p_1,...,p_k) \in T^*\R^k\\
 
 Consider a symplectic structure $\omega=\sum dq_i\wedge dp_i + \sum dx_i\wedge dy_i$.
 and expanding vector field $v = \sum(2p_i$
-corresponding Morse function $f$
+corresponding Morse function $f =$
 
-$(H,\omega,v,f)$ is called 
+$(H,\omega,v,f)$ is called a *Weinstein k-handle*.
 
+---
+Check every facts
+
+---
 
 
 **framing in 3-dimension**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM0NjQyNywxMTI5NDEzNDI3LC0yMT
-Q0MDM4MDY0LC0xNDIwNTIxMjE2XX0=
+eyJoaXN0b3J5IjpbMjAzNjU1OTcsMTEyOTQxMzQyNywtMjE0ND
+AzODA2NCwtMTQyMDUyMTIxNl19
 -->
