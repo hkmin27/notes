@@ -13,14 +13,15 @@ $(H,\omega,v,f)$ is called a *Weinstein k-handle*.
 ---
 Check every facts
 
-$v$ is expanding: $\mathcal{L}_v\omega = \omega$: $i_vd\omega + di_v\omega$
+$v$ is expanding: $\mathcal{L}_v\omega = \omega$
+$i_vd\omega + di_v\omega = 2$
 
 ---
 
 
 **framing in 3-dimension**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NzcyNDQ3Miw1MjE5NzYzMTksMjAzNj
-U1OTcsMTEyOTQxMzQyNywtMjE0NDAzODA2NCwtMTQyMDUyMTIx
-Nl19
+eyJoaXN0b3J5IjpbMTQ5Mjg0MDEyNSwxODc3NzI0NDcyLDUyMT
+k3NjMxOSwyMDM2NTU5NywxMTI5NDEzNDI3LC0yMTQ0MDM4MDY0
+LC0xNDIwNTIxMjE2XX0=
 -->
