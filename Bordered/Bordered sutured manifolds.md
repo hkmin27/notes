@@ -24,9 +24,9 @@ Insert figure of sutured surfaces
 ---
 
 Given an arc diagram $\mathcal{Z}$, we can associate a graph $G(\mathcal{Z})$ by attaching 1-cells to points in $a$ according to the matching $M$.
-We can also associate a sutured surface $\mathcal{F}(\mathcal{Z}) = (F(\mathcal{Z}),\Lambda(\mathcal{Z}))$ in the following way. Starting with the product $Z \times [0,1]$ and attach (2-dim) 1-handles along $M^{-1}(i) \times \{0\}$. The suture set is given by $\Lambda(\mathcal{Z}) := -(\partial Z \times \{\frac12\})$, and the positive and negative regions are the portions of $\partial F(\mathcal{Z})$
+We can also associate a sutured surface $\mathcal{F}(\mathcal{Z}) = (F(\mathcal{Z}),\Lambda(\mathcal{Z}))$ in the following way. Starting with the product $Z \times [0,1]$ and attach (2-dim) 1-handles along $M^{-1}(i) \times \{0\}$. The suture set is given by $\Lambda(\mathcal{Z}) := -(\partial Z \times \{\frac12\})$, and the positive and negative regions are the portions of $\partial F(\mathcal{Z})$ containing $Z \times \{1\}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjgxMjUxNjQsMTE3MzQ3NjQ0LC0xMD
-QxMjc5ODEwLDM0MDIwOTAzMSw1NDkxNTMyODYsLTg2MjI5NTMz
-NiwtNTg4NTMwNjQ2LDE4ODUzNzc0MV19
+eyJoaXN0b3J5IjpbMTE3NzU5MDA0NywxMTczNDc2NDQsLTEwND
+EyNzk4MTAsMzQwMjA5MDMxLDU0OTE1MzI4NiwtODYyMjk1MzM2
+LC01ODg1MzA2NDYsMTg4NTM3NzQxXX0=
 -->
