@@ -14,9 +14,9 @@ We can view $\mathcal{A}(n_1,...,n_l;k)$ as a subalgebra of $\mathcal{A}(n_1+\cd
 
 Let $(Z,a)$ be a finite collection of oriented arcs and a subset of $2k$ points. Denote by $Z_i$ the i-th arc and $a_i=Z_i \cap a$. The strand algebra associated to the pair $(Z,a)$ is
 
-$$\mathcal{A}(Z,a) = $$
+$$\mathcal{A}'(Z,a) = \bigoplus_{i=1}^{2k}\mathcal{A}(|a_1|,...,|a_l|;i)$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjY2MDg5LDEzODc1NDA2MjksMzQ1ND
-Q4OTQyXX0=
+eyJoaXN0b3J5IjpbLTI2NDQ0OTM4OSwxMzg3NTQwNjI5LDM0NT
+Q0ODk0Ml19
 -->
