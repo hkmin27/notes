@@ -8,7 +8,7 @@ $$(S,T,\phi) \cdot (U,V,\psi) = \begin{cases} (S,V,\psi \circ \phi) \quad &\text
 ---
 
 In the bordered sutured setting, we need the *extended strand algebra* of $(n_1,...,n_l;k)$
-$$\mathcal{A}(n_1,...,n_l;k) = \bigoplus_{k_1+\cdots+k_l=k} \mathcal{A}(n_1,k_1)$$
+$$\mathcal{A}(n_1,...,n_l;k) = \bigoplus_{k_1+\cdots+k_l=k} \mathcal{A}(n_1,k_1)\otimes\cdots\otimes\mathcal{A}(n_l,k_l)$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDMyMDIwNDIsMzQ1NDQ4OTQyXX0=
+eyJoaXN0b3J5IjpbNTc4MTQ2MzYyLDM0NTQ0ODk0Ml19
 -->
