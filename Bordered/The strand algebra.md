@@ -3,9 +3,10 @@
 ---
 **Definition** The strand algebra $\mathcal{A}(n,k)$ is a free $\mathbb{F}$-module with generators $\mu=(S,T,\phi)$ where $S,T \subset \{1,...,n\}$ and $\phi:S \to T$ is a non-decreasing bijection. Let $\text{Inv}(\mu)$ be the set of inversions of $\phi$, i.e. pairs $i > j$ in $S$ such that $\phi(i) < \phi (j)$. We denote the cardinality of $\text{Inv}(\mu)$ by $\text{inv}(\mu)$ or $\text{inv}(\phi)$. 
 The multiplication is given by
-$$(S,T,\phi) \cdot (U,V,\psi) = \begin{cases} (S,V,\psi \circ \phi) \q \end{cases} $$
+$$(S,T,\phi) \cdot (U,V,\psi) = \begin{cases} (S,V,\psi \circ \phi) \quad &\text{if T=U and inv($\phi$)+inv($\psi$)=inv(\psi\circ\phi)}\\0 &else \end{cases} $$
+
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0NzA4NzAsMzQ1NDQ4OTQyXX0=
+eyJoaXN0b3J5IjpbLTExMjQxMjIwNjksMzQ1NDQ4OTQyXX0=
 -->
