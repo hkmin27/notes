@@ -12,9 +12,9 @@ $$\mathcal{A}(n_1,...,n_l;k) = \bigoplus_{k_1+\cdots+k_l=k} \mathcal{A}(n_1,k_1)
 
 We can view $\mathcal{A}(n_1,...,n_l;k)$ as a subalgebra of $\mathcal{A}(n_1+\cdots+n_l,k)$.
 
-Let $(Z,a)$ be a finite collection of oriented arcs and a subset of $2k$ points 
+Let $(Z,a)$ be a finite collection of oriented arcs and a subset of $2k$ points. Denote by $Z_i$ the i-th arc and $a_i=Z_i \cap a$. The strand alge
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDI2MDY2NjcsMTM4NzU0MDYyOSwzND
+eyJoaXN0b3J5IjpbLTExOTE5NDIyNTYsMTM4NzU0MDYyOSwzND
 U0NDg5NDJdfQ==
 -->
