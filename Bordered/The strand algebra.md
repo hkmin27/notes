@@ -16,8 +16,8 @@ Let $(Z,a)$ be a finite collection of oriented arcs and a subset of $2k$ points.
 
 $$\mathcal{A}'(Z,a) = \bigoplus_{i=1}^{2k}\mathcal{A}(|a_1|,...,|a_l|;i)$$
 
-Let $\mathcal{Z} = (Z, a, M)$ be a rank k arc diagram. If $s\subset\{1,...,k\}$, 
+Let $\mathcal{Z} = (Z, a, M)$ be a rank k arc diagram. If $s\subset\{1,...,k\}$, a *section* of $s$ is a subset $S \subset M^{-1}(s)$ such that $M|_S: S \to s$ is bijective. For each subset $s \subset \{1,...,k\}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTkyMjk0OCwtMTU0MTQzMjQ4NCwtMj
-Y0NDQ5Mzg5LDEzODc1NDA2MjksMzQ1NDQ4OTQyXX0=
+eyJoaXN0b3J5IjpbLTExMzI3MTg0OTMsLTE1NDE0MzI0ODQsLT
+I2NDQ0OTM4OSwxMzg3NTQwNjI5LDM0NTQ0ODk0Ml19
 -->
