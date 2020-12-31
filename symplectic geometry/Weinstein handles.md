@@ -33,11 +33,11 @@ Since $T(T^*S)|_S \cong TS \oplus \xi/TS^\perp$, $S$ determines $TM|_S$ except f
 **framing in 3-dimension**
 We will figure out the natural framing of Legendrian surgery in 3-dimension. Let $k=n=2$.  Then the attaching sphere is $L = \{|q|=1,p=0\}$  
 $$\alpha = i_v\omega = -q_1dp_1 - q_2dp_2-2p_1dq_1-2p_2dq_2\\
-\alpha \wedge d\alpha|_L = 2p_2dq_2dq_1dp_1$$
+\alpha \wedge d\alpha|_L = 2q_ 1dp_1 \wedge dp_2 \wedge dq_2 + 2q_2dp_2 \wedge dp_1$$
 
 **Remark.** difference btw contact framing of unknot: this case has outward vf. Weinstein case has inward vf. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDIwNTY5OSwtMjEwMjc4MjA2MywtMT
+eyJoaXN0b3J5IjpbMTU3MTgzMTI3MywtMjEwMjc4MjA2MywtMT
 UyMDMxNzQwLC02NjUxOTc4MTYsNzk4MzI2MDc2LC0xMjcwMTk2
 MjQ3LDE5NTk2MDk1NzksODU4MDU1NzM1LC0xNjQ0MjM0NzQyLD
 MwNjkwODU5NywtODk5MTg2NzcsMTg3NzcyNDQ3Miw1MjE5NzYz
