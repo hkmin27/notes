@@ -29,6 +29,8 @@ Let $\mathcal{I}(\mathcal{Z},i)$ be the subalgebra of $\mathcal{I}(Z)$ generated
 
 $$\mathcal{I}(\mathcal{Z}) = \bigoplus_{i=1}^k \mathcal{I}(\mathcal{Z},i)$$
 
+Suppose $\phi:S \to T$ is a strictly increa
+
 ---
 **Definition.** The *bordered algebra* associated to the arc diagram $\mathcal{Z}=(Z,a,M)$ is the algebra
 
@@ -38,7 +40,7 @@ It is generated over $\mathbb{F}$ by $I \in \mathcal{I}(\mathcal{Z})$ and $I\cdo
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODM5NjQ5MiwtMTU3NDU0NjQ2NCwtMT
-g1MjgwMjA4LDgzNTc0OTAyNCwtMTU0MTQzMjQ4NCwtMjY0NDQ5
-Mzg5LDEzODc1NDA2MjksMzQ1NDQ4OTQyXX0=
+eyJoaXN0b3J5IjpbLTE5MDI2ODkzMTUsLTE1NzQ1NDY0NjQsLT
+E4NTI4MDIwOCw4MzU3NDkwMjQsLTE1NDE0MzI0ODQsLTI2NDQ0
+OTM4OSwxMzg3NTQwNjI5LDM0NTQ0ODk0Ml19
 -->
