@@ -29,9 +29,11 @@ Let $\mathcal{I}(\mathcal{Z},i)$ be the subalgebra of $\mathcal{I}(Z)$ generated
 
 $$\mathcal{I}(\mathcal{Z}) = \bigoplus_{i=1}^k \mathcal{I}(\mathcal{Z},i)$$
 
-Suppose $\phi:S \to T$ is a strictly increasing bijection. We say $U \subset \{1,...,2k\}$ *completes* the pair (S,T) if $U \cap (S \cup T) = \emptyset$.
+Suppose $\phi:S \to T$ is a strictly increasing bijection. We say $U \subset \{1,...,2k\}$ *completes* the pair $(S,T)$ if $U \cap (S \cup T) = \emptyset$.
 
-$$a_i(S,T,\phi) = \sum_{U \text{ completes (S,T) }|U \cup S| = i} (S\cup U, T\cup U, \phi_U) \in \$$
+$$a_i(S,T,\phi) = \sum_{U \text{ completes (S,T) }|U \cup S| = i} (S\cup U, T\cup U, \phi_U) \in \mathcal{A}'(Z,a),$$
+
+where $\phi_U|_S = \phi$ and $\phi_U|_U = id_U$
 
 ---
 **Definition.** The *bordered algebra* associated to the arc diagram $\mathcal{Z}=(Z,a,M)$ is the algebra
@@ -42,7 +44,7 @@ It is generated over $\mathbb{F}$ by $I \in \mathcal{I}(\mathcal{Z})$ and $I\cdo
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTYzMTI5MSwtMTU3NDU0NjQ2NCwtMT
-g1MjgwMjA4LDgzNTc0OTAyNCwtMTU0MTQzMjQ4NCwtMjY0NDQ5
-Mzg5LDEzODc1NDA2MjksMzQ1NDQ4OTQyXX0=
+eyJoaXN0b3J5IjpbMTE4MDQzMjA5LC0xNTc0NTQ2NDY0LC0xOD
+UyODAyMDgsODM1NzQ5MDI0LC0xNTQxNDMyNDg0LC0yNjQ0NDkz
+ODksMTM4NzU0MDYyOSwzNDU0NDg5NDJdfQ==
 -->
