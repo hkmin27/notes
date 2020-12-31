@@ -12,11 +12,11 @@ Now define $H := f^{-1}(-1,1) \cap$ inside of trajectories.
 $(H,\omega,v,f)$ is called a *Weinstein k-handle*.
 
 ---
-Check every facts
+Check the facts
 
 $v$ is expanding: $\mathcal{L}_v\omega = \omega$
 $i_vd\omega + di_v\omega = \sum d(-q_idp_i-2p_idq_i)+\sum d(x_idy_i-y_idx_i)=\omega$
-$v$ is gradient for $f$
+$v$ is gradient for $f$: trivial
 
 ---
 
@@ -32,8 +32,9 @@ Since $T(T^*S)|_S \cong TS \oplus \xi/TS^\perp$, $S$ determines $TM|_S$ except f
 
 **framing in 3-dimension**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzAxOTYyNDcsMTk1OTYwOTU3OSw4NT
-gwNTU3MzUsLTE2NDQyMzQ3NDIsMzA2OTA4NTk3LC04OTkxODY3
-NywxODc3NzI0NDcyLDUyMTk3NjMxOSwyMDM2NTU5NywxMTI5ND
-EzNDI3LC0yMTQ0MDM4MDY0LC0xNDIwNTIxMjE2XX0=
+eyJoaXN0b3J5IjpbNzk4MzI2MDc2LC0xMjcwMTk2MjQ3LDE5NT
+k2MDk1NzksODU4MDU1NzM1LC0xNjQ0MjM0NzQyLDMwNjkwODU5
+NywtODk5MTg2NzcsMTg3NzcyNDQ3Miw1MjE5NzYzMTksMjAzNj
+U1OTcsMTEyOTQxMzQyNywtMjE0NDAzODA2NCwtMTQyMDUyMTIx
+Nl19
 -->
