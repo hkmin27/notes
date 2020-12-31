@@ -32,11 +32,13 @@ $$\mathcal{I}(\mathcal{Z}) = \bigoplus_{i=1}^k \mathcal{I}(\mathcal{Z},i)$$
 ---
 **Definition.** The *bordered algebra* associated to the arc diagram $\mathcal{Z}=(Z,a,M)$ is the algebra
 
-$$\mathcal{A}(Z) = \mathcal{I}(\mathcal{Z})\cdot$$
+$$\mathcal{A}(\mathcal{Z}) = \mathcal{I}(\mathcal{Z}) \cdot \mathcal{A}'(Z,a) \cdot \mathcal{I}(\mathcal{Z}).$$
+
+It is generated over $\mathbb{F}$ by $\mathcal{I}(\mathcal{Z})$ and $I\cdot a_i(S,T
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDI2NDgyNjYsLTE1NzQ1NDY0NjQsLT
+eyJoaXN0b3J5IjpbLTE1NTcxOTYzMzMsLTE1NzQ1NDY0NjQsLT
 E4NTI4MDIwOCw4MzU3NDkwMjQsLTE1NDE0MzI0ODQsLTI2NDQ0
 OTM4OSwxMzg3NTQwNjI5LDM0NTQ0ODk0Ml19
 -->
