@@ -33,10 +33,13 @@ Since $T(T^*S)|_S \cong TS \oplus \xi/TS^\perp$, $S$ determines $TM|_S$ except f
 **framing in 3-dimension**
 We will figure out the natural framing of Legendrian surgery in 3-dimension. Let $k=n=2$.  Then 
 $$\alpha = i_v\omega = $$
+
+**Remark.** difference btw contact framing of unknot: this case has outward vf. Weinstein case has inward vf. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjAzMTc0MCwtNjY1MTk3ODE2LDc5OD
-MyNjA3NiwtMTI3MDE5NjI0NywxOTU5NjA5NTc5LDg1ODA1NTcz
-NSwtMTY0NDIzNDc0MiwzMDY5MDg1OTcsLTg5OTE4Njc3LDE4Nz
-c3MjQ0NzIsNTIxOTc2MzE5LDIwMzY1NTk3LDExMjk0MTM0Mjcs
-LTIxNDQwMzgwNjQsLTE0MjA1MjEyMTZdfQ==
+eyJoaXN0b3J5IjpbLTIxMDI3ODIwNjMsLTE1MjAzMTc0MCwtNj
+Y1MTk3ODE2LDc5ODMyNjA3NiwtMTI3MDE5NjI0NywxOTU5NjA5
+NTc5LDg1ODA1NTczNSwtMTY0NDIzNDc0MiwzMDY5MDg1OTcsLT
+g5OTE4Njc3LDE4Nzc3MjQ0NzIsNTIxOTc2MzE5LDIwMzY1NTk3
+LDExMjk0MTM0MjcsLTIxNDQwMzgwNjQsLTE0MjA1MjEyMTZdfQ
+==
 -->
