@@ -18,8 +18,8 @@ $$\mathcal{A}'(Z,a) = \bigoplus_{i=1}^{2k}\mathcal{A}(|a_1|,...,|a_l|;i)$$
 
 Let $\mathcal{Z} = (Z, a, M)$ be a rank k arc diagram. If $s\subset\{1,...,k\}$, a *section* of $s$ is a subset $S \subset M^{-1}(s)$ such that $M|_S: S \to s$ is bijective. For each subset $s \subset \{1,...,k\}$, there is an idempotent 
 
-$$I_s=\sum
+$$I_s=\sum_{S \text{ section of } s} I(S)$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1OTY4NjYyLC0xNTQxNDMyNDg0LC0yNj
-Q0NDkzODksMTM4NzU0MDYyOSwzNDU0NDg5NDJdfQ==
+eyJoaXN0b3J5IjpbLTExODMxNDA5MjcsLTE1NDE0MzI0ODQsLT
+I2NDQ0OTM4OSwxMzg3NTQwNjI5LDM0NTQ0ODk0Ml19
 -->
