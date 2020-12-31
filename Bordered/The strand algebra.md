@@ -34,11 +34,11 @@ $$\mathcal{I}(\mathcal{Z}) = \bigoplus_{i=1}^k \mathcal{I}(\mathcal{Z},i)$$
 
 $$\mathcal{A}(\mathcal{Z}) = \mathcal{I}(\mathcal{Z}) \cdot \mathcal{A}'(Z,a) \cdot \mathcal{I}(\mathcal{Z}).$$
 
-It is generated over $\mathbb{F}$ by $\mathcal{I}(\mathcal{Z})$ and $I\cdot a_i(S,T
+It is generated over $\mathbb{F}$ by $I \in \mathcal{I}(\mathcal{Z})$ and $I\cdot a_i(S,T,\phi)\cdot I$.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTcxOTYzMzMsLTE1NzQ1NDY0NjQsLT
-E4NTI4MDIwOCw4MzU3NDkwMjQsLTE1NDE0MzI0ODQsLTI2NDQ0
-OTM4OSwxMzg3NTQwNjI5LDM0NTQ0ODk0Ml19
+eyJoaXN0b3J5IjpbMTYzODM5NjQ5MiwtMTU3NDU0NjQ2NCwtMT
+g1MjgwMjA4LDgzNTc0OTAyNCwtMTU0MTQzMjQ4NCwtMjY0NDQ5
+Mzg5LDEzODc1NDA2MjksMzQ1NDQ4OTQyXX0=
 -->
