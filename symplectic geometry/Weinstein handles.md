@@ -31,11 +31,12 @@ where $\R$ is spanned by the Reeb vector field.
 Since $T(T^*S)|_S \cong TS \oplus \xi/TS^\perp$, $S$ determines $TM|_S$ except for $CSN(S)$.
 
 **framing in 3-dimension**
-We will figure out the natural framing of Legendrian surgery in 3-dimension. Let $k=n=2$. 
+We will figure out the natural framing of Legendrian surgery in 3-dimension. Let $k=n=2$.  Then 
+$$\alpha = i_v\omega = $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTE5NzgxNiw3OTgzMjYwNzYsLTEyNz
-AxOTYyNDcsMTk1OTYwOTU3OSw4NTgwNTU3MzUsLTE2NDQyMzQ3
-NDIsMzA2OTA4NTk3LC04OTkxODY3NywxODc3NzI0NDcyLDUyMT
-k3NjMxOSwyMDM2NTU5NywxMTI5NDEzNDI3LC0yMTQ0MDM4MDY0
-LC0xNDIwNTIxMjE2XX0=
+eyJoaXN0b3J5IjpbLTE1MjAzMTc0MCwtNjY1MTk3ODE2LDc5OD
+MyNjA3NiwtMTI3MDE5NjI0NywxOTU5NjA5NTc5LDg1ODA1NTcz
+NSwtMTY0NDIzNDc0MiwzMDY5MDg1OTcsLTg5OTE4Njc3LDE4Nz
+c3MjQ0NzIsNTIxOTc2MzE5LDIwMzY1NTk3LDExMjk0MTM0Mjcs
+LTIxNDQwMzgwNjQsLTE0MjA1MjEyMTZdfQ==
 -->
