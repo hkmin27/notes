@@ -20,8 +20,10 @@ Let $\mathcal{Z} = (Z, a, M)$ be a rank k arc diagram. If $s\subset\{1,...,k\}$,
 
 $$I_s=\sum_{S \text{ a section of } s} I(S),$$obtained by summing over all idempotents $I(S) = (S,S,id_S) \in \mathcal{A}'(Z,a)$ associated to sections of $s$
 
-
+---
+**Definition.** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1NzQ5MDI0LC0xNTQxNDMyNDg0LC0yNj
-Q0NDkzODksMTM4NzU0MDYyOSwzNDU0NDg5NDJdfQ==
+eyJoaXN0b3J5IjpbLTE4NTI4MDIwOCw4MzU3NDkwMjQsLTE1ND
+E0MzI0ODQsLTI2NDQ0OTM4OSwxMzg3NTQwNjI5LDM0NTQ0ODk0
+Ml19
 -->
