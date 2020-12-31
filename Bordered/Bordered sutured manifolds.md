@@ -26,10 +26,12 @@ Insert figure of sutured surfaces
 Given an arc diagram $\mathcal{Z}$, we can associate a graph $G(\mathcal{Z})$ by attaching 1-cells to points in $a$ according to the matching $M$.
 We can also associate a sutured surface $\mathcal{F}(\mathcal{Z}) = (F(\mathcal{Z}),\Lambda(\mathcal{Z}))$ in the following way. Starting with the product $Z \times [0,1]$ and attach (2-dim) 1-handles along $M^{-1}(i) \times \{0\}$. The suture set is given by $\Lambda(\mathcal{Z}) := -(\partial Z \times \{\frac12\})$, and the positive and negative regions are the portions of $\partial F(\mathcal{Z})$ containing $Z \times \{1\}$ and $Z \times \{0\}$ respectively. See figure...
 There is an obvious embedding $G(\mathcal{Z})$ in $\mathcal{F}(\mathcal{Z})$ sending $Z$ to $Z \times \{1/2\}$ and the 1-cells to the cores of the 1-handles. So when we say $Z$ in $\mathcal{F}(\mathcal{Z})$, we always mean $Z \times \{1/2\}$.
-If there is a diffeomorphism from $\mathcal{F}(\mathcal{Z})$ to a sutured surface $\mathcalparametrize
+If there is a diffeomorphism from $\mathcal{F}(\mathcal{Z})$ to a sutured surface $\mathcal{F} = (F,\Lambda)$, we say $\mathcal{Z}$ parametrizes $\mathcal{F}$.
+
+**Definition.** A *bordered sutured manifold* $(Y,\Gamma,\mathcal{Z})$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTI0MTA5MzksMTQyNzgwNzY2OSwtNj
-k2MjkxMTY3LDExNzM0NzY0NCwtMTA0MTI3OTgxMCwzNDAyMDkw
-MzEsNTQ5MTUzMjg2LC04NjIyOTUzMzYsLTU4ODUzMDY0NiwxOD
-g1Mzc3NDFdfQ==
+eyJoaXN0b3J5IjpbLTM5NTI3MDA5MCwxNDI3ODA3NjY5LC02OT
+YyOTExNjcsMTE3MzQ3NjQ0LC0xMDQxMjc5ODEwLDM0MDIwOTAz
+MSw1NDkxNTMyODYsLTg2MjI5NTMzNiwtNTg4NTMwNjQ2LDE4OD
+UzNzc0MV19
 -->
