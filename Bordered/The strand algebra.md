@@ -1,6 +1,9 @@
 ### The strand algebra
 
--
+---
+**Definition** 
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTk2OTc2NywzNDU0NDg5NDJdfQ==
+eyJoaXN0b3J5IjpbLTk3NjY4OTQyOSwzNDU0NDg5NDJdfQ==
 -->
