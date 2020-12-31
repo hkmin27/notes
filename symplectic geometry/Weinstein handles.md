@@ -32,14 +32,15 @@ Since $T(T^*S)|_S \cong TS \oplus \xi/TS^\perp$, $S$ determines $TM|_S$ except f
 
 **framing in 3-dimension**
 We will figure out the natural framing of Legendrian surgery in 3-dimension. Let $k=n=2$.  Then 
-$$\alpha = i_v\omega = $$
+$$\alpha = i_v\omega = -q_1dp_1 - q_2dp_2-2p_1dq_1-2p_2dq_2\\
+\alphav\wedge d\alpha$$
 
 **Remark.** difference btw contact framing of unknot: this case has outward vf. Weinstein case has inward vf. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDI3ODIwNjMsLTE1MjAzMTc0MCwtNj
-Y1MTk3ODE2LDc5ODMyNjA3NiwtMTI3MDE5NjI0NywxOTU5NjA5
-NTc5LDg1ODA1NTczNSwtMTY0NDIzNDc0MiwzMDY5MDg1OTcsLT
-g5OTE4Njc3LDE4Nzc3MjQ0NzIsNTIxOTc2MzE5LDIwMzY1NTk3
-LDExMjk0MTM0MjcsLTIxNDQwMzgwNjQsLTE0MjA1MjEyMTZdfQ
-==
+eyJoaXN0b3J5IjpbMTM0NDA2MzI1OSwtMjEwMjc4MjA2MywtMT
+UyMDMxNzQwLC02NjUxOTc4MTYsNzk4MzI2MDc2LC0xMjcwMTk2
+MjQ3LDE5NTk2MDk1NzksODU4MDU1NzM1LC0xNjQ0MjM0NzQyLD
+MwNjkwODU5NywtODk5MTg2NzcsMTg3NzcyNDQ3Miw1MjE5NzYz
+MTksMjAzNjU1OTcsMTEyOTQxMzQyNywtMjE0NDAzODA2NCwtMT
+QyMDUyMTIxNl19
 -->
