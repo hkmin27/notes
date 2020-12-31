@@ -35,15 +35,15 @@ We will figure out the natural framing of Legendrian surgery in 3-dimension. Let
 $$\alpha = i_v\omega = -q_1dp_1 - q_2dp_2-2p_1dq_1-2p_2dq_2,\\
 \alpha \wedge d\alpha|_L = 2q_ 1dp_1 \wedge dp_2 \wedge dq_2 + 2q_2dp_2 \wedge dp_1\wedge dq_1.$$
 
-Orient $L$ by the vector field $q_1 \partial_{q_2} - q_2\partial_{q_1}$. Then the normal orientation of $L$ is given by $(2q_1^2+2q_2^2)dp_1 \wedge dp_2$, so the framing of the surgery is given by an o$(\partial_{p_1}, \partial_{p_2})$.
+Orient $L$ by the vector field $q_1 \partial_{q_2} - q_2\partial_{q_1}$. Then the normal orientation of $L$ is given by $(2q_1^2+2q_2^2)dp_1 \wedge dp_2$, so the framing of the surgery is given by an ordered basis $(\partial_{p_1}, \partial_{p_2})$.
 
 
 **Remark.** difference btw contact framing of unknot: this case has outward vf. Weinstein case has inward vf. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzU3MDc0MjcsLTIxMDI3ODIwNjMsLT
-E1MjAzMTc0MCwtNjY1MTk3ODE2LDc5ODMyNjA3NiwtMTI3MDE5
-NjI0NywxOTU5NjA5NTc5LDg1ODA1NTczNSwtMTY0NDIzNDc0Mi
-wzMDY5MDg1OTcsLTg5OTE4Njc3LDE4Nzc3MjQ0NzIsNTIxOTc2
-MzE5LDIwMzY1NTk3LDExMjk0MTM0MjcsLTIxNDQwMzgwNjQsLT
-E0MjA1MjEyMTZdfQ==
+eyJoaXN0b3J5IjpbLTI2NTkzMTM1MSwtMjEwMjc4MjA2MywtMT
+UyMDMxNzQwLC02NjUxOTc4MTYsNzk4MzI2MDc2LC0xMjcwMTk2
+MjQ3LDE5NTk2MDk1NzksODU4MDU1NzM1LC0xNjQ0MjM0NzQyLD
+MwNjkwODU5NywtODk5MTg2NzcsMTg3NzcyNDQ3Miw1MjE5NzYz
+MTksMjAzNjU1OTcsMTEyOTQxMzQyNywtMjE0NDAzODA2NCwtMT
+QyMDUyMTIxNl19
 -->
