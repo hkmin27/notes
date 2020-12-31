@@ -16,7 +16,8 @@ Let $(Z,a)$ be a finite collection of oriented arcs and a subset of $2k$ points.
 
 $$\mathcal{A}'(Z,a) = \bigoplus_{i=1}^{2k}\mathcal{A}(|a_1|,...,|a_l|;i)$$
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDQ0OTM4OSwxMzg3NTQwNjI5LDM0NT
-Q0ODk0Ml19
+eyJoaXN0b3J5IjpbMTMwMDc5MzM0NSwtMjY0NDQ5Mzg5LDEzOD
+c1NDA2MjksMzQ1NDQ4OTQyXX0=
 -->
