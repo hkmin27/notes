@@ -28,10 +28,10 @@ We can also associate a sutured surface $\mathcal{F}(\mathcal{Z}) = (F(\mathcal{
 There is an obvious embedding $G(\mathcal{Z})$ in $\mathcal{F}(\mathcal{Z})$ sending $Z$ to $Z \times \{1/2\}$ and the 1-cells to the cores of the 1-handles. So when we say $Z$ in $\mathcal{F}(\mathcal{Z})$, we always mean $Z \times \{1/2\}$.
 If there is a diffeomorphism from $\mathcal{F}(\mathcal{Z})$ to a sutured surface $\mathcal{F} = (F,\Lambda)$, we say $\mathcal{Z}$ parametrizes $\mathcal{F}$.
 
-**Definition.** A *bordered sutured manifold* $(Y,\Gamma,\mathcal{Z})$
+**Definition.** A *bordered sutured manifold* $(Y,\Gamma,\mathcal{Z})$ is a sutured manifold $(Y,\Gamma)$ together with an embedding  sutured surface $\mathcal{F}(Z)$ into 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTI3MDA5MCwxNDI3ODA3NjY5LC02OT
-YyOTExNjcsMTE3MzQ3NjQ0LC0xMDQxMjc5ODEwLDM0MDIwOTAz
-MSw1NDkxNTMyODYsLTg2MjI5NTMzNiwtNTg4NTMwNjQ2LDE4OD
-UzNzc0MV19
+eyJoaXN0b3J5IjpbLTEyMjg4Mjg2ODQsMTQyNzgwNzY2OSwtNj
+k2MjkxMTY3LDExNzM0NzY0NCwtMTA0MTI3OTgxMCwzNDAyMDkw
+MzEsNTQ5MTUzMjg2LC04NjIyOTUzMzYsLTU4ODUzMDY0NiwxOD
+g1Mzc3NDFdfQ==
 -->
