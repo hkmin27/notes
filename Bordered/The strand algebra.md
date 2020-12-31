@@ -5,8 +5,9 @@
 The multiplication is given by
 $$(S,T,\phi) \cdot (U,V,\psi) = \begin{cases} (S,V,\psi \circ \phi) \quad &\text{if } T=U \text{and } \text{inv}(\phi)+\text{inv}(\psi)=\text{inv}(\psi\circ\phi) \\0 &\text{otherwise}\end{cases} $$
 
-
 ---
+
+In the bordered sutured setting, we need the *extended strand algebra* of $(n_1,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTUzODkwNSwzNDU0NDg5NDJdfQ==
+eyJoaXN0b3J5IjpbMTQ1NDA3NTk5MywzNDU0NDg5NDJdfQ==
 -->
