@@ -26,10 +26,10 @@ Insert figure of sutured surfaces
 Given an arc diagram $\mathcal{Z}$, we can associate a graph $G(\mathcal{Z})$ by attaching 1-cells to points in $a$ according to the matching $M$.
 We can also associate a sutured surface $\mathcal{F}(\mathcal{Z}) = (F(\mathcal{Z}),\Lambda(\mathcal{Z}))$ in the following way. Starting with the product $Z \times [0,1]$ and attach (2-dim) 1-handles along $M^{-1}(i) \times \{0\}$. The suture set is given by $\Lambda(\mathcal{Z}) := -(\partial Z \times \{\frac12\})$, and the positive and negative regions are the portions of $\partial F(\mathcal{Z})$ containing $Z \times \{1\}$ and $Z \times \{0\}$ respectively. See figure...
 There is an obvious embedding $G(\mathcal{Z})$ in $\mathcal{F}(\mathcal{Z})$ sending $Z$ to $Z \times \{1/2\}$ and the 1-cells to the cores of the 1-handles. So when we say $Z$ in $\mathcal{F}(\mathcal{Z})$, we always mean $Z \times \{1/2\}$.
-parametrize
+If there is a diffeomorphism from $\mathcal{F}(\mathcal{Z})$ to a sutured surface $\mathcalparametrize
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzOTM4NDI1LDE0Mjc4MDc2NjksLTY5Nj
-I5MTE2NywxMTczNDc2NDQsLTEwNDEyNzk4MTAsMzQwMjA5MDMx
-LDU0OTE1MzI4NiwtODYyMjk1MzM2LC01ODg1MzA2NDYsMTg4NT
-M3NzQxXX0=
+eyJoaXN0b3J5IjpbLTEzMTI0MTA5MzksMTQyNzgwNzY2OSwtNj
+k2MjkxMTY3LDExNzM0NzY0NCwtMTA0MTI3OTgxMCwzNDAyMDkw
+MzEsNTQ5MTUzMjg2LC04NjIyOTUzMzYsLTU4ODUzMDY0NiwxOD
+g1Mzc3NDFdfQ==
 -->
