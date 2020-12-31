@@ -36,15 +36,15 @@ $$\alpha = i_v\omega = -q_1dp_1 - q_2dp_2-2p_1dq_1-2p_2dq_2,\\
 \alpha \wedge d\alpha|_L = 2q_ 1dp_1 \wedge dp_2 \wedge dq_2 + 2q_2dp_2 \wedge dp_1\wedge dq_1.$$
 
 Orient $L$ by the vector field $q_1 \partial_{q_2} - q_2\partial_{q_1}$. Then the normal orientation of $L$ is given by $(2q_1^2+2q_2^2)dp_1 \wedge dp_2$, so the framing of the surgery is given by an ordered basis $(\partial_{p_1}, \partial_{p_2})$. **(Q: why is it the surgery framing?)**
-The contact framing of $L
+The contact framing of $L$ is given by the vector field $q_2\partial_{p_1} -q_1\partial_{p_2}$
 
 
 **Remark.** difference btw contact framing of unknot: this case has outward vf. Weinstein case has inward vf. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODIwNDY3ODcsLTE0MzA0MzI1NTcsLT
-IxMDI3ODIwNjMsLTE1MjAzMTc0MCwtNjY1MTk3ODE2LDc5ODMy
-NjA3NiwtMTI3MDE5NjI0NywxOTU5NjA5NTc5LDg1ODA1NTczNS
-wtMTY0NDIzNDc0MiwzMDY5MDg1OTcsLTg5OTE4Njc3LDE4Nzc3
-MjQ0NzIsNTIxOTc2MzE5LDIwMzY1NTk3LDExMjk0MTM0MjcsLT
-IxNDQwMzgwNjQsLTE0MjA1MjEyMTZdfQ==
+eyJoaXN0b3J5IjpbOTM1MDQyNTg2LC0xNDMwNDMyNTU3LC0yMT
+AyNzgyMDYzLC0xNTIwMzE3NDAsLTY2NTE5NzgxNiw3OTgzMjYw
+NzYsLTEyNzAxOTYyNDcsMTk1OTYwOTU3OSw4NTgwNTU3MzUsLT
+E2NDQyMzQ3NDIsMzA2OTA4NTk3LC04OTkxODY3NywxODc3NzI0
+NDcyLDUyMTk3NjMxOSwyMDM2NTU5NywxMTI5NDEzNDI3LC0yMT
+Q0MDM4MDY0LC0xNDIwNTIxMjE2XX0=
 -->
