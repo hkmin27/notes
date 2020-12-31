@@ -31,16 +31,16 @@ where $\R$ is spanned by the Reeb vector field.
 Since $T(T^*S)|_S \cong TS \oplus \xi/TS^\perp$, $S$ determines $TM|_S$ except for $CSN(S)$.
 
 **framing in 3-dimension**
-We will figure out the natural framing of Legendrian surgery in 3-dimension. Let $k=n=2$.  Then the attaching sphere is $L = \{|q|=1,p=0\}$  
+We will figure out the natural framing of Legendrian surgery in 3-dimension. Let $k=n=2$.  Then the attaching sphere is $L := S^1_H = \{|q|=1,p=0\}$  
 $$\alpha = i_v\omega = -q_1dp_1 - q_2dp_2-2p_1dq_1-2p_2dq_2\\
-\alpha \wedge d\alpha|_L = 2q_ 1dp_1 \wedge dp_2 \wedge dq_2 + 2q_2dp_2 \wedge dp_1$$
+\alpha \wedge d\alpha|_L = 2q_ 1dp_1 \wedge dp_2 \wedge dq_2 + 2q_2dp_2 \wedge dp_1\wedge dq_1$$
 
 **Remark.** difference btw contact framing of unknot: this case has outward vf. Weinstein case has inward vf. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTgzMTI3MywtMjEwMjc4MjA2MywtMT
-UyMDMxNzQwLC02NjUxOTc4MTYsNzk4MzI2MDc2LC0xMjcwMTk2
-MjQ3LDE5NTk2MDk1NzksODU4MDU1NzM1LC0xNjQ0MjM0NzQyLD
-MwNjkwODU5NywtODk5MTg2NzcsMTg3NzcyNDQ3Miw1MjE5NzYz
-MTksMjAzNjU1OTcsMTEyOTQxMzQyNywtMjE0NDAzODA2NCwtMT
-QyMDUyMTIxNl19
+eyJoaXN0b3J5IjpbMzAyMjQ2MTU2LC0yMTAyNzgyMDYzLC0xNT
+IwMzE3NDAsLTY2NTE5NzgxNiw3OTgzMjYwNzYsLTEyNzAxOTYy
+NDcsMTk1OTYwOTU3OSw4NTgwNTU3MzUsLTE2NDQyMzQ3NDIsMz
+A2OTA4NTk3LC04OTkxODY3NywxODc3NzI0NDcyLDUyMTk3NjMx
+OSwyMDM2NTU5NywxMTI5NDEzNDI3LC0yMTQ0MDM4MDY0LC0xND
+IwNTIxMjE2XX0=
 -->
