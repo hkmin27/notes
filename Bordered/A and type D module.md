@@ -10,9 +10,9 @@ $$\sum_{i+j=n+1} \sum_{l=1}^{n-j+1} \mu_i(a_1 \otimes \cdots \otimes a_{l-1} \ot
 for any $n$. There is also a unital element $1 \in A$ for which $\mu_2(a,1)=\mu_2(1,a)=a$ for all $a \in A$ and $\mu_i$ vanishes on i-tuples containing $1$ for $i \neq 2$. Here, $A[n]$ is a module $A$ with grading shifted *down* by $n$. Thus $\mu_1$ is a differential and $\mu_2$ is a multiplication.
 
 ___
-**Definition.** Let $\mathcal{A}$ be a unital $A_\infty$-algebra over $\math
+**Definition.** Let $\mathcal{A}$ be a unital $A_\infty$-algebra over $\mathbb{F}$ and $\mathcal{I}$ the subalgebra of idempotents 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDg3ODEzODAsNDcxMzE3MDcyLDQ4OT
-EzNzQ2NCw2MzQ4MDIyMTMsLTIwMjg5NzU1NSw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbLTcwMzA2Nzk2NCw0NzEzMTcwNzIsNDg5MT
+M3NDY0LDYzNDgwMjIxMywtMjAyODk3NTU1LDczMDk5ODExNl19
+
 -->
