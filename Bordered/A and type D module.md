@@ -14,10 +14,10 @@ ___
 
 ___
 
-### Type D-module
+### Type D-structure
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxNTc2MTksNDcxMzE3MDcyLDQ4OTEzNz
+eyJoaXN0b3J5IjpbMjMzNzE5MzQsNDcxMzE3MDcyLDQ4OTEzNz
 Q2NCw2MzQ4MDIyMTMsLTIwMjg5NzU1NSw3MzA5OTgxMTZdfQ==
 
 -->
