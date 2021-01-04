@@ -17,12 +17,14 @@ $$M_{\mathcal{A}} := \bigoplus_i M \cdot I_i$$
 together with a family of homogeneous maps
 
 $$m_i: M \otimes A^{\otimes i-1} \to M[2-i]$$
+
+satisfying the $A_{\infty}$ structure conditions
 ___
 
 ### Type D-structure
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4NDg2Mzg3LDU3Mjg5NjE1MywyMzM3MT
-kzNCw0NzEzMTcwNzIsNDg5MTM3NDY0LDYzNDgwMjIxMywtMjAy
-ODk3NTU1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEyNDIyMzIxMzgsNTcyODk2MTUzLDIzMz
+cxOTM0LDQ3MTMxNzA3Miw0ODkxMzc0NjQsNjM0ODAyMjEzLC0y
+MDI4OTc1NTUsNzMwOTk4MTE2XX0=
 -->
