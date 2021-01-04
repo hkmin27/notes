@@ -1,5 +1,5 @@
 ### $A_\infty$-modules
-$A_\infty$-algebra over $\mathbb{F}$ is a pair $\mathcal{A}=(A,\{\mu_i\})$ where $A$ is a graded $\mathbb{F}$-module and the $\mu_i$ are a sequence of multiplication maps
+*$A_\infty$-algebra* over $\mathbb{F}$ is a pair $\mathcal{A}=(A,\{\mu_i\})$ where $A$ is a graded $\mathbb{F}$-module and the $\mu_i$ are a sequence of multiplication maps
 
 $$\mu_i:A^{\otimes i} \to A[2-i]$$
 
@@ -12,12 +12,14 @@ for any $n$. There is also a unital element $1 \in A$ for which $\mu_2(a,1)=\mu_
 ___
 **Definition.** Let $\mathcal{A}$ be a unital $A_\infty$-algebra over $\mathbb{F}$ and $\mathcal{I}$ the subalgebra of idempotents with orthogonal basis $\{I_i\}$ satisfying $\sum I_i = 1 \in \mathcal{A}$.  A (right unital) $A_\infty$-module over $\mathcal{A}$ is a graded module $M$ over  the base ring $\mathcal{I}$
 
+$$M_{\mathcal{A}} := \bigoplus_i M \cdot I_i$$
+
 ___
 
 ### Type D-structure
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjEyNTk3Niw1NzI4OTYxNTMsMjMzNz
-E5MzQsNDcxMzE3MDcyLDQ4OTEzNzQ2NCw2MzQ4MDIyMTMsLTIw
-Mjg5NzU1NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbOTg5NDgxMjE1LDU3Mjg5NjE1MywyMzM3MT
+kzNCw0NzEzMTcwNzIsNDg5MTM3NDY0LDYzNDgwMjIxMywtMjAy
+ODk3NTU1LDczMDk5ODExNl19
 -->
