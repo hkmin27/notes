@@ -35,9 +35,9 @@ ___
 ___
 **Definition.**
 
-$$\mathcal{A}_N = $$
+$$^\mathcal{A} N = \bigoplus_i I_i \cdot N $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM3NDExMzEwLC0xMjQyMjMyMTM4LDU3Mj
+eyJoaXN0b3J5IjpbNDkwMzUzODk5LC0xMjQyMjMyMTM4LDU3Mj
 g5NjE1MywyMzM3MTkzNCw0NzEzMTcwNzIsNDg5MTM3NDY0LDYz
 NDgwMjIxMywtMjAyODk3NTU1LDczMDk5ODExNl19
 -->
