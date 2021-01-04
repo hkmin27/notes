@@ -16,13 +16,13 @@ $$M_{\mathcal{A}} := \bigoplus_i M \cdot I_i$$
 
 together with a family of homogeneous maps
 
-$$m_i: M \otimes $$
+$$m_i: M \otimes A^{\otimes i-1} \to M[2-i]$$
 ___
 
 ### Type D-structure
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDE1OTUzMCw1NzI4OTYxNTMsMjMzNz
-E5MzQsNDcxMzE3MDcyLDQ4OTEzNzQ2NCw2MzQ4MDIyMTMsLTIw
-Mjg5NzU1NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjQ4NDg2Mzg3LDU3Mjg5NjE1MywyMzM3MT
+kzNCw0NzEzMTcwNzIsNDg5MTM3NDY0LDYzNDgwMjIxMywtMjAy
+ODk3NTU1LDczMDk5ODExNl19
 -->
