@@ -7,8 +7,8 @@ for $i 	= 1, 2, ...$ satisfying
 
 $$\sum_{i+j=n+1} \sum_{l=1}^{n-j+1} \mu_i(a_1 \otimes \cdots \otimes a_{l-1} \otimes \mu_j(a_l \otimes \cdots \otimes a_{l+j-1})\otimes a_{l+j} \otimes  \cdots \otimes a_n) = 0$$
 
-for any $n$. The
+for any $n$. There is also a unital element $1 \in A$ for which $\mu_2(a,1)=\mu_2(1,a)=a$ for all $a \in A$ and $\mu_i$ vanishes on i-tuples containing $1$ for $i \neq 2$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTQxOTA2MCw2MzQ4MDIyMTMsLTIwMj
-g5NzU1NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNDg5MTM3NDY0LDYzNDgwMjIxMywtMjAyOD
+k3NTU1LDczMDk5ODExNl19
 -->
