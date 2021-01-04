@@ -19,12 +19,20 @@ together with a family of homogeneous maps
 $$m_i: M \otimes A^{\otimes i-1} \to M[2-i]$$
 
 satisfying the $A_{\infty}$ structure conditions
+
+$$ aa$$
+
+and the unital conditions 
+
+$$m_2(x \otimes 1) = x\\
+m_i(x \otimes  \cdots \otimes 1 \otimes \cdots) = 0$$
+
 ___
 
 ### Type D-structure
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDIyMzIxMzgsNTcyODk2MTUzLDIzMz
-cxOTM0LDQ3MTMxNzA3Miw0ODkxMzc0NjQsNjM0ODAyMjEzLC0y
-MDI4OTc1NTUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTcxNDk5MjQyNiwtMTI0MjIzMjEzOCw1Nz
+I4OTYxNTMsMjMzNzE5MzQsNDcxMzE3MDcyLDQ4OTEzNzQ2NCw2
+MzQ4MDIyMTMsLTIwMjg5NzU1NSw3MzA5OTgxMTZdfQ==
 -->
