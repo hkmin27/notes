@@ -27,12 +27,17 @@ and the unital conditions
 $$m_2(x \otimes 1) = x\\
 m_i(x \otimes  \cdots \otimes 1 \otimes \cdots) = 0$$
 
+We say that the $A_\infty$-module is *bounded* if $m_i=0$ for all sufficiently large $i$.
 ___
 
 ### Type D-structure
 
+___
+**Definition.**
+
+$$\mathcal{A}_N = $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDk5MjQyNiwtMTI0MjIzMjEzOCw1Nz
-I4OTYxNTMsMjMzNzE5MzQsNDcxMzE3MDcyLDQ4OTEzNzQ2NCw2
-MzQ4MDIyMTMsLTIwMjg5NzU1NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNDM3NDExMzEwLC0xMjQyMjMyMTM4LDU3Mj
+g5NjE1MywyMzM3MTkzNCw0NzEzMTcwNzIsNDg5MTM3NDY0LDYz
+NDgwMjIxMywtMjAyODk3NTU1LDczMDk5ODExNl19
 -->
