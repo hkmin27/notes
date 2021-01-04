@@ -11,8 +11,13 @@ for any $n$. There is also a unital element $1 \in A$ for which $\mu_2(a,1)=\mu_
 
 ___
 **Definition.** Let $\mathcal{A}$ be a unital $A_\infty$-algebra over $\mathbb{F}$ and $\mathcal{I}$ the subalgebra of idempotents 
+
+___
+
+### Type D-module
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzA2Nzk2NCw0NzEzMTcwNzIsNDg5MT
-M3NDY0LDYzNDgwMjIxMywtMjAyODk3NTU1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbOTAxNTc2MTksNDcxMzE3MDcyLDQ4OTEzNz
+Q2NCw2MzQ4MDIyMTMsLTIwMjg5NzU1NSw3MzA5OTgxMTZdfQ==
 
 -->
