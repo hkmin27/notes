@@ -7,8 +7,8 @@ for $i 	= 1, 2, ...$ satisfying
 
 $$\sum_{i+j=n+1} \sum_{l=1}^{n-j+1} \mu_i(a_1 \otimes \cdots \otimes a_{l-1} \otimes \mu_j(a_l \otimes \cdots \otimes a_{l+j-1})\otimes a_{l+j} \otimes  \cdots \otimes a_n) = 0$$
 
-for any $n$. There is also a unital element $1 \in A$ for which $\mu_2(a,1)=\mu_2(1,a)=a$ for all $a \in A$ and $\mu_i$ vanishes on i-tuples containing $1$ for $i \neq 2$.
+for any $n$. There is also a unital element $1 \in A$ for which $\mu_2(a,1)=\mu_2(1,a)=a$ for all $a \in A$ and $\mu_i$ vanishes on i-tuples containing $1$ for $i \neq 2$. Here, $A[n]$ is a module $A$ with grading shifted *down* by $n$. Thus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5MTM3NDY0LDYzNDgwMjIxMywtMjAyOD
-k3NTU1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTU2MjcxNzExMSw0ODkxMzc0NjQsNjM0OD
+AyMjEzLC0yMDI4OTc1NTUsNzMwOTk4MTE2XX0=
 -->
