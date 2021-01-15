@@ -22,7 +22,7 @@ $$i: \textit{Diff}_{std} \hookrightarrow \textit{Diff}_p.$$
 
 **Proposition 4.** $\textit{Diff}_p$ is path-connected.
 
-**Proof.** Suppose $\phi_0, \phi_1:S^3 \rightarrow S^3$ are diffeomorphisms in $\textit{Diff}_0$. By Smale's result, there is an isotopy $\phi_t: S^3 \to S^3$ connecting $\phi_0$ and $\phi_1$. Let $\zeta_t(p)$ be the planes $\phi_t^*(\xi_{std}(\phi_t(p))) \in T_pS^3$. Now choose a path of linear map on $F_t: T_pS^3 \to T_pS^3$ sending $\xi_{std}(p)$ to $\zeta_t(p)$. (Since $\zeta$ is determined by its Then $\phi_t \circ F_t$ is in $\textit{Diff}_0$  $\square$
+**Proof.** Suppose $\phi_0, \phi_1:S^3 \rightarrow S^3$ are diffeomorphisms in $\textit{Diff}_0$. By Smale's result, there is an isotopy $\phi_t: S^3 \to S^3$ connecting $\phi_0$ and $\phi_1$. Let $\zeta_t(p)$ be the planes $\phi_t^*(\xi_{std}(\phi_t(p))) \in T_pS^3$. Now choose a path of linear map on $F_t: T_pS^3 \to T_pS^3$ sending $\xi_{std}(p)$ to $\zeta_t(p)$. (Since $\zeta$ is determined by its normal vector, we can pick $F_t$) Then $\phi_t \circ F_t$ is in $\textit{Diff}_0$  $\square$
 
 ---
 
@@ -31,7 +31,7 @@ $$i: \textit{Diff}_{std} \hookrightarrow \textit{Diff}_p.$$
 
 Other than $S^3$?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwMzM3MTAsMzQwMTMzNjcsLTIxMzM3Mj
-QxNDAsMjEyNDI3OTUwOCwtMTMwNzE5NDExNiwtMTg0MDIwNjIz
-MywxMTQ2MjA0NDU4LC0xMzg2MjQ2ODhdfQ==
+eyJoaXN0b3J5IjpbODY3MjUyNjYzLDM0MDEzMzY3LC0yMTMzNz
+I0MTQwLDIxMjQyNzk1MDgsLTEzMDcxOTQxMTYsLTE4NDAyMDYy
+MzMsMTE0NjIwNDQ1OCwtMTM4NjI0Njg4XX0=
 -->
