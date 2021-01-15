@@ -26,12 +26,12 @@ $$i: \textit{Diff}_{std} \hookrightarrow \textit{Diff}_p.$$
 
 ---
 
-**Proof of Theorem 2.** By Proposition 4, we can  
+**Proof of Theorem 2.** $[\Rightarrow]$: By Proposition 4, we can find  
 
 
 Other than $S^3$?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTczNTQxNCw4NjcyNTI2NjMsMzQwMT
+eyJoaXN0b3J5IjpbMTY3NzM1NzgyNiw4NjcyNTI2NjMsMzQwMT
 MzNjcsLTIxMzM3MjQxNDAsMjEyNDI3OTUwOCwtMTMwNzE5NDEx
 NiwtMTg0MDIwNjIzMywxMTQ2MjA0NDU4LC0xMzg2MjQ2ODhdfQ
 ==
