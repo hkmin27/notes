@@ -20,7 +20,9 @@ We need some preparation to prove Theorem 2. Let $\textit{Diff}_{std}$ be the gr
 
 $$i: \textit{Diff}_{std} \hookrightarrow \textit{Diff}_0.$$
 
-**Proposition 4.** connected 
+**Proposition 4.** $\textit{Diff}_0$ is path-connected.
+
+**Proof.** Let $phi_0
 
 ---
 
@@ -29,6 +31,6 @@ $$i: \textit{Diff}_{std} \hookrightarrow \textit{Diff}_0.$$
 
 Other than $S^3$?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM2MTI5ODYsMTE0NjIwNDQ1OCwtMT
-M4NjI0Njg4XX0=
+eyJoaXN0b3J5IjpbLTkyNjU2MTQwMywxMTQ2MjA0NDU4LC0xMz
+g2MjQ2ODhdfQ==
 -->
