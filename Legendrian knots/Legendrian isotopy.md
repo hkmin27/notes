@@ -22,7 +22,7 @@ $$i: \textit{Diff}_{std} \hookrightarrow \textit{Diff}_p.$$
 
 **Proposition 4.** $\textit{Diff}_p$ is path-connected.
 
-**Proof.** Suppose $\phi_0, \phi_1:S^3 \rightarrow S^3$ are diffeomorphisms in $\textit{Diff}_0$. By Smale's result, there is an isotopy $\phi_t: S^3 \to S^3$ connecting $\phi_0$ and $\phi_1$. Let $\zeta_t(p)$ be the planes $\phi_t^*(\xi_{std}(\phi_t(p))) \in T_pS^3$. Now choose a path of linear map on $T_pS^3$ so that  $F_t: \R^3 \to \R^3$
+**Proof.** Suppose $\phi_0, \phi_1:S^3 \rightarrow S^3$ are diffeomorphisms in $\textit{Diff}_0$. By Smale's result, there is an isotopy $\phi_t: S^3 \to S^3$ connecting $\phi_0$ and $\phi_1$. Let $\zeta_t(p)$ be the planes $\phi_t^*(\xi_{std}(\phi_t(p))) \in T_pS^3$. Now choose a path of linear map on $T_pS^3$ sending $\xi_{std}(p)$ to  $F_t: \R^3 \to \R^3$
 
 ---
 
@@ -31,7 +31,7 @@ $$i: \textit{Diff}_{std} \hookrightarrow \textit{Diff}_p.$$
 
 Other than $S^3$?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDc4Njc0MiwyMTI0Mjc5NTA4LC0xMz
-A3MTk0MTE2LC0xODQwMjA2MjMzLDExNDYyMDQ0NTgsLTEzODYy
-NDY4OF19
+eyJoaXN0b3J5IjpbLTIxMzM3MjQxNDAsMjEyNDI3OTUwOCwtMT
+MwNzE5NDExNiwtMTg0MDIwNjIzMywxMTQ2MjA0NDU4LC0xMzg2
+MjQ2ODhdfQ==
 -->
