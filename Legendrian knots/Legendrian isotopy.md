@@ -26,12 +26,13 @@ $$i: \textit{Diff}_{std} \hookrightarrow \textit{Diff}_p.$$
 
 ---
 
-**Proof of Theorem 2.** $[\Rightarrow]$: By Proposition 4, we can find  
+**Proof of Theorem 2.** $[\Rightarrow]$: Obvious. 
+$[\Leftarrow]$: By Proposition 4, we can find $\phi_t$ in $\textit{Diff}_p$ and by Theorem 3, we can perturb it to  
 
 
 Other than $S^3$?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzM1NzgyNiw4NjcyNTI2NjMsMzQwMT
+eyJoaXN0b3J5IjpbMTExODA3Mzg3OSw4NjcyNTI2NjMsMzQwMT
 MzNjcsLTIxMzM3MjQxNDAsMjEyNDI3OTUwOCwtMTMwNzE5NDEx
 NiwtMTg0MDIwNjIzMywxMTQ2MjA0NDU4LC0xMzg2MjQ2ODhdfQ
 ==
