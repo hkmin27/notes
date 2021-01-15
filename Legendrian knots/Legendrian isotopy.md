@@ -4,7 +4,7 @@
 
 ---
 
-This theorem follows from 
+This theorem can be derived from the following theorem.
 
 ---
 
@@ -12,5 +12,5 @@ This theorem follows from
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODYyNDY4OF19
+eyJoaXN0b3J5IjpbLTQxMTE2NzkxMCwtMTM4NjI0Njg4XX0=
 -->
