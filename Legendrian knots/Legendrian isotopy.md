@@ -22,7 +22,7 @@ $$i: \textit{Diff}_{std} \hookrightarrow \textit{Diff}_0.$$
 
 **Proposition 4.** $\textit{Diff}_0$ is path-connected.
 
-**Proof.** Suppose $\phi_0, \phi_1:S^3 \rightarrow S^3$ are diffeomorphisms in $\textit{Diff}_0$. By Smale's result, there is an isotopy $\phi_t: S^3 \to S^3$ connecting $\phi_0$ and $\phi_1$. Let $\zeta$
+**Proof.** Suppose $\phi_0, \phi_1:S^3 \rightarrow S^3$ are diffeomorphisms in $\textit{Diff}_0$. By Smale's result, there is an isotopy $\phi_t: S^3 \to S^3$ connecting $\phi_0$ and $\phi_1$. Let $\zeta_t(p)$ be the planes $\phi_t^
 
 ---
 
@@ -31,7 +31,7 @@ $$i: \textit{Diff}_{std} \hookrightarrow \textit{Diff}_0.$$
 
 Other than $S^3$?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTU2OTYzLDIxMjQyNzk1MDgsLTEzMD
-cxOTQxMTYsLTE4NDAyMDYyMzMsMTE0NjIwNDQ1OCwtMTM4NjI0
-Njg4XX0=
+eyJoaXN0b3J5IjpbLTExOTYyODg3NjIsMjEyNDI3OTUwOCwtMT
+MwNzE5NDExNiwtMTg0MDIwNjIzMywxMTQ2MjA0NDU4LC0xMzg2
+MjQ2ODhdfQ==
 -->
