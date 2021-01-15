@@ -8,7 +8,7 @@ This theorem follows from
 
 ---
 
-**Theorem 2.** 	
+**Theorem 2.**  For compact subsets $S$ and $S'$ in $(S^3, \xi_{std})$, there is a contact isotopy 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzMzYyOTA5XX0=
+eyJoaXN0b3J5IjpbLTE5Njc1MzU2OV19
 -->
