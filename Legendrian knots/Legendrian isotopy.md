@@ -11,6 +11,8 @@ This theorem can be derived from the following theorem.
 **Theorem 2.**  For compact subsets $S$ and $S'$ in $(S^3, \xi_{std})$, there is an ambient contact isotopy $\phi_t$ from $S$ to $S'$ if and only if there is a contactomorphism $\psi$ sending $S$ to $S'$.
 
 ---
+
+We will
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTE2NzkxMCwtMTM4NjI0Njg4XX0=
+eyJoaXN0b3J5IjpbLTEzMzc2MTY0ODYsLTEzODYyNDY4OF19
 -->
