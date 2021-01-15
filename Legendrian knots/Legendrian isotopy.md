@@ -16,9 +16,11 @@ We need some preparation to prove Theorem 2. Let $\textit{Diff}_{std}$ be the gr
 
 ---
 
-**Theorem 3. (Eliashberg)** T
+**Theorem 3. (Eliashberg)** The following inclusion is a weak homotopy equivalence.
 
-**Proposition 4.** connected
+$$i: \textit{Diff}_{std} \hookrightarrow \textit{Diff}_0.$$
+
+**Proposition 4.** connected 
 
 ---
 
@@ -27,6 +29,6 @@ We need some preparation to prove Theorem 2. Let $\textit{Diff}_{std}$ be the gr
 
 Other than $S^3$?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwNjM2ODc2LDExNDYyMDQ0NTgsLTEzOD
-YyNDY4OF19
+eyJoaXN0b3J5IjpbLTE5NDM2MTI5ODYsMTE0NjIwNDQ1OCwtMT
+M4NjI0Njg4XX0=
 -->
