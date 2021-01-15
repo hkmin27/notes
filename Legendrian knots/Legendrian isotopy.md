@@ -31,10 +31,11 @@ $[\Leftarrow]$: By Proposition 4, we can find $\phi_t$ in $\textit{Diff}_p$ and 
 
 ---
 
-Other than $S^3$? Once we can prove an analogous theorem like Theorem 3, everything will be similar.
+Other than $S^3$? 
+Once we can prove an analogous theorem like Theorem 3, everything will be similar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDg1OTk2NSw4NjcyNTI2NjMsMzQwMT
-MzNjcsLTIxMzM3MjQxNDAsMjEyNDI3OTUwOCwtMTMwNzE5NDEx
-NiwtMTg0MDIwNjIzMywxMTQ2MjA0NDU4LC0xMzg2MjQ2ODhdfQ
-==
+eyJoaXN0b3J5IjpbMTcyODgwNTA0MSwtODcwODU5OTY1LDg2Nz
+I1MjY2MywzNDAxMzM2NywtMjEzMzcyNDE0MCwyMTI0Mjc5NTA4
+LC0xMzA3MTk0MTE2LC0xODQwMjA2MjMzLDExNDYyMDQ0NTgsLT
+EzODYyNDY4OF19
 -->
