@@ -27,12 +27,13 @@ $$i: \textit{Diff}_{std} \hookrightarrow \textit{Diff}_p.$$
 ---
 
 **Proof of Theorem 2.** $[\Rightarrow]$: Obvious. 
-$[\Leftarrow]$: By Proposition 4, we can find $\phi_t$ in $\textit{Diff}_p$ and by Theorem 3, we can perturb it to  
+$[\Leftarrow]$: By Proposition 4, we can find $\phi_t$ in $\textit{Diff}_p$ and by Theorem 3, we can perturb it to be contained in $\textit{Diff}_{std}$. $\square$ 
 
+---
 
-Other than $S^3$?
+Other than $S^3$? Once we can prove an analogous theorem like Theorem 3, everything will be similar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODA3Mzg3OSw4NjcyNTI2NjMsMzQwMT
+eyJoaXN0b3J5IjpbLTg3MDg1OTk2NSw4NjcyNTI2NjMsMzQwMT
 MzNjcsLTIxMzM3MjQxNDAsMjEyNDI3OTUwOCwtMTMwNzE5NDEx
 NiwtMTg0MDIwNjIzMywxMTQ2MjA0NDU4LC0xMzg2MjQ2ODhdfQ
 ==
