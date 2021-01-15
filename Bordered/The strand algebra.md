@@ -43,8 +43,13 @@ $$\mathcal{A}(\mathcal{Z}) = \mathcal{I}(\mathcal{Z}) \cdot \mathcal{A}'(Z,a) \c
 It is generated over $\mathbb{F}$ by $I \in \mathcal{I}(\mathcal{Z})$ and $I\cdot a_i(S,T,\phi)\cdot I$.
 
 ---
+
+**Alternative description: Reeb chords**
+
+Given an arc diagram $(\mathcal{Z},)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDA4Mjk2NSwtMTU3NDU0NjQ2NCwtMT
-g1MjgwMjA4LDgzNTc0OTAyNCwtMTU0MTQzMjQ4NCwtMjY0NDQ5
-Mzg5LDEzODc1NDA2MjksMzQ1NDQ4OTQyXX0=
+eyJoaXN0b3J5IjpbLTEyNjU3MzUzNzEsMTkwMDA4Mjk2NSwtMT
+U3NDU0NjQ2NCwtMTg1MjgwMjA4LDgzNTc0OTAyNCwtMTU0MTQz
+MjQ4NCwtMjY0NDQ5Mzg5LDEzODc1NDA2MjksMzQ1NDQ4OTQyXX
+0=
 -->
