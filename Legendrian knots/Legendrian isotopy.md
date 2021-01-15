@@ -12,7 +12,7 @@ This theorem can be derived from the following theorem.
 
 ---
 
-We need some preparation to prove Theorem 2.
+We need some preparation to prove Theorem 2. Let $\textit{Diff}_{std}$
 
 ---
 
@@ -27,5 +27,6 @@ We need some preparation to prove Theorem 2.
 
 Other than $S^3$?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjIwNDQ1OCwtMTM4NjI0Njg4XX0=
+eyJoaXN0b3J5IjpbLTEwMzI3NDc1MTYsMTE0NjIwNDQ1OCwtMT
+M4NjI0Njg4XX0=
 -->
