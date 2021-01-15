@@ -22,7 +22,7 @@ $$i: \textit{Diff}_{std} \hookrightarrow \textit{Diff}_0.$$
 
 **Proposition 4.** $\textit{Diff}_0$ is path-connected.
 
-**Proof.** Suppose $\phi_0, \phi_1:S^3 \rightarrow S^3$ are diffeomorphisms in $\textit{Diff}_0$. 
+**Proof.** Suppose $\phi_0, \phi_1:S^3 \rightarrow S^3$ are diffeomorphisms in $\textit{Diff}_0$. By Smale's result, there is an isotopy $\phi_t$
 
 ---
 
@@ -31,6 +31,6 @@ $$i: \textit{Diff}_{std} \hookrightarrow \textit{Diff}_0.$$
 
 Other than $S^3$?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTAyMzgxOSwxMTQ2MjA0NDU4LC0xMz
-g2MjQ2ODhdfQ==
+eyJoaXN0b3J5IjpbLTE4NDAyMDYyMzMsMTE0NjIwNDQ1OCwtMT
+M4NjI0Njg4XX0=
 -->
