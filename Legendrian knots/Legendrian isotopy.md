@@ -12,7 +12,7 @@ This theorem can be derived from the following theorem.
 
 ---
 
-We need some preparation to prove Theorem 2. Let $\textit{Diff}_{std}$
+We need some preparation to prove Theorem 2. Let $\textit{Diff}_{std}$ be the group of contactomorphisms of $(S^3, \xi_{std})$ and $\textit{Diff}_p$ be the group of diffeomorphisms fixing $\xi_{std}(p)$, i.e. $\phi^*
 
 ---
 
@@ -27,6 +27,6 @@ We need some preparation to prove Theorem 2. Let $\textit{Diff}_{std}$
 
 Other than $S^3$?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzI3NDc1MTYsMTE0NjIwNDQ1OCwtMT
-M4NjI0Njg4XX0=
+eyJoaXN0b3J5IjpbNTIzNDUxNjYwLDExNDYyMDQ0NTgsLTEzOD
+YyNDY4OF19
 -->
