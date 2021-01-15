@@ -22,7 +22,7 @@ $$i: \textit{Diff}_{std} \hookrightarrow \textit{Diff}_0.$$
 
 **Proposition 4.** $\textit{Diff}_0$ is path-connected.
 
-**Proof.** Let $phi_0
+**Proof.** Let $\phi_0, \phi_1:S^3 \rightarrow S^3$ be 
 
 ---
 
@@ -31,6 +31,6 @@ $$i: \textit{Diff}_{std} \hookrightarrow \textit{Diff}_0.$$
 
 Other than $S^3$?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjU2MTQwMywxMTQ2MjA0NDU4LC0xMz
+eyJoaXN0b3J5IjpbMTQzNTMwNTUyNiwxMTQ2MjA0NDU4LC0xMz
 g2MjQ2ODhdfQ==
 -->
