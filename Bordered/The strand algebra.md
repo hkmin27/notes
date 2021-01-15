@@ -21,7 +21,7 @@ Let $\mathcal{Z} = (Z, a, M)$ be a rank k arc diagram. If $s\subset\{1,...,k\}$,
 $$I_s=\sum_{S \text{ a section of } s} I(S),$$obtained by summing over all idempotents $I(S) = (S,S,id_S) \in \mathcal{A}'(Z,a)$ associated to sections of $s$
 
 ---
-**Definition.** The ground ring $\mathcal{I}(\mathcal{Z})$ associated to the arc diagram $\mathcal{Z}=(Z,a,M)$ is the rank $2^k$ subalgebra of $\mathcal{A}'(Z,a)$ spanned by the idempotents $\{I_s | s \subset \{1,...,k\}\}$.
+**Definition.** The ground ring $\mathcal{I}(\mathcal{Z})$ associated to the arc diagram $\mathcal{Z}=(Z,a,M)$ is the rank $2^k$ subalgebra of $\mathcal{A}'(Z,a)$ spanned by the idempotents $\{I_s \mid s \subset \{1,...,k\}\}$.
 
 ---
 
@@ -44,7 +44,7 @@ It is generated over $\mathbb{F}$ by $I \in \mathcal{I}(\mathcal{Z})$ and $I\cdo
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDQzMjA5LC0xNTc0NTQ2NDY0LC0xOD
-UyODAyMDgsODM1NzQ5MDI0LC0xNTQxNDMyNDg0LC0yNjQ0NDkz
-ODksMTM4NzU0MDYyOSwzNDU0NDg5NDJdfQ==
+eyJoaXN0b3J5IjpbMTkwMDA4Mjk2NSwtMTU3NDU0NjQ2NCwtMT
+g1MjgwMjA4LDgzNTc0OTAyNCwtMTU0MTQzMjQ4NCwtMjY0NDQ5
+Mzg5LDEzODc1NDA2MjksMzQ1NDQ4OTQyXX0=
 -->
