@@ -8,7 +8,7 @@ This theorem follows from
 
 ---
 
-**Theorem 2.**  For compact subsets $S$ and $S'$ in $(S^3, \xi_{std})$, there is a contact isotopy 
+**Theorem 2.**  For compact subsets $S$ and $S'$ in $(S^3, \xi_{std})$, there is a contact isotopy $\phi_t$ sending $S$ to $S'$ if and only if 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njc1MzU2OV19
+eyJoaXN0b3J5IjpbLTE1MjUxNDAyMDBdfQ==
 -->
