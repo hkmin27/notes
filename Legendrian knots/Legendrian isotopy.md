@@ -12,6 +12,8 @@ This theorem can be derived from the following theorem.
 
 ---
 
+We need some preparation to prove Theorem 2.
+
 ---
 
 **Theorem 3. (Eliashberg)** 
@@ -21,6 +23,9 @@ This theorem can be derived from the following theorem.
 ---
 
 **Proof of Theorem 2.** 
+
+
+Other than $S^3$?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA1MzY4NjIsLTEzODYyNDY4OF19
+eyJoaXN0b3J5IjpbMTE0NjIwNDQ1OCwtMTM4NjI0Njg4XX0=
 -->
