@@ -46,9 +46,9 @@ It is generated over $\mathbb{F}$ by $I \in \mathcal{I}(\mathcal{Z})$ and $I\cdo
 
 **Alternative description: Reeb chords**
 
-Given an arc diagram $(\mathcal{Z},a,M)$. A Reeb chord or $\m
+Given an arc diagram $(\mathcal{Z},a,M)$. A Reeb chord or $\mathcal{Z}$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTM1MzA3MTYsLTEyNjU3MzUzNzEsMT
+eyJoaXN0b3J5IjpbLTE3ODY2NTk2NjUsLTEyNjU3MzUzNzEsMT
 kwMDA4Mjk2NSwtMTU3NDU0NjQ2NCwtMTg1MjgwMjA4LDgzNTc0
 OTAyNCwtMTU0MTQzMjQ4NCwtMjY0NDQ5Mzg5LDEzODc1NDA2Mj
 ksMzQ1NDQ4OTQyXX0=
