@@ -49,9 +49,9 @@ It is generated over $\mathbb{F}$ by $I \in \mathcal{I}(\mathcal{Z})$ and $I\cdo
 Given an arc diagram $(\mathcal{Z},a,M)$, a Reeb chord of $\mathcal{Z}$ is a positively oriented interval with endpoints in $a$. 
 Let $\rho = \{\rho_1, ..., \rho_n\}$ be a collection of Reeb chords and $\rho^\pm = \{\rho^\pm_1, ..., \rho^\pm_n\}$ the beginning(-) and endpoints(+) of the Reeb chords. 
 
-**Definition.** Let $(\mathcal{Z},a,M)$ be an arc diagram with $|a| = 2k$. A collection of Reeb chords $\rho = \{\rho_1, ..., \rho_n\}$ is called $i$-compati
+**Definition.** Let $(\mathcal{Z},a,M)$ be an arc diagram with $|a| = 2k$. A collection of Reeb chords $\rho = \{\rho_1, ..., \rho_n\}$ is called $i$-compatible if none 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0ODI1MjQ1LDk4NzU2MTAyMCwtMTI2NT
+eyJoaXN0b3J5IjpbNDgyNTk0NTc5LDk4NzU2MTAyMCwtMTI2NT
 czNTM3MSwxOTAwMDgyOTY1LC0xNTc0NTQ2NDY0LC0xODUyODAy
 MDgsODM1NzQ5MDI0LC0xNTQxNDMyNDg0LC0yNjQ0NDkzODksMT
 M4NzU0MDYyOSwzNDU0NDg5NDJdfQ==
