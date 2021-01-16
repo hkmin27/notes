@@ -54,9 +54,10 @@ Let $\rho = \{\rho_1, ..., \rho_n\}$ be a collection of Reeb chords and $\rho^\p
 
 ---
 
+If $\rho$ is an $i$-compatible collection of Reeb chords and $s$ is an $i$-completion
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTcyMTg1NzQsOTg3NTYxMDIwLC0xMj
-Y1NzM1MzcxLDE5MDAwODI5NjUsLTE1NzQ1NDY0NjQsLTE4NTI4
-MDIwOCw4MzU3NDkwMjQsLTE1NDE0MzI0ODQsLTI2NDQ0OTM4OS
-wxMzg3NTQwNjI5LDM0NTQ0ODk0Ml19
+eyJoaXN0b3J5IjpbLTY3ODk5NjIwMCw5ODc1NjEwMjAsLTEyNj
+U3MzUzNzEsMTkwMDA4Mjk2NSwtMTU3NDU0NjQ2NCwtMTg1Mjgw
+MjA4LDgzNTc0OTAyNCwtMTU0MTQzMjQ4NCwtMjY0NDQ5Mzg5LD
+EzODc1NDA2MjksMzQ1NDQ4OTQyXX0=
 -->
