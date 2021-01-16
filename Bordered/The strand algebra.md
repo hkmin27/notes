@@ -48,9 +48,11 @@ It is generated over $\mathbb{F}$ by $I \in \mathcal{I}(\mathcal{Z})$ and $I\cdo
 
 Given an arc diagram $(\mathcal{Z},a,M)$, a Reeb chord of $\mathcal{Z}$ is a positively oriented interval with endpoints in $a$. 
 Let $\rho = \{\rho_1, ..., \rho_n\}$ be a collection of Reeb chords and $\rho^\pm = \{\rho^\pm_1, ..., \rho^\pm_n\}$ the beginning(-) and endpoints(+) of the Reeb chords. 
+
+**Definition.** Let $(\mathcal{Z},a,M)$ be an 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3NTYxMDIwLC0xMjY1NzM1MzcxLDE5MD
-AwODI5NjUsLTE1NzQ1NDY0NjQsLTE4NTI4MDIwOCw4MzU3NDkw
-MjQsLTE1NDE0MzI0ODQsLTI2NDQ0OTM4OSwxMzg3NTQwNjI5LD
-M0NTQ0ODk0Ml19
+eyJoaXN0b3J5IjpbLTE2NzgxNDYyNzUsOTg3NTYxMDIwLC0xMj
+Y1NzM1MzcxLDE5MDAwODI5NjUsLTE1NzQ1NDY0NjQsLTE4NTI4
+MDIwOCw4MzU3NDkwMjQsLTE1NDE0MzI0ODQsLTI2NDQ0OTM4OS
+wxMzg3NTQwNjI5LDM0NTQ0ODk0Ml19
 -->
