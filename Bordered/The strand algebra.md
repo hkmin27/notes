@@ -57,8 +57,10 @@ Let $\rho = \{\rho_1, ..., \rho_n\}$ be a collection of Reeb chords and $\rho^\p
 If $\rho$ is an $i$-compatible collection of Reeb chords and $s$ is an $i$-completion, then 
 
 $$a(\rho,s) = \sum_{S \text{ is a section in } s}(\rho^-\cup S, \rho^+ \cup S, \phi_S)$$
+
+$\mathcal{A}(\mathcal{Z},i)$ is generated over ${\mathcal{i\mathcal{Z}}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzU5MjY5Miw5ODc1NjEwMjAsLTEyNj
+eyJoaXN0b3J5IjpbMTEwMzE5NjI0Niw5ODc1NjEwMjAsLTEyNj
 U3MzUzNzEsMTkwMDA4Mjk2NSwtMTU3NDU0NjQ2NCwtMTg1Mjgw
 MjA4LDgzNTc0OTAyNCwtMTU0MTQzMjQ4NCwtMjY0NDQ5Mzg5LD
 EzODc1NDA2MjksMzQ1NDQ4OTQyXX0=
