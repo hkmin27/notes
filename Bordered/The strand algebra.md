@@ -47,9 +47,9 @@ It is generated over $\mathbb{F}$ by $I \in \mathcal{I}(\mathcal{Z})$ and $I\cdo
 **Alternative description: Reeb chords**
 
 Given an arc diagram $(\mathcal{Z},a,M)$, a Reeb chord of $\mathcal{Z}$ is a positively oriented interval with endpoints in $a$. 
-Let $
+Let $\rho = \{\rho_1, ..., \rho_n\}$ be a collection of Reeb chords. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTQ4NTk5MCwtMTI2NTczNTM3MSwxOT
+eyJoaXN0b3J5IjpbLTk1ODExMTI3NywtMTI2NTczNTM3MSwxOT
 AwMDgyOTY1LC0xNTc0NTQ2NDY0LC0xODUyODAyMDgsODM1NzQ5
 MDI0LC0xNTQxNDMyNDg0LC0yNjQ0NDkzODksMTM4NzU0MDYyOS
 wzNDU0NDg5NDJdfQ==
