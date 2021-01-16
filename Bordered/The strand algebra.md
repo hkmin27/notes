@@ -46,10 +46,10 @@ It is generated over $\mathbb{F}$ by $I \in \mathcal{I}(\mathcal{Z})$ and $I\cdo
 
 **Alternative description: Reeb chords**
 
-Given an arc diagram $(\mathcal{Z},a,M)$. A Reeb chord of $\mathcal{Z}$ is a positively oriented interval with e
+Given an arc diagram $(\mathcal{Z},a,M)$, a Reeb chord of $\mathcal{Z}$ is a positively oriented interval with endpoints in $a$.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExMzA4NjAsLTEyNjU3MzUzNzEsMTkwMD
-A4Mjk2NSwtMTU3NDU0NjQ2NCwtMTg1MjgwMjA4LDgzNTc0OTAy
-NCwtMTU0MTQzMjQ4NCwtMjY0NDQ5Mzg5LDEzODc1NDA2MjksMz
-Q1NDQ4OTQyXX0=
+eyJoaXN0b3J5IjpbMjI0ODYyMjkxLC0xMjY1NzM1MzcxLDE5MD
+AwODI5NjUsLTE1NzQ1NDY0NjQsLTE4NTI4MDIwOCw4MzU3NDkw
+MjQsLTE1NDE0MzI0ODQsLTI2NDQ0OTM4OSwxMzg3NTQwNjI5LD
+M0NTQ0ODk0Ml19
 -->
